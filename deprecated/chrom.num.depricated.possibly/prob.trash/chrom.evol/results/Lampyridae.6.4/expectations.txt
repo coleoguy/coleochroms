@@ -1,0 +1,66 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+Total number of gain events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+POLALA_Cryptolestes_sp: 1
+N4: 1
+Total number of loss events: 2
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POLALA_Cryptolestes_sp	0	1	0	0
+N2	0	0	0	0
+N3	0	0	0	0
+POLALU_Luciola_lateralis	0	0	0	0
+POLALU_Luciola_cruciata	0	0	0	0
+N4	0	1	0	0
+N5	0	0	0	0
+POLAPH_Bicellonycha_sp	0	0	0	0
+POLAPH_Photuris_sp	0	0	0	0
+N6	0	0	0	0
+POLALA_Lucidota_sp	0	0	0	0
+N7	0	0	0	0
+N8	0	0	0	0
+N9	0	0	0	0
+POLALA_Photinus_pyralis	0	0	0	0
+N10	0	0	0	0
+POLALA_Ellychnia_corrusca	0	0	0	0
+POLALA_Ellychnia_californica	0	0	0	0
+POLALA_Photinus_australis	0	0	0	0
+N11	0	0	0	0
+POLALA_Aspisoma_sp	0	0	0	0
+N12	0	0	0	0
+POLALA_Pyractomena_borealis	0	0	0	0
+POLALA_Pyractomena_angulata	0	0	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POLALA_Cryptolestes_sp	0	1	0	0
+POLALU_Luciola_lateralis	0	0	0	0
+POLALU_Luciola_cruciata	0	0	0	0
+POLAPH_Bicellonycha_sp	0	1	0	0
+POLAPH_Photuris_sp	0	1	0	0
+POLALA_Lucidota_sp	0	1	0	0
+POLALA_Photinus_pyralis	0	1	0	0
+POLALA_Ellychnia_corrusca	0	1	0	0
+POLALA_Ellychnia_californica	0	1	0	0
+POLALA_Photinus_australis	0	1	0	0
+POLALA_Aspisoma_sp	0	1	0	0
+POLALA_Pyractomena_borealis	0	1	0	0
+POLALA_Pyractomena_angulata	0	1	0	0

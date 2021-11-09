@@ -1,0 +1,144 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+POCUSC_Ips_tridens: 1
+Total number of gain events: 1
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N2: 6
+POCUSC_Ips_spinifer: 4
+POCUSC_Ips_latidens: 4
+N4: 2
+POCUSC_Ips_sexdentatus: 7
+N5: 6
+POCUSC_Ips_emarginatus: 2
+POCUSC_Ips_knausi: 2
+N8: 2
+N9: 1
+N10: 2
+POCUSC_Ips_montanus: 5
+POCUSC_Ips_paraconfusus: 1
+N12: 1
+POCUSC_Ips_confusus: 1
+POCUSC_Ips_hoppingi: 3
+POCUSC_Ips_lecontei: 7
+N13: 2
+POCUSC_Ips_cribricollis: 6
+POCUSC_Ips_calligraphus: 3
+N15: 2
+POCUSC_Ips_perroti: 2
+POCUSC_Ips_typographus: 8
+N17: 2
+POCUSC_Ips_bonanseai: 7
+N18: 1
+POCUSC_Ips_pini: 5
+N19: 1
+POCUSC_Ips_avulsus: 2
+N20: 4
+POCUSC_Ips_plastographus: 2
+POCUSC_Ips_integer: 2
+N22: 2
+N23: 3
+POCUSC_Ips_hunteri: 3
+N24: 4
+POCUSC_Ips_borealis: 1
+POCUSC_Ips_pilifrons: 1
+POCUSC_Ips_woodi: 7
+POCUSC_Ips_acuminatus: 10
+Total number of loss events: 136
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0	6	0	0
+POCUSC_Ips_spinifer	0	4	0	0
+POCUSC_Ips_latidens	0	4	0	0
+N3	0	0	0	0
+N4	0	2	0	0
+POCUSC_Ips_sexdentatus	0	7	0	0
+N5	0	6	0	0
+POCUSC_Ips_emarginatus	0	2	0	0
+POCUSC_Ips_knausi	0	2	0	0
+N6	0	0	0	0
+N7	0	0	0	0
+N8	0	2	0	0
+N9	0	1	0	0
+N10	0	2	0	0
+POCUSC_Ips_montanus	0	5	0	0
+N11	0	0	0	0
+POCUSC_Ips_paraconfusus	0	1	0	0
+N12	0	1	0	0
+POCUSC_Ips_confusus	0	1	0	0
+POCUSC_Ips_hoppingi	0	3	0	0
+POCUSC_Ips_lecontei	0	7	0	0
+N13	0	2	0	0
+POCUSC_Ips_cribricollis	0	6	0	0
+POCUSC_Ips_calligraphus	0	3	0	0
+N14	0	0	0	0
+N15	0	2	0	0
+POCUSC_Ips_perroti	0	2	0	0
+POCUSC_Ips_typographus	0	8	0	0
+N16	0	0	0	0
+N17	0	2	0	0
+POCUSC_Ips_bonanseai	0	7	0	0
+N18	0	1	0	0
+POCUSC_Ips_pini	0	5	0	0
+N19	0	1	0	0
+POCUSC_Ips_avulsus	0	2	0	0
+N20	0	4	0	0
+POCUSC_Ips_plastographus	0	2	0	0
+POCUSC_Ips_integer	0	2	0	0
+N21	0	0	0	0
+N22	0	2	0	0
+N23	0	3	0	0
+POCUSC_Ips_perturbatus	0	0	0	0
+POCUSC_Ips_hunteri	0	3	0	0
+N24	0	4	0	0
+N25	0	0	0	0
+POCUSC_Ips_tridens	1	0	0	0
+POCUSC_Ips_borealis	0	1	0	0
+POCUSC_Ips_pilifrons	0	1	0	0
+POCUSC_Ips_woodi	0	7	0	0
+POCUSC_Ips_acuminatus	0	10	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCUSC_Ips_spinifer	0	10	0	0
+POCUSC_Ips_latidens	0	10	0	0
+POCUSC_Ips_sexdentatus	0	9	0	0
+POCUSC_Ips_emarginatus	0	10	0	0
+POCUSC_Ips_knausi	0	10	0	0
+POCUSC_Ips_montanus	0	10	0	0
+POCUSC_Ips_paraconfusus	0	6	0	0
+POCUSC_Ips_confusus	0	7	0	0
+POCUSC_Ips_hoppingi	0	9	0	0
+POCUSC_Ips_lecontei	0	10	0	0
+POCUSC_Ips_cribricollis	0	10	0	0
+POCUSC_Ips_calligraphus	0	7	0	0
+POCUSC_Ips_perroti	0	4	0	0
+POCUSC_Ips_typographus	0	10	0	0
+POCUSC_Ips_bonanseai	0	9	0	0
+POCUSC_Ips_pini	0	8	0	0
+POCUSC_Ips_avulsus	0	6	0	0
+POCUSC_Ips_plastographus	0	10	0	0
+POCUSC_Ips_integer	0	10	0	0
+POCUSC_Ips_perturbatus	0	5	0	0
+POCUSC_Ips_hunteri	0	8	0	0
+POCUSC_Ips_tridens	1	6	0	0
+POCUSC_Ips_borealis	0	7	0	0
+POCUSC_Ips_pilifrons	0	7	0	0
+POCUSC_Ips_woodi	0	7	0	0
+POCUSC_Ips_acuminatus	0	10	0	0

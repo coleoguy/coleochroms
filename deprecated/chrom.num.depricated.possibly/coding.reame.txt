@@ -1,0 +1,23 @@
+coding of dispersal power coded as in phytools and diversitree with tips states
+represented by a probability matrix with each row summing to one.
+
+if data available for species coded directly
+macopterous 1,0 
+submacopterous = .5,.5
+brachyopterous 0,1 
+
+in cases where no data was available for species on the tree but (multiple) other
+species in the same genus were available in the dispersal dataset the 
+proportions in the dispersal data set were used to set probabilities for 
+all tips in that group. for instance: 
+Amara sp1 macopterous
+Amara sp2 macopterous
+Amara sp3 macopterous
+Amara sp7 brachyopterous
+
+leads to a tip state annotation of:
+Amara sp2 1, 0
+Amara sp5 .75, .25
+Amara sp6 .75, .25
+Amara sp7 0, 1
+Amara sp8 .75, .25

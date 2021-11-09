@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir simmed.data/results/Cerambycidae.7.1
+_dataFile simmed.data/Cerambycidae.7.1.txt
+_treeFile Cerambycidae/Cerambycidae7.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

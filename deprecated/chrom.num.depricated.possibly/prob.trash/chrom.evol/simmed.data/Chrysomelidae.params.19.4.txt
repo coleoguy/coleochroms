@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir simmed.data/results/Chrysomelidae.19.4
+_dataFile simmed.data/Chrysomelidae.19.4.txt
+_treeFile Chrysomelidae/Chrysomelidae19.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

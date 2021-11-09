@@ -1,0 +1,132 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+POCHCH_Timarcha_intricata: 3
+N2: 1
+POCHCH_Timarcha_metallica: 8
+POCHCH_Timarcha_insparsa: 1
+POCHCH_Timarcha_balearica: 3
+POCHCH_Timarcha_tenebricosa: 3
+POCHCH_Timarcha_marginicollis: 1
+POCHCH_Timarcha_lugens: 2
+POCHCH_Timarcha_strangulata: 2
+POCHCH_Timarcha_intermedia: 1
+N15: 1
+POCHCH_Timarcha_granadensis: 3
+POCHCH_Timarcha_goettingensis: 6
+POCHCH_Timarcha_recticollis: 1
+POCHCH_Timarcha_aurichalcea: 1
+POCHCH_Timarcha_cyanescens: 2
+POCHCH_Timarcha_hispanica: 2
+Total number of gain events: 41
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+Total number of loss events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCHCH_Timarcha_intricata	3	0	0	0
+N2	1	0	0	0
+POCHCH_Timarcha_metallica	8	0	0	0
+N3	0	0	0	0
+N4	0	0	0	0
+N5	0	0	0	0
+POCHCH_Timarcha_insparsa	1	0	0	0
+POCHCH_Timarcha_balearica	3	0	0	0
+N6	0	0	0	0
+POCHCH_Timarcha_pimelioides	0	0	0	0
+POCHCH_Timarcha_tenebricosa	3	0	0	0
+N7	0	0	0	0
+N8	0	0	0	0
+N9	0	0	0	0
+N10	0	0	0	0
+POCHCH_Timarcha_marginicollis	1	0	0	0
+POCHCH_Timarcha_calceata	0	0	0	0
+POCHCH_Timarcha_lugens	2	0	0	0
+N11	0	0	0	0
+N12	0	0	0	0
+POCHCH_Timarcha_scabripennis	0	0	0	0
+POCHCH_Timarcha_strangulata	2	0	0	0
+N13	0	0	0	0
+POCHCH_Timarcha_intermedia	1	0	0	0
+N14	0	0	0	0
+POCHCH_Timarcha_espanoli	0	0	0	0
+N15	1	0	0	0
+POCHCH_Timarcha_rugosa	0	0	0	0
+POCHCH_Timarcha_ventricosa	0	0	0	0
+N16	0	0	0	0
+POCHCH_Timarcha_granadensis	3	0	0	0
+N17	0	0	0	0
+N18	0	0	0	0
+POCHCH_Timarcha_goettingensis	6	0	0	0
+N19	0	0	0	0
+N20	0	0	0	0
+N21	0	0	0	0
+N22	0	0	0	0
+POCHCH_Timarcha_maritima	0	0	0	0
+POCHCH_Timarcha_interstitialis	0	0	0	0
+POCHCH_Timarcha_sinuaticollis	0	0	0	0
+POCHCH_Timarcha_recticollis	1	0	0	0
+POCHCH_Timarcha_cornuta	0	0	0	0
+N23	0	0	0	0
+N24	0	0	0	0
+N25	0	0	0	0
+POCHCH_Timarcha_aurichalcea	1	0	0	0
+POCHCH_Timarcha_fallax	0	0	0	0
+N26	0	0	0	0
+N27	0	0	0	0
+POCHCH_Timarcha_gougeleti	0	0	0	0
+N28	0	0	0	0
+POCHCH_Timarcha_cyanescens	2	0	0	0
+N29	0	0	0	0
+POCHCH_Timarcha_geniculata	0	0	0	0
+POCHCH_Timarcha_perezi	0	0	0	0
+POCHCH_Timarcha_montserratensis	0	0	0	0
+POCHCH_Timarcha_hispanica	2	0	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCHCH_Timarcha_intricata	3	0	0	0
+POCHCH_Timarcha_metallica	9	0	0	0
+POCHCH_Timarcha_insparsa	2	0	0	0
+POCHCH_Timarcha_balearica	4	0	0	0
+POCHCH_Timarcha_pimelioides	1	0	0	0
+POCHCH_Timarcha_tenebricosa	4	0	0	0
+POCHCH_Timarcha_marginicollis	2	0	0	0
+POCHCH_Timarcha_calceata	1	0	0	0
+POCHCH_Timarcha_lugens	3	0	0	0
+POCHCH_Timarcha_scabripennis	1	0	0	0
+POCHCH_Timarcha_strangulata	3	0	0	0
+POCHCH_Timarcha_intermedia	2	0	0	0
+POCHCH_Timarcha_espanoli	1	0	0	0
+POCHCH_Timarcha_rugosa	2	0	0	0
+POCHCH_Timarcha_ventricosa	2	0	0	0
+POCHCH_Timarcha_granadensis	4	0	0	0
+POCHCH_Timarcha_goettingensis	7	0	0	0
+POCHCH_Timarcha_maritima	1	0	0	0
+POCHCH_Timarcha_interstitialis	1	0	0	0
+POCHCH_Timarcha_sinuaticollis	1	0	0	0
+POCHCH_Timarcha_recticollis	2	0	0	0
+POCHCH_Timarcha_cornuta	1	0	0	0
+POCHCH_Timarcha_aurichalcea	2	0	0	0
+POCHCH_Timarcha_fallax	1	0	0	0
+POCHCH_Timarcha_gougeleti	1	0	0	0
+POCHCH_Timarcha_cyanescens	3	0	0	0
+POCHCH_Timarcha_geniculata	1	0	0	0
+POCHCH_Timarcha_perezi	1	0	0	0
+POCHCH_Timarcha_montserratensis	1	0	0	0
+POCHCH_Timarcha_hispanica	3	0	0	0

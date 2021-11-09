@@ -1,0 +1,561 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+POCUBR_Notaris_sp: 7
+POCUDR_Cosmopolites_sordidus: 4
+POCUDR_Rhynchophorus_ferrugineus: 5
+POCUDR_Diocalandra_sp: 1
+N7: 2
+N8: 7
+N9: 4
+POCUER_Tanysphyrus_lemnae: 2
+POCUER_Procas_sp: 3
+N14: 4
+POCUMO_Acalles_camelus: 4
+POCUMO_Acalles_echinatus: 2
+N15: 1
+POCUCE_Zacladus_geranii: 3
+N16: 7
+POCUCE_Rhinoncus_sp: 2
+POCUCE_Nedyus_quadrimaculatus: 5
+POCUCU_Cionus_sp: 2
+POCUMO_Adexius_scrobipennis: 1
+POCUMO_Ruteria_hypocrita: 4
+POCUTY_Tychius_sp: 9
+POCUSC_Scolytus_sp: 3
+POCUBA_Metialma_sp: 4
+POCUSC_Ips_latidens: 2
+POCUSC_Ips_spinifer: 4
+POCUSC_Orthotomicus_laricis: 11
+N28: 2
+POCUSC_Orthotomicus_erosus: 5
+POCUSC_Pityogenes_chalcographus: 4
+POCUSC_Ips_acuminatus: 4
+N31: 2
+POCUSC_Ips_sexdentatus: 2
+N32: 5
+POCUSC_Ips_emarginatus: 1
+POCUSC_Ips_knausi: 3
+N34: 3
+N35: 3
+N37: 4
+N38: 8
+POCUSC_Ips_confusus: 1
+POCUSC_Ips_hoppingi: 7
+POCUSC_Ips_lecontei: 15
+N39: 3
+POCUSC_Ips_calligraphus: 7
+N42: 1
+POCUSC_Orthotomicus_caelatus: 5
+POCUSC_Ips_typographus: 4
+N45: 5
+N47: 1
+POCUSC_Ips_tridens: 1
+POCUSC_Ips_woodi: 3
+N52: 2
+POCUSC_Ips_plastographus: 2
+POCUSC_Orthotomicus_suturalis: 3
+POCUSC_Ips_pini: 2
+POCUSC_Ips_avulsus: 5
+POCUSC_Ips_bonanseai: 6
+POCUSC_Pityogenes_hopkinsi_M: 5
+POCUSC_Xylosandrus_germanus: 1
+POCUSC_Xylosandrus_compactus: 2
+POCUSC_Xyleborus_sp: 7
+N57: 7
+POCUSC_Dryocoetes_affaber: 1
+POCUSC_Dryocoetes_autographus: 2
+POCUCO_Telephae_sp: 2
+POCUSC_Cryphalus_abietis: 4
+N65: 3
+POCUMO_Lepyrus_sp: 4
+POCUSC_Trypodendron_lineatum: 5
+POCUSC_Hylurgops_sp: 9
+POCUSC_Hylastes_sp: 1
+N69: 8
+POCUSC_Dendroctonus_pseudotsugae: 6
+N72: 4
+POCUSC_Dendroctonus_jeffreyi: 4
+POCUSC_Dendroctonus_ponderosae: 1
+POCUSC_Dendroctonus_frontalis: 4
+N74: 3
+POCUSC_Dendroctonus_adjunctus: 1
+N75: 3
+POCUSC_Dendroctonus_approximatus: 5
+POCUSC_Dendroctonus_brevicomis: 1
+N76: 3
+N77: 3
+N78: 4
+POCUSC_Dendroctonus_murrayanae: 3
+POCUSC_Dendroctonus_terebrans: 2
+N81: 1
+POCUCU_Rhynchaenus_sp: 7
+POCUSC_Crypturgus_pusillus: 4
+POCUSC_Polygraphus_grandiclava: 1
+POCUCU_Anthonomus_sp: 1
+N84: 5
+POCUSC_Polygraphus_poligraphus_M: 4
+N87: 6
+POCUMO_Pissodes_schwarzi_M: 7
+POCUMO_Pissodes_strobi: 3
+POCUMO_Pissodes_nemorensis: 1
+N90: 2
+N93: 6
+POCUEN_Scepticus_insularis: 1
+POCUCU_Curculio_dentipes: 2
+N95: 1
+POCUCU_Curculio_nucum_M: 4
+POCUCU_Dorytomus_sp: 3
+POCUMO_Magdalis_sp: 2
+N97: 2
+POCUEN_Otiorhynchus_armadillo: 5
+POCUEN_Dyslobus_sp: 2
+POCUEN_Sitona_hispidulus: 3
+N106: 1
+POCUEN_Naupactus_xanthographus: 1
+POCUCU_Gymnetron_tetrum: 4
+POCUCE_Phytobius_sp: 2
+N107: 3
+POCUMO_Pachylobius_picivorus: 1
+N108: 3
+N109: 1
+POCUDR_Sitophilus_zeamais: 6
+N111: 1
+POCUEN_Brachyderes_incanus: 9
+POCUEN_Strophosoma_melanogrammum: 3
+POCUEN_Chlorophanus_sp: 3
+POCUEN_Sitona_lineatus: 2
+N115: 5
+POCUCL_Cleonus_sp: 2
+N116: 1
+POCUMO_Lixus_sp: 2
+POCUEN_Foucartia_squamulata: 1
+N117: 3
+N118: 3
+POCUEN_Bothrometopus_sp: 8
+N119: 3
+N120: 5
+N121: 1
+POCUEN_Polydrusus_mollis_M: 2
+N123: 5
+N124: 3
+POCUEN_Hypomeces_squamosus: 1
+POCUEN_Sympiezomias_cribricollis: 2
+POCUEN_Liophloeus_tessulatus: 6
+POCUEN_Phyllobius_argentatus: 2
+Total number of gain events: 498
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+POCUSC_Ips_paraconfusus: 7
+POCUSC_Ips_montanus: 2
+POCUSC_Ips_cribricollis: 3
+POCUSC_Phloeotribus_sp: 2
+POCUSC_Dendroctonus_simplex: 1
+POCUEN_Tanymecus_sp: 1
+N89: 2
+POCUBA_Limnobaris_sp: 2
+POCUEN_Scepticus_griseus: 1
+N98: 2
+POCUDR_Sitophilus_granarius: 1
+POCUEN_Barypeithes_sp: 1
+POCUEN_Phyllobius_pyri: 3
+Total number of loss events: 28
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0	0	0	0
+N3	0	0	0	0
+POCUBR_Notaris_sp	7	0	0	0
+N4	0	0	0	0
+N5	0	0	0	0
+POCUDR_Cosmopolites_sordidus	4	0	0	0
+POCUDR_Rhynchophorus_ferrugineus	5	0	0	0
+N6	0	0	0	0
+POCUDR_Diocalandra_sp	1	0	0	0
+N7	2	0	0	0
+POCUDR_Sphenophorus_sp	0	0	0	0
+POCUDR_Metamasius_hemipterus	0	0	0	0
+N8	7	0	0	0
+N9	4	0	0	0
+POCUBR_Echinocnemus_sp	0	0	0	0
+POCUER_Tanysphyrus_lemnae	2	0	0	0
+POCUER_Procas_sp	3	0	0	0
+N10	0	0	0	0
+N11	0	0	0	0
+N12	0	0	0	0
+N13	0	0	0	0
+N14	4	0	0	0
+POCUMO_Acalles_camelus	4	0	0	0
+POCUMO_Acalles_echinatus	2	0	0	0
+N15	1	0	0	0
+POCUCE_Zacladus_geranii	3	0	0	0
+N16	7	0	0	0
+POCUCE_Rhinoncus_sp	2	0	0	0
+POCUCE_Nedyus_quadrimaculatus	5	0	0	0
+N17	0	0	0	0
+N18	0	0	0	0
+N19	0	0	0	0
+POCUCU_Cionus_sp	2	0	0	0
+POCUMO_Adexius_scrobipennis	1	0	0	0
+POCUMO_Ruteria_hypocrita	4	0	0	0
+N20	0	0	0	0
+POCUTY_Tychius_sp	9	0	0	0
+N21	0	0	0	0
+POCUSC_Scolytus_sp	3	0	0	0
+POCUBA_Metialma_sp	4	0	0	0
+N22	0	0	0	0
+N23	0	0	0	0
+N24	0	0	0	0
+N25	0	0	0	0
+N26	0	0	0	0
+N27	0	0	0	0
+POCUSC_Ips_latidens	2	0	0	0
+POCUSC_Ips_spinifer	4	0	0	0
+POCUSC_Orthotomicus_laricis	11	0	0	0
+N28	2	0	0	0
+POCUSC_Orthotomicus_erosus	5	0	0	0
+POCUSC_Pityogenes_chalcographus	4	0	0	0
+N29	0	0	0	0
+N30	0	0	0	0
+POCUSC_Ips_acuminatus	4	0	0	0
+N31	2	0	0	0
+POCUSC_Ips_sexdentatus	2	0	0	0
+N32	5	0	0	0
+POCUSC_Ips_emarginatus	1	0	0	0
+POCUSC_Ips_knausi	3	0	0	0
+N33	0	0	0	0
+N34	3	0	0	0
+N35	3	0	0	0
+N36	0	0	0	0
+N37	4	0	0	0
+POCUSC_Ips_paraconfusus	0	7	0	0
+N38	8	0	0	0
+POCUSC_Ips_confusus	1	0	0	0
+POCUSC_Ips_hoppingi	7	0	0	0
+POCUSC_Ips_montanus	0	2	0	0
+POCUSC_Ips_lecontei	15	0	0	0
+N39	3	0	0	0
+POCUSC_Ips_cribricollis	0	3	0	0
+POCUSC_Ips_calligraphus	7	0	0	0
+N40	0	0	0	0
+N41	0	0	0	0
+N42	1	0	0	0
+POCUSC_Orthotomicus_caelatus	5	0	0	0
+POCUSC_Ips_perroti	0	0	0	0
+POCUSC_Ips_typographus	4	0	0	0
+N43	0	0	0	0
+N44	0	0	0	0
+N45	5	0	0	0
+N46	0	0	0	0
+POCUSC_Ips_perturbatus	0	0	0	0
+POCUSC_Ips_hunteri	0	0	0	0
+N47	1	0	0	0
+POCUSC_Ips_pilifrons	0	0	0	0
+N48	0	0	0	0
+POCUSC_Ips_borealis	0	0	0	0
+POCUSC_Ips_tridens	1	0	0	0
+POCUSC_Ips_woodi	3	0	0	0
+N49	0	0	0	0
+N50	0	0	0	0
+N51	0	0	0	0
+N52	2	0	0	0
+POCUSC_Ips_plastographus	2	0	0	0
+POCUSC_Ips_integer	0	0	0	0
+POCUSC_Orthotomicus_suturalis	3	0	0	0
+N53	0	0	0	0
+POCUSC_Ips_pini	2	0	0	0
+POCUSC_Ips_avulsus	5	0	0	0
+POCUSC_Ips_bonanseai	6	0	0	0
+POCUSC_Pityogenes_hopkinsi_M	5	0	0	0
+N54	0	0	0	0
+N55	0	0	0	0
+N56	0	0	0	0
+POCUSC_Xylosandrus_germanus	1	0	0	0
+POCUSC_Xylosandrus_compactus	2	0	0	0
+POCUSC_Xyleborus_sp	7	0	0	0
+N57	7	0	0	0
+POCUSC_Dryocoetes_affaber	1	0	0	0
+POCUSC_Dryocoetes_autographus	2	0	0	0
+N58	0	0	0	0
+N59	0	0	0	0
+N60	0	0	0	0
+N61	0	0	0	0
+N62	0	0	0	0
+N63	0	0	0	0
+POCUCO_Telephae_sp	2	0	0	0
+POCUSC_Cryphalus_abietis	4	0	0	0
+N64	0	0	0	0
+N65	3	0	0	0
+POCUSC_Phloeotribus_sp	0	2	0	0
+POCUMO_Lepyrus_sp	4	0	0	0
+POCUSC_Trypodendron_lineatum	5	0	0	0
+N66	0	0	0	0
+POCUSC_Hylurgops_sp	9	0	0	0
+N67	0	0	0	0
+POCUSC_Hylastes_sp	1	0	0	0
+N68	0	0	0	0
+N69	8	0	0	0
+POCUSC_Dendroctonus_simplex	0	1	0	0
+POCUSC_Dendroctonus_pseudotsugae	6	0	0	0
+N70	0	0	0	0
+N71	0	0	0	0
+N72	4	0	0	0
+POCUSC_Dendroctonus_jeffreyi	4	0	0	0
+POCUSC_Dendroctonus_ponderosae	1	0	0	0
+N73	0	0	0	0
+POCUSC_Dendroctonus_frontalis	4	0	0	0
+N74	3	0	0	0
+POCUSC_Dendroctonus_adjunctus	1	0	0	0
+N75	3	0	0	0
+POCUSC_Dendroctonus_approximatus	5	0	0	0
+POCUSC_Dendroctonus_brevicomis	1	0	0	0
+N76	3	0	0	0
+N77	3	0	0	0
+POCUSC_Dendroctonus_punctatus	0	0	0	0
+N78	4	0	0	0
+POCUSC_Dendroctonus_rufipennis	0	0	0	0
+POCUSC_Dendroctonus_murrayanae	3	0	0	0
+N79	0	0	0	0
+POCUSC_Dendroctonus_valens	0	0	0	0
+POCUSC_Dendroctonus_terebrans	2	0	0	0
+N80	0	0	0	0
+N81	1	0	0	0
+POCUCU_Rhynchaenus_sp	7	0	0	0
+POCUSC_Crypturgus_pusillus	4	0	0	0
+N82	0	0	0	0
+N83	0	0	0	0
+POCUSC_Polygraphus_grandiclava	1	0	0	0
+POCUCU_Anthonomus_sp	1	0	0	0
+N84	5	0	0	0
+POCUEN_Tanymecus_sp	0	1	0	0
+POCUSC_Polygraphus_poligraphus_M	4	0	0	0
+N85	0	0	0	0
+N86	0	0	0	0
+N87	6	0	0	0
+POCUMO_Pissodes_schwarzi_M	7	0	0	0
+N88	0	0	0	0
+POCUMO_Pissodes_strobi	3	0	0	0
+N89	0	2	0	0
+POCUBA_Limnobaris_sp	0	2	0	0
+POCUMO_Pissodes_nemorensis	1	0	0	0
+N90	2	0	0	0
+POCUMO_Hylobius_piceus	0	0	0	0
+POCUMO_Hylobius_abietis	0	0	0	0
+N91	0	0	0	0
+N92	0	0	0	0
+N93	6	0	0	0
+POCUEN_Scepticus_insularis	1	0	0	0
+POCUEN_Scepticus_griseus	0	1	0	0
+N94	0	0	0	0
+POCUCU_Curculio_dentipes	2	0	0	0
+N95	1	0	0	0
+POCUCU_Curculio_nucum_M	4	0	0	0
+POCUCU_Curculio_distinguendus	0	0	0	0
+N96	0	0	0	0
+POCUCU_Dorytomus_sp	3	0	0	0
+POCUMO_Magdalis_sp	2	0	0	0
+N97	2	0	0	0
+N98	0	2	0	0
+N99	0	0	0	0
+N100	0	0	0	0
+POCUEN_Otiorhynchus_armadillo	5	0	0	0
+N101	0	0	0	0
+N102	0	0	0	0
+POCUEN_Dyslobus_sp	2	0	0	0
+N103	0	0	0	0
+POCUEN_Sitona_hispidulus	3	0	0	0
+N104	0	0	0	0
+N105	0	0	0	0
+N106	1	0	0	0
+POCUCU_Gymnetron_antirhini	0	0	0	0
+POCUEN_Naupactus_xanthographus	1	0	0	0
+POCUCU_Gymnetron_tetrum	4	0	0	0
+POCUCE_Phytobius_sp	2	0	0	0
+N107	3	0	0	0
+POCUMO_Pachylobius_picivorus	1	0	0	0
+N108	3	0	0	0
+N109	1	0	0	0
+POCUDR_Sitophilus_granarius	0	1	0	0
+POCUDR_Sitophilus_zeamais	6	0	0	0
+POCUDR_Sitophilus_oryzae	0	0	0	0
+N110	0	0	0	0
+N111	1	0	0	0
+POCUEN_Brachyderes_incanus	9	0	0	0
+N112	0	0	0	0
+POCUEN_Strophosoma_melanogrammum	3	0	0	0
+POCUEN_Strophosoma_capitatum	0	0	0	0
+POCUEN_Chlorophanus_sp	3	0	0	0
+N113	0	0	0	0
+N114	0	0	0	0
+POCUEN_Sitona_lineatus	2	0	0	0
+N115	5	0	0	0
+POCUCL_Cleonus_sp	2	0	0	0
+N116	1	0	0	0
+POCUMO_Larinus_sp	0	0	0	0
+POCUMO_Lixus_sp	2	0	0	0
+POCUEN_Foucartia_squamulata	1	0	0	0
+N117	3	0	0	0
+N118	3	0	0	0
+POCUEN_Bothrometopus_sp	8	0	0	0
+N119	3	0	0	0
+N120	5	0	0	0
+N121	1	0	0	0
+POCUEN_Barypeithes_sp	0	1	0	0
+POCUEN_Polydrusus_mollis_M	2	0	0	0
+N122	0	0	0	0
+N123	5	0	0	0
+POCUEN_Hypera_postica	0	0	0	0
+POCUEN_Hypera_nigrirostris	0	0	0	0
+POCUEN_Eudiagogus_sp	0	0	0	0
+N124	3	0	0	0
+POCUEN_Hypomeces_squamosus	1	0	0	0
+POCUEN_Sympiezomias_cribricollis	2	0	0	0
+N125	0	0	0	0
+POCUEN_Phyllobius_pyri	0	3	0	0
+N126	0	0	0	0
+POCUEN_Liophloeus_tessulatus	6	0	0	0
+POCUEN_Phyllobius_argentatus	2	0	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCUBR_Notaris_sp	7	0	0	0
+POCUDR_Cosmopolites_sordidus	4	0	0	0
+POCUDR_Rhynchophorus_ferrugineus	5	0	0	0
+POCUDR_Diocalandra_sp	1	0	0	0
+POCUDR_Sphenophorus_sp	2	0	0	0
+POCUDR_Metamasius_hemipterus	2	0	0	0
+POCUBR_Echinocnemus_sp	11	0	0	0
+POCUER_Tanysphyrus_lemnae	13	0	0	0
+POCUER_Procas_sp	10	0	0	0
+POCUMO_Acalles_camelus	8	0	0	0
+POCUMO_Acalles_echinatus	6	0	0	0
+POCUCE_Zacladus_geranii	4	0	0	0
+POCUCE_Rhinoncus_sp	10	0	0	0
+POCUCE_Nedyus_quadrimaculatus	13	0	0	0
+POCUCU_Cionus_sp	2	0	0	0
+POCUMO_Adexius_scrobipennis	1	0	0	0
+POCUMO_Ruteria_hypocrita	4	0	0	0
+POCUTY_Tychius_sp	9	0	0	0
+POCUSC_Scolytus_sp	3	0	0	0
+POCUBA_Metialma_sp	4	0	0	0
+POCUSC_Ips_latidens	2	0	0	0
+POCUSC_Ips_spinifer	4	0	0	0
+POCUSC_Orthotomicus_laricis	11	0	0	0
+POCUSC_Orthotomicus_erosus	7	0	0	0
+POCUSC_Pityogenes_chalcographus	6	0	0	0
+POCUSC_Ips_acuminatus	4	0	0	0
+POCUSC_Ips_sexdentatus	4	0	0	0
+POCUSC_Ips_emarginatus	8	0	0	0
+POCUSC_Ips_knausi	10	0	0	0
+POCUSC_Ips_paraconfusus	10	7	0	0
+POCUSC_Ips_confusus	19	0	0	0
+POCUSC_Ips_hoppingi	25	0	0	0
+POCUSC_Ips_montanus	6	2	0	0
+POCUSC_Ips_lecontei	21	0	0	0
+POCUSC_Ips_cribricollis	6	3	0	0
+POCUSC_Ips_calligraphus	13	0	0	0
+POCUSC_Orthotomicus_caelatus	6	0	0	0
+POCUSC_Ips_perroti	1	0	0	0
+POCUSC_Ips_typographus	4	0	0	0
+POCUSC_Ips_perturbatus	5	0	0	0
+POCUSC_Ips_hunteri	5	0	0	0
+POCUSC_Ips_pilifrons	6	0	0	0
+POCUSC_Ips_borealis	6	0	0	0
+POCUSC_Ips_tridens	7	0	0	0
+POCUSC_Ips_woodi	3	0	0	0
+POCUSC_Ips_plastographus	4	0	0	0
+POCUSC_Ips_integer	2	0	0	0
+POCUSC_Orthotomicus_suturalis	3	0	0	0
+POCUSC_Ips_pini	2	0	0	0
+POCUSC_Ips_avulsus	5	0	0	0
+POCUSC_Ips_bonanseai	6	0	0	0
+POCUSC_Pityogenes_hopkinsi_M	5	0	0	0
+POCUSC_Xylosandrus_germanus	1	0	0	0
+POCUSC_Xylosandrus_compactus	2	0	0	0
+POCUSC_Xyleborus_sp	7	0	0	0
+POCUSC_Dryocoetes_affaber	8	0	0	0
+POCUSC_Dryocoetes_autographus	9	0	0	0
+POCUCO_Telephae_sp	2	0	0	0
+POCUSC_Cryphalus_abietis	4	0	0	0
+POCUSC_Phloeotribus_sp	3	2	0	0
+POCUMO_Lepyrus_sp	7	0	0	0
+POCUSC_Trypodendron_lineatum	5	0	0	0
+POCUSC_Hylurgops_sp	9	0	0	0
+POCUSC_Hylastes_sp	1	0	0	0
+POCUSC_Dendroctonus_simplex	8	1	0	0
+POCUSC_Dendroctonus_pseudotsugae	14	0	0	0
+POCUSC_Dendroctonus_jeffreyi	8	0	0	0
+POCUSC_Dendroctonus_ponderosae	5	0	0	0
+POCUSC_Dendroctonus_frontalis	4	0	0	0
+POCUSC_Dendroctonus_adjunctus	4	0	0	0
+POCUSC_Dendroctonus_approximatus	11	0	0	0
+POCUSC_Dendroctonus_brevicomis	7	0	0	0
+POCUSC_Dendroctonus_punctatus	6	0	0	0
+POCUSC_Dendroctonus_rufipennis	10	0	0	0
+POCUSC_Dendroctonus_murrayanae	13	0	0	0
+POCUSC_Dendroctonus_valens	3	0	0	0
+POCUSC_Dendroctonus_terebrans	5	0	0	0
+POCUCU_Rhynchaenus_sp	8	0	0	0
+POCUSC_Crypturgus_pusillus	5	0	0	0
+POCUSC_Polygraphus_grandiclava	1	0	0	0
+POCUCU_Anthonomus_sp	1	0	0	0
+POCUEN_Tanymecus_sp	5	1	0	0
+POCUSC_Polygraphus_poligraphus_M	9	0	0	0
+POCUMO_Pissodes_schwarzi_M	13	0	0	0
+POCUMO_Pissodes_strobi	9	0	0	0
+POCUBA_Limnobaris_sp	6	4	0	0
+POCUMO_Pissodes_nemorensis	7	2	0	0
+POCUMO_Hylobius_piceus	2	0	0	0
+POCUMO_Hylobius_abietis	2	0	0	0
+POCUEN_Scepticus_insularis	7	0	0	0
+POCUEN_Scepticus_griseus	6	1	0	0
+POCUCU_Curculio_dentipes	2	0	0	0
+POCUCU_Curculio_nucum_M	5	0	0	0
+POCUCU_Curculio_distinguendus	1	0	0	0
+POCUCU_Dorytomus_sp	3	0	0	0
+POCUMO_Magdalis_sp	2	0	0	0
+POCUEN_Otiorhynchus_armadillo	7	2	0	0
+POCUEN_Dyslobus_sp	4	2	0	0
+POCUEN_Sitona_hispidulus	5	2	0	0
+POCUCU_Gymnetron_antirhini	3	2	0	0
+POCUEN_Naupactus_xanthographus	4	2	0	0
+POCUCU_Gymnetron_tetrum	6	2	0	0
+POCUCE_Phytobius_sp	4	2	0	0
+POCUMO_Pachylobius_picivorus	6	2	0	0
+POCUDR_Sitophilus_granarius	9	3	0	0
+POCUDR_Sitophilus_zeamais	15	2	0	0
+POCUDR_Sitophilus_oryzae	8	2	0	0
+POCUEN_Brachyderes_incanus	12	2	0	0
+POCUEN_Strophosoma_melanogrammum	6	2	0	0
+POCUEN_Strophosoma_capitatum	3	2	0	0
+POCUEN_Chlorophanus_sp	5	2	0	0
+POCUEN_Sitona_lineatus	4	2	0	0
+POCUCL_Cleonus_sp	9	2	0	0
+POCUMO_Larinus_sp	8	2	0	0
+POCUMO_Lixus_sp	10	2	0	0
+POCUEN_Foucartia_squamulata	3	2	0	0
+POCUEN_Bothrometopus_sp	16	0	0	0
+POCUEN_Barypeithes_sp	17	1	0	0
+POCUEN_Polydrusus_mollis_M	19	0	0	0
+POCUEN_Hypera_postica	21	0	0	0
+POCUEN_Hypera_nigrirostris	21	0	0	0
+POCUEN_Eudiagogus_sp	16	0	0	0
+POCUEN_Hypomeces_squamosus	15	0	0	0
+POCUEN_Sympiezomias_cribricollis	16	0	0	0
+POCUEN_Phyllobius_pyri	5	3	0	0
+POCUEN_Liophloeus_tessulatus	11	0	0	0
+POCUEN_Phyllobius_argentatus	7	0	0	0

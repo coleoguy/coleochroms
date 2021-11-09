@@ -1,0 +1,152 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+POCOCO_Epilachna_sp: 1
+POCOOR_Cryptolaemus_montrouzieri: 2
+POCOCO_Chnoodes_sp: 2
+POCOMI_Microweisea_sp: 1
+POCOST_Prodilis_sp: 2
+POCOCO_Sumnius_sp: 1
+POCOSC_Cryptognatha_sp: 4
+POCOCO_Azya_sp: 1
+POCOCO_Rhyzobius_sp: 1
+POCOOR_Rodolia_cardinalis: 4
+POCOSC_Hyperaspis_lateralis: 7
+POCOSC_Scymnus_nubilus: 1
+N13: 4
+N15: 1
+POCOCH_Chilocorus_renipustulatus: 1
+N19: 5
+POCOCO_Calvia_quatuordecimguttata: 1
+Total number of gain events: 39
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N2: 5
+N16: 1
+POCOCH_Exochomus_quadripustulatus: 2
+N17: 3
+POCOCH_Chilocorus_stigma: 5
+POCOCH_Chilocorus_bipustulatus: 4
+N21: 1
+POCOCO_Illeis_sp: 2
+POCOCO_Psyllobora_sp: 2
+N25: 2
+N26: 3
+POCOCO_Coleomegilla_maculata: 4
+POCOCO_Anatis_sp: 4
+POCOCO_Coelophora_sp: 9
+POCOCO_Coccinella_septempunctata: 4
+N28: 1
+POCOCO_Cycloneda_sanguinea: 1
+N29: 1
+POCOCO_Olla_sp: 2
+POCOCO_Micraspis_sp: 6
+Total number of loss events: 62
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0	5	0	0
+N3	0	0	0	0
+POCOCO_Epilachna_sp	1	0	0	0
+N4	0	0	0	0
+N5	0	0	0	0
+POCOOR_Cryptolaemus_montrouzieri	2	0	0	0
+POCOCO_Chnoodes_sp	2	0	0	0
+N6	0	0	0	0
+POCOMI_Microweisea_sp	1	0	0	0
+N7	0	0	0	0
+N8	0	0	0	0
+POCOST_Prodilis_sp	2	0	0	0
+POCOCO_Sumnius_sp	1	0	0	0
+POCOSC_Cryptognatha_sp	4	0	0	0
+N9	0	0	0	0
+N10	0	0	0	0
+N11	0	0	0	0
+POCOCO_Azya_sp	1	0	0	0
+N12	0	0	0	0
+POCOCO_Rhyzobius_sp	1	0	0	0
+POCOOR_Rodolia_cardinalis	4	0	0	0
+POCOSC_Hyperaspis_lateralis	7	0	0	0
+POCOSC_Scymnus_nubilus	1	0	0	0
+N13	4	0	0	0
+N14	0	0	0	0
+N15	1	0	0	0
+POCOCH_Orcus_sp	0	0	0	0
+N16	0	1	0	0
+POCOCH_Exochomus_quadripustulatus	0	2	0	0
+POCOCH_Curinus_coeruleus	0	0	0	0
+N17	0	3	0	0
+N18	0	0	0	0
+POCOCH_Chilocorus_stigma	0	5	0	0
+POCOCH_Chilocorus_bipustulatus	0	4	0	0
+POCOCH_Chilocorus_renipustulatus	1	0	0	0
+N19	5	0	0	0
+N20	0	0	0	0
+N21	0	1	0	0
+POCOCO_Hippodamia_quinquesignata	0	0	0	0
+POCOCO_Hippodamia_convergens	0	0	0	0
+N22	0	0	0	0
+N23	0	0	0	0
+N24	0	0	0	0
+POCOCO_Illeis_sp	0	2	0	0
+POCOCO_Psyllobora_sp	0	2	0	0
+N25	0	2	0	0
+N26	0	3	0	0
+POCOCO_Calvia_quatuordecimguttata	1	0	0	0
+POCOCO_Coleomegilla_maculata	0	4	0	0
+POCOCO_Anatis_sp	0	4	0	0
+POCOCO_Coelophora_sp	0	9	0	0
+N27	0	0	0	0
+POCOCO_Coccinella_septempunctata	0	4	0	0
+N28	0	1	0	0
+POCOCO_Cycloneda_sanguinea	0	1	0	0
+N29	0	1	0	0
+POCOCO_Olla_sp	0	2	0	0
+POCOCO_Micraspis_sp	0	6	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCOCO_Epilachna_sp	1	5	0	0
+POCOOR_Cryptolaemus_montrouzieri	2	5	0	0
+POCOCO_Chnoodes_sp	2	5	0	0
+POCOMI_Microweisea_sp	1	5	0	0
+POCOST_Prodilis_sp	2	5	0	0
+POCOCO_Sumnius_sp	1	5	0	0
+POCOSC_Cryptognatha_sp	4	5	0	0
+POCOCO_Azya_sp	1	5	0	0
+POCOCO_Rhyzobius_sp	1	5	0	0
+POCOOR_Rodolia_cardinalis	4	5	0	0
+POCOSC_Hyperaspis_lateralis	7	5	0	0
+POCOSC_Scymnus_nubilus	1	5	0	0
+POCOCH_Orcus_sp	5	0	0	0
+POCOCH_Exochomus_quadripustulatus	5	3	0	0
+POCOCH_Curinus_coeruleus	5	1	0	0
+POCOCH_Chilocorus_stigma	4	8	0	0
+POCOCH_Chilocorus_bipustulatus	4	7	0	0
+POCOCH_Chilocorus_renipustulatus	5	3	0	0
+POCOCO_Hippodamia_quinquesignata	9	1	0	0
+POCOCO_Hippodamia_convergens	9	1	0	0
+POCOCO_Illeis_sp	9	2	0	0
+POCOCO_Psyllobora_sp	9	2	0	0
+POCOCO_Calvia_quatuordecimguttata	10	5	0	0
+POCOCO_Coleomegilla_maculata	9	9	0	0
+POCOCO_Anatis_sp	9	6	0	0
+POCOCO_Coelophora_sp	9	9	0	0
+POCOCO_Coccinella_septempunctata	9	4	0	0
+POCOCO_Cycloneda_sanguinea	9	2	0	0
+POCOCO_Olla_sp	9	4	0	0
+POCOCO_Micraspis_sp	9	8	0	0

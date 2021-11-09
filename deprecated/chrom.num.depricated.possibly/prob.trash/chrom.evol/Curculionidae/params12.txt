@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir result12
+_dataFile Curculionidae.txt
+_treeFile Curculionidae12.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

@@ -1,0 +1,925 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+N2: 13
+ADCANE_Nebria_brevicollis: 10
+N3: 1
+ADCATR_Bembidion_umbratum: 1
+ADCATR_Bembidion_tetracolum: 1
+N14: 1
+ADCATR_Bembidion_planatum: 1
+N17: 1
+ADCATR_Bembidion_punctulatum: 6
+ADCATR_Bembidion_articulatum: 3
+N20: 1
+N21: 2
+ADCATR_Bembidion_rapidum: 6
+N24: 3
+N25: 2
+N26: 1
+ADCATR_Bembidion_integrum: 5
+ADCATR_Bembidion_honestum: 1
+ADCATR_Bembidion_arenobilis: 1
+N29: 1
+N30: 2
+N32: 2
+N35: 5
+ADCATR_Bembidion_concolor: 5
+ADCATR_Bembidion_californicum: 1
+N40: 1
+ADCATR_Bembidion_inaequale: 2
+ADCATR_Bembidion_balli: 3
+N43: 3
+N44: 7
+ADCATR_Trechus_obtusus: 2
+N45: 3
+ADCATR_Bembidion_ruficorne: 3
+ADCATR_Perileptus_areolatus: 6
+ADCAPA_Penetretus_sp: 3
+ADCASC_Clivina_sp: 2
+N51: 1
+N53: 2
+ADCAPS_Mecyclothorax_sp: 3
+ADCABR_Promecoderus_sp: 3
+ADCACA_Calosoma_inquistor: 18
+ADCANE_Notiophilus_sp: 2
+N57: 3
+ADCACA_Carabus_granulatus: 4
+ADCACA_Pamborus_alternans: 3
+ADCACA_Pamborus_tropicus: 3
+ADCACA_Pamborus_opacus: 1
+N60: 5
+ADCACA_Carabus_nemoralis: 2
+ADCACA_Cychrus_caraboides: 2
+ADCASC_Dyschirius_sp: 12
+N65: 1
+ADCAPA_Arthropterus_sp: 9
+ADCAPA_Mystropomus_subcostatus: 8
+N66: 3
+N67: 4
+N68: 13
+ADCASC_Scarites_terricola: 1
+ADCASC_Scarites_eurytus: 3
+ADCASC_Scarites_occidentalis_M: 2
+ADCASC_Scarites_buparius: 1
+ADCASC_Scarites_hespericus: 3
+ADCASC_Carenum_interruptum: 2
+ADCACA_Carabus_problematicus: 1
+N74: 11
+ADCACI_Omus_californicus: 1
+N75: 3
+ADCACI_Amblycheila_baroni: 3
+ADCACI_Mantichora_amygdaloides: 1
+ADCACI_Ctenostoma_sp: 2
+ADCACI_Oxycheila_sp: 10
+ADCACI_Therates_sp: 2
+N81: 10
+N82: 1
+N83: 3
+ADCACI_Cicindela_aurulenta: 2
+N85: 4
+ADCACI_Lophyridia_lunulata: 7
+N88: 1
+ADCACI_Cicindela_repanda: 1
+ADCACI_Cicindela_hybrida: 2
+N91: 1
+ADCACI_Cicindela_tranquebarica: 3
+N92: 6
+ADCACI_Cicindela_sexguttata: 2
+ADCACI_Cicindela_splendida: 1
+N95: 1
+ADCACI_Ellipsoptera_marginata: 6
+ADCACI_Taenidia_circumdata: 6
+ADCACI_Cylindera_cognata: 17
+ADCACI_Myriochile_undulata: 2
+ADCACI_Lophyra_sp: 1
+N97: 1
+ADCACI_Megacephala_whelani: 13
+N98: 2
+ADCACI_Megacephala_sobrina: 2
+ADCACI_Megacephala_brasiliensis: 1
+ADCALO_Loricera_pilicornis: 14
+N103: 3
+ADCAHA_Drypta_sp: 3
+ADCAHA_Macrocheilus_sp: 6
+ADCAHA_Anthia_sp: 1
+N105: 3
+N106: 2
+N107: 3
+ADCAHA_Anisodactylus_virens: 5
+N108: 1
+ADCAHA_Galerita_sp: 1
+ADCAHA_Sphallomorpha_sp: 1
+N110: 2
+N111: 3
+N112: 1
+N113: 3
+ADCAHA_Cymindis_sp: 4
+ADCAHA_Pterostichus_melanarius: 7
+ADCAHA_Pterostichus_nemoralis: 2
+ADCAHA_Pterostichus_anthracinus: 1
+N122: 3
+ADCAHA_Pterostichus_interruptus: 3
+N124: 1
+N125: 1
+N126: 1
+ADCAHA_Pterostichus_spinolae: 2
+ADCAHA_Pterostichus_ziegleri: 2
+ADCAHA_Orthomus_velocissimus: 1
+ADCAHA_Pterostichus_angustus: 2
+ADCAHA_Stomis_sp: 12
+N129: 1
+N132: 4
+ADCAHA_Pterostichus_oblongopunctatus: 3
+N135: 1
+ADCAHA_Agonum_marginatum: 1
+ADCAHA_Abacetus_sp: 1
+ADCAHA_Chlaenius_sp: 1
+ADCAHA_Microlestes_sp: 1
+N139: 1
+N140: 3
+ADCAHA_Percus_politus: 4
+N142: 3
+N143: 2
+ADCAHA_Zabrus_sp: 9
+ADCAHA_Amphasia_sericea: 1
+N144: 1
+N145: 1
+ADCAHA_Poecilus_lucublandus: 3
+ADCAHA_Poecilus_cupreus: 2
+N147: 1
+N148: 4
+N150: 4
+N151: 5
+N152: 2
+ADCAHA_Stenolophus_teutonus: 6
+N153: 1
+ADCAHA_Stenolophus_mixtus: 2
+ADCAHA_Egadroma_marginatum: 9
+N154: 1
+N155: 4
+N156: 3
+ADCAHA_Dromius_sp: 5
+ADCAHA_Graphipterus_sp: 2
+N161: 5
+N162: 1
+N164: 1
+N167: 7
+N168: 1
+ADCAHA_Calathus_fuscipes: 1
+ADCAHA_Colliuris_pennsylvanica: 3
+ADCAHA_Calathus_auctus: 3
+ADCAHA_Demetrias_atricapillus: 2
+ADCAHA_Acinopus_picipes: 3
+ADCAHA_Nesarpalus_sp: 3
+ADCAHA_Harpalus_serripes: 8
+N186: 2
+N187: 1
+ADCAHA_Harpalus_aesculanus: 2
+ADCAHA_Harpalus_distinguendus: 1
+ADCAHA_Harpalus_anxius: 9
+ADCAHA_Harpalus_dimidiatus: 4
+ADCAHA_Harpalus_ebeninus: 5
+ADCAHA_Harpalus_decipiens: 1
+ADCAHA_Harpalus_wagneri: 1
+ADCAHA_Harpalus_honestus: 5
+N195: 5
+ADCAHA_Harpalus_rubripes: 2
+ADCAHA_Harpalus_pennsylvanicus: 4
+N196: 3
+N197: 3
+N198: 1
+N199: 3
+ADCAHA_Dixus_capito: 4
+ADCAHA_Licinus_sp: 3
+N200: 2
+ADCAHA_Carterus_rotundicollis_M: 2
+ADCAHA_Ophonus_stictus: 1
+ADCAHA_Ophonus_longicollis: 4
+N203: 1
+ADCAHA_Ophonus_azureus: 2
+ADCAHA_Bradybaenus_sp: 6
+N204: 3
+ADCAHA_Notiobia_sp: 7
+ADCAHA_Parophonus_hespericus: 4
+ADCABR_Aptinus_displosor: 12
+N206: 4
+ADCABR_Pheropsophus_sp: 9
+Total number of gain events: 695
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N4: 1
+N5: 1
+N6: 1
+ADCATR_Bembidion_aenulum: 1
+ADCATR_Bembidion_insulatum: 1
+N8: 1
+N11: 6
+N13: 1
+ADCATR_Bembidion_decorum: 1
+N15: 1
+ADCATR_Bembidion_mexicanum: 1
+N16: 1
+ADCATR_Bembidion_quadrimaculatum: 2
+ADCATR_Bembidion_tairuense: 1
+ADCATR_Bembidion_levigatum: 1
+ADCATR_Bembidion_antiquum: 2
+ADCATR_Bembidion_rufotinctum: 4
+ADCATR_Bembidion_chalceum: 1
+N33: 2
+N34: 1
+ADCATR_Bembidion_lampros: 3
+N37: 2
+ADCATR_Bembidion_levettei: 7
+ADCATR_Bembidion_obtusum: 2
+N41: 4
+N42: 1
+ADCATR_Bembidion_confusum: 2
+ADCATR_Pogonus_chalceus: 1
+ADCATR_Trechus_quadristriatus: 1
+N52: 1
+ADCASC_Scarites_laevigatus: 1
+N69: 3
+ADCACI_Cicindela_sedecimpunctata: 1
+ADCACI_Cicindela_punctulata: 3
+ADCAHA_Amblystomus_sp: 2
+ADCAHA_Anisodactylus_hispanus: 2
+N118: 4
+N120: 2
+ADCAHA_Pterostichus_alacer: 2
+N121: 1
+ADCAHA_Pterostichus_nigrita: 1
+N123: 1
+ADCAHA_Pterostichus_niger: 3
+ADCAHA_Pterostichus_globosus: 2
+N128: 1
+ADCAHA_Pterostichus_herculeanus: 3
+ADCAHA_Platyderus_lusitanicus: 2
+N133: 1
+N134: 1
+N136: 1
+ADCAHA_Craspedophorus_sp: 2
+ADCAHA_Loxandrus_sp: 3
+ADCAHA_Notagonum_sp: 1
+N141: 2
+ADCAHA_Agonum_muelleri: 1
+ADCAHA_Amara_sp: 1
+ADCAHA_Poecilus_versicolor: 2
+ADCAHA_Sarothrocrepis_sp: 2
+ADCAHA_Diplocheila_sp: 3
+N157: 1
+N159: 1
+ADCAHA_Apenes_sp: 2
+N163: 1
+ADCAHA_Calathus_rectus: 1
+N172: 2
+ADCAHA_Calathus_ascendens: 1
+ADCAHA_Calathus_freyi: 3
+ADCAHA_Calathus_melanocephalus: 3
+ADCAPS_Olisthopus_sp: 2
+N177: 2
+ADCAHA_Harpalus_affinis: 1
+ADCAHA_Abax_ovalis: 1
+ADCAHA_Abax_parallelepipedus: 1
+ADCAHA_Carterus_fulvipes: 1
+ADCABR_Brachinus_sp: 3
+Total number of loss events: 135
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	13	0	0	0
+ADCANE_Nebria_brevicollis	10	0	0	0
+N3	1	0	0	0
+N4	0	1	0	0
+N5	0	1	0	0
+N6	0	1	0	0
+ADCATR_Bembidion_aenulum	0	1	0	0
+N7	0	0	0	0
+ADCATR_Bembidion_insulatum	0	1	0	0
+ADCATR_Bembidion_umbratum	1	0	0	0
+N8	0	1	0	0
+N9	0	0	0	0
+N10	0	0	0	0
+N11	0	6	0	0
+N12	0	0	0	0
+ADCATR_Bembidion_tibiale	0	0	0	0
+ADCATR_Bembidion_tetracolum	1	0	0	0
+N13	0	1	0	0
+N14	1	0	0	0
+ADCATR_Bembidion_planatum	1	0	0	0
+ADCATR_Bembidion_decorum	0	1	0	0
+N15	0	1	0	0
+ADCATR_Bembidion_mexicanum	0	1	0	0
+N16	0	1	0	0
+ADCATR_Bembidion_transversale	0	0	0	0
+ADCATR_Bembidion_sejunctum	0	0	0	0
+N17	1	0	0	0
+ADCATR_Bembidion_punctulatum	6	0	0	0
+N18	0	0	0	0
+N19	0	0	0	0
+ADCATR_Bembidion_articulatum	3	0	0	0
+ADCATR_Bembidion_quadrimaculatum	0	2	0	0
+ADCATR_Bembidion_tairuense	0	1	0	0
+N20	1	0	0	0
+N21	2	0	0	0
+ADCATR_Bembidion_rapidum	6	0	0	0
+ADCATR_Bembidion_levigatum	0	1	0	0
+N22	0	0	0	0
+N23	0	0	0	0
+N24	3	0	0	0
+N25	2	0	0	0
+ADCATR_Bembidion_antiquum	0	2	0	0
+N26	1	0	0	0
+ADCATR_Bembidion_integrum	5	0	0	0
+N27	0	0	0	0
+N28	0	0	0	0
+ADCATR_Bembidion_honestum	1	0	0	0
+ADCATR_Bembidion_arenobilis	1	0	0	0
+ADCATR_Bembidion_rufotinctum	0	4	0	0
+N29	1	0	0	0
+N30	2	0	0	0
+ADCATR_Bembidion_rothfelsi	0	0	0	0
+N31	0	0	0	0
+N32	2	0	0	0
+ADCATR_Bembidion_bellorum	0	0	0	0
+ADCATR_Bembidion_louisella	0	0	0	0
+ADCATR_Bembidion_chalceum	0	1	0	0
+N33	0	2	0	0
+ADCATR_Bembidion_americanum	0	0	0	0
+ADCATR_Bembidion_bifossulatum	0	0	0	0
+N34	0	1	0	0
+N35	5	0	0	0
+N36	0	0	0	0
+ADCATR_Bembidion_concolor	5	0	0	0
+ADCATR_Bembidion_californicum	1	0	0	0
+ADCATR_Bembidion_lampros	0	3	0	0
+N37	0	2	0	0
+ADCATR_Bembidion_levettei	0	7	0	0
+N38	0	0	0	0
+ADCATR_Bembidion_properans	0	0	0	0
+N39	0	0	0	0
+N40	1	0	0	0
+ADCATR_Bembidion_inaequale	2	0	0	0
+ADCATR_Bembidion_levettei_carrianum	0	0	0	0
+ADCATR_Bembidion_obtusum	0	2	0	0
+N41	0	4	0	0
+ADCATR_Bembidion_balli	3	0	0	0
+N42	0	1	0	0
+ADCATR_Bembidion_lapponicum	0	0	0	0
+ADCATR_Bembidion_confusum	0	2	0	0
+ADCATR_Bembidion_coxendix	0	0	0	0
+ADCATR_Pogonus_chalceus	0	1	0	0
+N43	3	0	0	0
+N44	7	0	0	0
+ADCATR_Trechus_quadristriatus	0	1	0	0
+ADCATR_Trechus_obtusus	2	0	0	0
+N45	3	0	0	0
+ADCATR_Bembidion_ruficorne	3	0	0	0
+ADCATR_Perileptus_areolatus	6	0	0	0
+N46	0	0	0	0
+N47	0	0	0	0
+N48	0	0	0	0
+N49	0	0	0	0
+N50	0	0	0	0
+ADCAPA_Penetretus_sp	3	0	0	0
+ADCASC_Clivina_sp	2	0	0	0
+N51	1	0	0	0
+N52	0	1	0	0
+N53	2	0	0	0
+ADCAPS_Mecyclothorax_sp	3	0	0	0
+ADCAPS_Amblytelus_curtus	0	0	0	0
+ADCABR_Promecoderus_sp	3	0	0	0
+ADCACA_Calosoma_inquistor	18	0	0	0
+ADCANE_Notiophilus_sp	2	0	0	0
+N54	0	0	0	0
+N55	0	0	0	0
+N56	0	0	0	0
+N57	3	0	0	0
+ADCACA_Carabus_granulatus	4	0	0	0
+ADCACA_Carabus_punctatoauratus	0	0	0	0
+N58	0	0	0	0
+ADCACA_Pamborus_alternans	3	0	0	0
+N59	0	0	0	0
+ADCACA_Pamborus_tropicus	3	0	0	0
+ADCACA_Pamborus_opacus	1	0	0	0
+N60	5	0	0	0
+ADCACA_Carabus_auronitens	0	0	0	0
+ADCACA_Carabus_nemoralis	2	0	0	0
+ADCACA_Cychrus_caraboides	2	0	0	0
+N61	0	0	0	0
+ADCASC_Dyschirius_sp	12	0	0	0
+N62	0	0	0	0
+N63	0	0	0	0
+N64	0	0	0	0
+N65	1	0	0	0
+ADCAPA_Arthropterus_sp	9	0	0	0
+ADCAPA_Mystropomus_subcostatus	8	0	0	0
+N66	3	0	0	0
+N67	4	0	0	0
+N68	13	0	0	0
+ADCASC_Scarites_laevigatus	0	1	0	0
+ADCASC_Scarites_terricola	1	0	0	0
+ADCASC_Scarites_eurytus	3	0	0	0
+N69	0	3	0	0
+N70	0	0	0	0
+ADCASC_Scarites_occidentalis_M	2	0	0	0
+ADCASC_Scarites_buparius	1	0	0	0
+N71	0	0	0	0
+ADCASC_Scarites_hespericus	3	0	0	0
+ADCASC_Carenum_interruptum	2	0	0	0
+N72	0	0	0	0
+ADCACA_Carabus_problematicus	1	0	0	0
+N73	0	0	0	0
+N74	11	0	0	0
+ADCACI_Omus_californicus	1	0	0	0
+N75	3	0	0	0
+ADCACI_Amblycheila_baroni	3	0	0	0
+ADCACI_Mantichora_amygdaloides	1	0	0	0
+N76	0	0	0	0
+N77	0	0	0	0
+ADCACI_Ctenostoma_sp	2	0	0	0
+N78	0	0	0	0
+N79	0	0	0	0
+N80	0	0	0	0
+ADCACI_Oxycheila_sp	10	0	0	0
+ADCACI_Therates_sp	2	0	0	0
+N81	10	0	0	0
+N82	1	0	0	0
+ADCACI_Prothyma_sp	0	0	0	0
+ADCACI_Pentacomia_sp	0	0	0	0
+N83	3	0	0	0
+ADCACI_Cicindela_sedecimpunctata	0	1	0	0
+ADCACI_Cicindela_aurulenta	2	0	0	0
+N84	0	0	0	0
+N85	4	0	0	0
+ADCACI_Lophyridia_lunulata	7	0	0	0
+N86	0	0	0	0
+N87	0	0	0	0
+ADCACI_Cicindela_punctulata	0	3	0	0
+ADCACI_Cicindela_dorsalis	0	0	0	0
+N88	1	0	0	0
+ADCACI_Cicindela_repanda	1	0	0	0
+ADCACI_Cicindela_hybrida	2	0	0	0
+N89	0	0	0	0
+N90	0	0	0	0
+N91	1	0	0	0
+ADCACI_Cicindela_tranquebarica	3	0	0	0
+N92	6	0	0	0
+ADCACI_Cicindela_sexguttata	2	0	0	0
+ADCACI_Cicindela_splendida	1	0	0	0
+N93	0	0	0	0
+N94	0	0	0	0
+N95	1	0	0	0
+ADCACI_Cicindela_marutha	0	0	0	0
+ADCACI_Ellipsoptera_marginata	6	0	0	0
+ADCACI_Taenidia_circumdata	6	0	0	0
+ADCACI_Cylindera_cognata	17	0	0	0
+N96	0	0	0	0
+ADCACI_Myriochile_undulata	2	0	0	0
+ADCACI_Lophyra_sp	1	0	0	0
+N97	1	0	0	0
+ADCACI_Megacephala_whelani	13	0	0	0
+N98	2	0	0	0
+ADCACI_Megacephala_sobrina	2	0	0	0
+ADCACI_Megacephala_brasiliensis	1	0	0	0
+N99	0	0	0	0
+ADCALO_Loricera_pilicornis	14	0	0	0
+N100	0	0	0	0
+N101	0	0	0	0
+N102	0	0	0	0
+N103	3	0	0	0
+N104	0	0	0	0
+ADCAHA_Drypta_sp	3	0	0	0
+ADCAHA_Macrocheilus_sp	6	0	0	0
+ADCAHA_Anthia_sp	1	0	0	0
+N105	3	0	0	0
+ADCAHA_Amblystomus_sp	0	2	0	0
+N106	2	0	0	0
+N107	3	0	0	0
+ADCAHA_Anisodactylus_hispanus	0	2	0	0
+ADCAHA_Anisodactylus_virens	5	0	0	0
+N108	1	0	0	0
+ADCAHA_Galerita_sp	1	0	0	0
+ADCAHA_Platymetopus_sp	0	0	0	0
+N109	0	0	0	0
+ADCAHA_Sphallomorpha_sp	1	0	0	0
+N110	2	0	0	0
+N111	3	0	0	0
+N112	1	0	0	0
+N113	3	0	0	0
+N114	0	0	0	0
+ADCAHA_Cymindis_sp	4	0	0	0
+N115	0	0	0	0
+N116	0	0	0	0
+ADCAHA_Pterostichus_melanarius	7	0	0	0
+N117	0	0	0	0
+N118	0	4	0	0
+N119	0	0	0	0
+ADCAHA_Pterostichus_nemoralis	2	0	0	0
+N120	0	2	0	0
+ADCAHA_Pterostichus_alacer	0	2	0	0
+N121	0	1	0	0
+ADCAHA_Pterostichus_nigrita	0	1	0	0
+ADCAHA_Pterostichus_anthracinus	1	0	0	0
+ADCAHA_Pterostichus_aterrimus	0	0	0	0
+N122	3	0	0	0
+N123	0	1	0	0
+ADCAHA_Pterostichus_niger	0	3	0	0
+ADCAHA_Pterostichus_interruptus	3	0	0	0
+N124	1	0	0	0
+N125	1	0	0	0
+N126	1	0	0	0
+N127	0	0	0	0
+ADCAHA_Pterostichus_spinolae	2	0	0	0
+ADCAHA_Pterostichus_flavofemoratus	0	0	0	0
+ADCAHA_Pterostichus_globosus	0	2	0	0
+ADCAHA_Pterostichus_ziegleri	2	0	0	0
+ADCAHA_Orthomus_velocissimus	1	0	0	0
+N128	0	1	0	0
+ADCAHA_Pterostichus_angustus	2	0	0	0
+ADCAHA_Pterostichus_herculeanus	0	3	0	0
+ADCAHA_Stomis_sp	12	0	0	0
+N129	1	0	0	0
+N130	0	0	0	0
+N131	0	0	0	0
+N132	4	0	0	0
+ADCAHA_Platyderus_varians	0	0	0	0
+ADCAHA_Pterostichus_oblongopunctatus	3	0	0	0
+ADCAHA_Platyderus_lusitanicus	0	2	0	0
+N133	0	1	0	0
+N134	0	1	0	0
+N135	1	0	0	0
+ADCAHA_Agonum_marginatum	1	0	0	0
+ADCAHA_Abacetus_sp	1	0	0	0
+N136	0	1	0	0
+N137	0	0	0	0
+N138	0	0	0	0
+ADCAHA_Chlaenius_sp	1	0	0	0
+ADCAHA_Microlestes_sp	1	0	0	0
+ADCAHA_Craspedophorus_sp	0	2	0	0
+ADCAHA_Loxandrus_sp	0	3	0	0
+N139	1	0	0	0
+N140	3	0	0	0
+ADCAHA_Percus_politus	4	0	0	0
+ADCAHA_Notagonum_sp	0	1	0	0
+N141	0	2	0	0
+ADCAHA_Oodes_sp	0	0	0	0
+ADCAHA_Agonum_muelleri	0	1	0	0
+N142	3	0	0	0
+N143	2	0	0	0
+ADCAHA_Zabrus_sp	9	0	0	0
+ADCAHA_Amara_sp	0	1	0	0
+ADCAHA_Amphasia_sericea	1	0	0	0
+N144	1	0	0	0
+N145	1	0	0	0
+N146	0	0	0	0
+ADCAHA_Poecilus_versicolor	0	2	0	0
+ADCAHA_Poecilus_lucublandus	3	0	0	0
+ADCAHA_Poecilus_cupreus	2	0	0	0
+N147	1	0	0	0
+ADCAHA_Sarothrocrepis_sp	0	2	0	0
+N148	4	0	0	0
+ADCAHA_Poecilus_chalcites	0	0	0	0
+ADCAHA_Dicrochile_sp	0	0	0	0
+N149	0	0	0	0
+N150	4	0	0	0
+N151	5	0	0	0
+N152	2	0	0	0
+ADCAHA_Stenolophus_teutonus	6	0	0	0
+N153	1	0	0	0
+ADCAHA_Stenolophus_mixtus	2	0	0	0
+ADCAHA_Stenolophus_lecontei	0	0	0	0
+ADCAHA_Egadroma_marginatum	9	0	0	0
+N154	1	0	0	0
+N155	4	0	0	0
+N156	3	0	0	0
+ADCAHA_Diplocheila_sp	0	3	0	0
+ADCAHA_Dromius_sp	5	0	0	0
+ADCAHA_Graphipterus_sp	2	0	0	0
+N157	0	1	0	0
+N158	0	0	0	0
+N159	0	1	0	0
+N160	0	0	0	0
+ADCAHA_Syntomus_sp	0	0	0	0
+ADCAHA_Lebia_sp	0	0	0	0
+ADCAHA_Apenes_sp	0	2	0	0
+N161	5	0	0	0
+N162	1	0	0	0
+N163	0	1	0	0
+ADCAHA_Calathus_granatensis	0	0	0	0
+ADCAHA_Calathus_micropterus	0	0	0	0
+N164	1	0	0	0
+ADCAHA_Calathus_abaxoides	0	0	0	0
+ADCAHA_Calathus_asturiensis	0	0	0	0
+N165	0	0	0	0
+N166	0	0	0	0
+N167	7	0	0	0
+N168	1	0	0	0
+ADCAHA_Calathus_rotundatus	0	0	0	0
+ADCAHA_Calathus_brevis	0	0	0	0
+N169	0	0	0	0
+N170	0	0	0	0
+ADCAHA_Calathus_rectus	0	1	0	0
+N171	0	0	0	0
+ADCAHA_Calathus_fuscipes	1	0	0	0
+ADCAHA_Calathus_ambiguus	0	0	0	0
+ADCAHA_Calathus_mollis	0	0	0	0
+ADCAHA_Colliuris_pennsylvanica	3	0	0	0
+N172	0	2	0	0
+N173	0	0	0	0
+N174	0	0	0	0
+ADCAHA_Calathus_auctus	3	0	0	0
+ADCAHA_Calathus_ascendens	0	1	0	0
+N175	0	0	0	0
+ADCAHA_Calathus_circumseptus	0	0	0	0
+ADCAHA_Calathus_freyi	0	3	0	0
+N176	0	0	0	0
+ADCAHA_Calathus_erratus	0	0	0	0
+ADCAHA_Calathus_melanocephalus	0	3	0	0
+ADCAPS_Olisthopus_sp	0	2	0	0
+N177	0	2	0	0
+ADCAHA_Demetrias_atricapillus	2	0	0	0
+N178	0	0	0	0
+N179	0	0	0	0
+N180	0	0	0	0
+N181	0	0	0	0
+N182	0	0	0	0
+N183	0	0	0	0
+ADCAHA_Acinopus_picipes	3	0	0	0
+ADCAHA_Nesarpalus_sp	3	0	0	0
+N184	0	0	0	0
+ADCAHA_Harpalus_serripes	8	0	0	0
+N185	0	0	0	0
+N186	2	0	0	0
+N187	1	0	0	0
+ADCAHA_Harpalus_contemptus	0	0	0	0
+N188	0	0	0	0
+ADCAHA_Harpalus_aesculanus	2	0	0	0
+N189	0	0	0	0
+ADCAHA_Harpalus_affinis	0	1	0	0
+ADCAHA_Harpalus_distinguendus	1	0	0	0
+ADCAHA_Harpalus_anxius	9	0	0	0
+N190	0	0	0	0
+ADCAHA_Harpalus_dimidiatus	4	0	0	0
+N191	0	0	0	0
+N192	0	0	0	0
+N193	0	0	0	0
+ADCAHA_Harpalus_ebeninus	5	0	0	0
+N194	0	0	0	0
+ADCAHA_Harpalus_decipiens	1	0	0	0
+ADCAHA_Harpalus_wagneri	1	0	0	0
+ADCAHA_Harpalus_honestus	5	0	0	0
+N195	5	0	0	0
+ADCAHA_Harpalus_attenuatus	0	0	0	0
+ADCAHA_Harpalus_rubripes	2	0	0	0
+ADCAHA_Harpalus_pennsylvanicus	4	0	0	0
+N196	3	0	0	0
+N197	3	0	0	0
+N198	1	0	0	0
+ADCAHA_Abax_ovalis	0	1	0	0
+N199	3	0	0	0
+ADCAHA_Abax_parallelepipedus	0	1	0	0
+ADCAHA_Dixus_capito	4	0	0	0
+ADCAHA_Licinus_sp	3	0	0	0
+N200	2	0	0	0
+ADCAHA_Carterus_rotundicollis_M	2	0	0	0
+ADCAHA_Carterus_fulvipes	0	1	0	0
+N201	0	0	0	0
+ADCAHA_Ophonus_stictus	1	0	0	0
+N202	0	0	0	0
+ADCAHA_Ophonus_longicollis	4	0	0	0
+N203	1	0	0	0
+ADCAHA_Ophonus_azureus	2	0	0	0
+ADCAHA_Bradybaenus_sp	6	0	0	0
+N204	3	0	0	0
+ADCAHA_Notiobia_sp	7	0	0	0
+ADCAHA_Parophonus_hespericus	4	0	0	0
+N205	0	0	0	0
+ADCABR_Aptinus_displosor	12	0	0	0
+N206	4	0	0	0
+ADCABR_Pheropsophus_sp	9	0	0	0
+ADCABR_Brachinus_sp	0	3	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+ADCANE_Nebria_brevicollis	23	0	0	0
+ADCATR_Bembidion_aenulum	14	4	0	0
+ADCATR_Bembidion_insulatum	14	4	0	0
+ADCATR_Bembidion_umbratum	15	3	0	0
+ADCATR_Bembidion_tibiale	14	9	0	0
+ADCATR_Bembidion_tetracolum	15	9	0	0
+ADCATR_Bembidion_planatum	16	10	0	0
+ADCATR_Bembidion_decorum	15	11	0	0
+ADCATR_Bembidion_mexicanum	14	12	0	0
+ADCATR_Bembidion_transversale	14	12	0	0
+ADCATR_Bembidion_sejunctum	14	12	0	0
+ADCATR_Bembidion_punctulatum	21	3	0	0
+ADCATR_Bembidion_articulatum	18	3	0	0
+ADCATR_Bembidion_quadrimaculatum	15	5	0	0
+ADCATR_Bembidion_tairuense	15	4	0	0
+ADCATR_Bembidion_rapidum	23	3	0	0
+ADCATR_Bembidion_levigatum	17	4	0	0
+ADCATR_Bembidion_antiquum	20	5	0	0
+ADCATR_Bembidion_integrum	26	3	0	0
+ADCATR_Bembidion_honestum	22	3	0	0
+ADCATR_Bembidion_arenobilis	22	3	0	0
+ADCATR_Bembidion_rufotinctum	21	7	0	0
+ADCATR_Bembidion_rothfelsi	21	3	0	0
+ADCATR_Bembidion_bellorum	23	3	0	0
+ADCATR_Bembidion_louisella	23	3	0	0
+ADCATR_Bembidion_chalceum	21	4	0	0
+ADCATR_Bembidion_americanum	19	5	0	0
+ADCATR_Bembidion_bifossulatum	19	5	0	0
+ADCATR_Bembidion_concolor	25	4	0	0
+ADCATR_Bembidion_californicum	21	4	0	0
+ADCATR_Bembidion_lampros	20	7	0	0
+ADCATR_Bembidion_levettei	15	13	0	0
+ADCATR_Bembidion_properans	15	6	0	0
+ADCATR_Bembidion_inaequale	18	6	0	0
+ADCATR_Bembidion_levettei_carrianum	16	6	0	0
+ADCATR_Bembidion_obtusum	15	8	0	0
+ADCATR_Bembidion_balli	18	7	0	0
+ADCATR_Bembidion_lapponicum	15	8	0	0
+ADCATR_Bembidion_confusum	15	10	0	0
+ADCATR_Bembidion_coxendix	14	3	0	0
+ADCATR_Pogonus_chalceus	14	2	0	0
+ADCATR_Trechus_quadristriatus	24	1	0	0
+ADCATR_Trechus_obtusus	26	0	0	0
+ADCATR_Bembidion_ruficorne	23	0	0	0
+ADCATR_Perileptus_areolatus	26	0	0	0
+ADCAPA_Penetretus_sp	3	0	0	0
+ADCASC_Clivina_sp	2	0	0	0
+ADCAPS_Mecyclothorax_sp	6	1	0	0
+ADCAPS_Amblytelus_curtus	3	1	0	0
+ADCABR_Promecoderus_sp	4	1	0	0
+ADCACA_Calosoma_inquistor	19	0	0	0
+ADCANE_Notiophilus_sp	2	0	0	0
+ADCACA_Carabus_granulatus	7	0	0	0
+ADCACA_Carabus_punctatoauratus	3	0	0	0
+ADCACA_Pamborus_alternans	3	0	0	0
+ADCACA_Pamborus_tropicus	3	0	0	0
+ADCACA_Pamborus_opacus	1	0	0	0
+ADCACA_Carabus_auronitens	5	0	0	0
+ADCACA_Carabus_nemoralis	7	0	0	0
+ADCACA_Cychrus_caraboides	2	0	0	0
+ADCASC_Dyschirius_sp	12	0	0	0
+ADCAPA_Arthropterus_sp	10	0	0	0
+ADCAPA_Mystropomus_subcostatus	9	0	0	0
+ADCASC_Scarites_laevigatus	20	1	0	0
+ADCASC_Scarites_terricola	21	0	0	0
+ADCASC_Scarites_eurytus	10	0	0	0
+ADCASC_Scarites_occidentalis_M	5	3	0	0
+ADCASC_Scarites_buparius	4	3	0	0
+ADCASC_Scarites_hespericus	6	3	0	0
+ADCASC_Carenum_interruptum	5	3	0	0
+ADCACA_Carabus_problematicus	1	0	0	0
+ADCACI_Omus_californicus	12	0	0	0
+ADCACI_Amblycheila_baroni	17	0	0	0
+ADCACI_Mantichora_amygdaloides	15	0	0	0
+ADCACI_Ctenostoma_sp	2	0	0	0
+ADCACI_Oxycheila_sp	10	0	0	0
+ADCACI_Therates_sp	2	0	0	0
+ADCACI_Prothyma_sp	11	0	0	0
+ADCACI_Pentacomia_sp	11	0	0	0
+ADCACI_Cicindela_sedecimpunctata	13	1	0	0
+ADCACI_Cicindela_aurulenta	15	0	0	0
+ADCACI_Lophyridia_lunulata	11	0	0	0
+ADCACI_Cicindela_punctulata	4	3	0	0
+ADCACI_Cicindela_dorsalis	4	0	0	0
+ADCACI_Cicindela_repanda	6	0	0	0
+ADCACI_Cicindela_hybrida	7	0	0	0
+ADCACI_Cicindela_tranquebarica	4	0	0	0
+ADCACI_Cicindela_sexguttata	9	0	0	0
+ADCACI_Cicindela_splendida	8	0	0	0
+ADCACI_Cicindela_marutha	1	0	0	0
+ADCACI_Ellipsoptera_marginata	7	0	0	0
+ADCACI_Taenidia_circumdata	6	0	0	0
+ADCACI_Cylindera_cognata	17	0	0	0
+ADCACI_Myriochile_undulata	2	0	0	0
+ADCACI_Lophyra_sp	1	0	0	0
+ADCACI_Megacephala_whelani	14	0	0	0
+ADCACI_Megacephala_sobrina	5	0	0	0
+ADCACI_Megacephala_brasiliensis	4	0	0	0
+ADCALO_Loricera_pilicornis	14	0	0	0
+ADCAHA_Drypta_sp	6	0	0	0
+ADCAHA_Macrocheilus_sp	9	0	0	0
+ADCAHA_Anthia_sp	4	0	0	0
+ADCAHA_Amblystomus_sp	3	2	0	0
+ADCAHA_Anisodactylus_hispanus	8	2	0	0
+ADCAHA_Anisodactylus_virens	13	0	0	0
+ADCAHA_Galerita_sp	7	0	0	0
+ADCAHA_Platymetopus_sp	6	0	0	0
+ADCAHA_Sphallomorpha_sp	1	0	0	0
+ADCAHA_Cymindis_sp	13	0	0	0
+ADCAHA_Pterostichus_melanarius	16	0	0	0
+ADCAHA_Pterostichus_nemoralis	11	4	0	0
+ADCAHA_Pterostichus_alacer	9	8	0	0
+ADCAHA_Pterostichus_nigrita	9	8	0	0
+ADCAHA_Pterostichus_anthracinus	10	7	0	0
+ADCAHA_Pterostichus_aterrimus	9	4	0	0
+ADCAHA_Pterostichus_niger	12	4	0	0
+ADCAHA_Pterostichus_interruptus	15	1	0	0
+ADCAHA_Pterostichus_spinolae	17	0	0	0
+ADCAHA_Pterostichus_flavofemoratus	15	0	0	0
+ADCAHA_Pterostichus_globosus	15	2	0	0
+ADCAHA_Pterostichus_ziegleri	16	0	0	0
+ADCAHA_Orthomus_velocissimus	14	0	0	0
+ADCAHA_Pterostichus_angustus	11	1	0	0
+ADCAHA_Pterostichus_herculeanus	9	4	0	0
+ADCAHA_Stomis_sp	21	0	0	0
+ADCAHA_Platyderus_varians	11	0	0	0
+ADCAHA_Pterostichus_oblongopunctatus	14	0	0	0
+ADCAHA_Platyderus_lusitanicus	7	2	0	0
+ADCAHA_Agonum_marginatum	9	2	0	0
+ADCAHA_Abacetus_sp	9	2	0	0
+ADCAHA_Chlaenius_sp	8	3	0	0
+ADCAHA_Microlestes_sp	8	3	0	0
+ADCAHA_Craspedophorus_sp	7	5	0	0
+ADCAHA_Loxandrus_sp	7	6	0	0
+ADCAHA_Percus_politus	15	1	0	0
+ADCAHA_Notagonum_sp	11	2	0	0
+ADCAHA_Oodes_sp	8	3	0	0
+ADCAHA_Agonum_muelleri	8	4	0	0
+ADCAHA_Zabrus_sp	21	0	0	0
+ADCAHA_Amara_sp	12	1	0	0
+ADCAHA_Amphasia_sericea	11	0	0	0
+ADCAHA_Poecilus_versicolor	7	2	0	0
+ADCAHA_Poecilus_lucublandus	10	0	0	0
+ADCAHA_Poecilus_cupreus	9	0	0	0
+ADCAHA_Sarothrocrepis_sp	7	2	0	0
+ADCAHA_Poecilus_chalcites	11	0	0	0
+ADCAHA_Dicrochile_sp	11	0	0	0
+ADCAHA_Stenolophus_teutonus	19	0	0	0
+ADCAHA_Stenolophus_mixtus	16	0	0	0
+ADCAHA_Stenolophus_lecontei	14	0	0	0
+ADCAHA_Egadroma_marginatum	20	0	0	0
+ADCAHA_Diplocheila_sp	14	3	0	0
+ADCAHA_Dromius_sp	19	0	0	0
+ADCAHA_Graphipterus_sp	13	0	0	0
+ADCAHA_Syntomus_sp	7	2	0	0
+ADCAHA_Lebia_sp	7	2	0	0
+ADCAHA_Apenes_sp	7	4	0	0
+ADCAHA_Calathus_granatensis	13	2	0	0
+ADCAHA_Calathus_micropterus	13	2	0	0
+ADCAHA_Calathus_abaxoides	14	1	0	0
+ADCAHA_Calathus_asturiensis	14	1	0	0
+ADCAHA_Calathus_rotundatus	20	1	0	0
+ADCAHA_Calathus_brevis	20	1	0	0
+ADCAHA_Calathus_rectus	19	2	0	0
+ADCAHA_Calathus_fuscipes	20	1	0	0
+ADCAHA_Calathus_ambiguus	19	1	0	0
+ADCAHA_Calathus_mollis	19	1	0	0
+ADCAHA_Colliuris_pennsylvanica	15	1	0	0
+ADCAHA_Calathus_auctus	15	3	0	0
+ADCAHA_Calathus_ascendens	12	4	0	0
+ADCAHA_Calathus_circumseptus	12	3	0	0
+ADCAHA_Calathus_freyi	12	6	0	0
+ADCAHA_Calathus_erratus	12	3	0	0
+ADCAHA_Calathus_melanocephalus	12	6	0	0
+ADCAPS_Olisthopus_sp	7	3	0	0
+ADCAHA_Demetrias_atricapillus	4	2	0	0
+ADCAHA_Acinopus_picipes	5	2	0	0
+ADCAHA_Nesarpalus_sp	5	2	0	0
+ADCAHA_Harpalus_serripes	10	2	0	0
+ADCAHA_Harpalus_contemptus	5	2	0	0
+ADCAHA_Harpalus_aesculanus	7	2	0	0
+ADCAHA_Harpalus_affinis	5	3	0	0
+ADCAHA_Harpalus_distinguendus	6	2	0	0
+ADCAHA_Harpalus_anxius	13	2	0	0
+ADCAHA_Harpalus_dimidiatus	6	2	0	0
+ADCAHA_Harpalus_ebeninus	7	2	0	0
+ADCAHA_Harpalus_decipiens	3	2	0	0
+ADCAHA_Harpalus_wagneri	3	2	0	0
+ADCAHA_Harpalus_honestus	7	2	0	0
+ADCAHA_Harpalus_attenuatus	7	2	0	0
+ADCAHA_Harpalus_rubripes	9	2	0	0
+ADCAHA_Harpalus_pennsylvanicus	6	2	0	0
+ADCAHA_Abax_ovalis	9	3	0	0
+ADCAHA_Abax_parallelepipedus	12	3	0	0
+ADCAHA_Dixus_capito	16	2	0	0
+ADCAHA_Licinus_sp	11	2	0	0
+ADCAHA_Carterus_rotundicollis_M	9	2	0	0
+ADCAHA_Carterus_fulvipes	7	3	0	0
+ADCAHA_Ophonus_stictus	3	2	0	0
+ADCAHA_Ophonus_longicollis	6	2	0	0
+ADCAHA_Ophonus_azureus	5	2	0	0
+ADCAHA_Bradybaenus_sp	9	2	0	0
+ADCAHA_Notiobia_sp	12	2	0	0
+ADCAHA_Parophonus_hespericus	9	2	0	0
+ADCABR_Aptinus_displosor	12	0	0	0
+ADCABR_Pheropsophus_sp	13	0	0	0
+ADCABR_Brachinus_sp	4	3	0	0

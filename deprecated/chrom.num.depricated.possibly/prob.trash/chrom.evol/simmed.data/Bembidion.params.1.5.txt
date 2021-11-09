@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir simmed.data/results/Bembidion.1.5
+_dataFile simmed.data/Bembidion.1.5.txt
+_treeFile Bembidion/Bembidion1.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

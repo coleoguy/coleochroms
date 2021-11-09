@@ -1,0 +1,12 @@
+Thoughts on organization of manuscript
+
+Intro - as is
+
+Methods
+Data
+-chrom
+-fossils
+-trees
+Models
+-1 and 2 rate
+Adequacy

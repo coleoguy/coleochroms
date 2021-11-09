@@ -1,0 +1,140 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+POCHCH_Chrysolina_curvilinea: 5
+POCHCH_Chrysolina_timarchoides: 1
+POCHCH_Chrysolina_americana: 2
+POCHCH_Chrysolina_grossa: 5
+N25: 4
+Total number of gain events: 17
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+POCHCH_Chrysolina_aurichalcea: 24
+POCHCH_Chrysolina_viridana: 2
+N6: 3
+POCHCH_Chrysolina_lucida: 1
+POCHCH_Chrysolina_coerulans: 4
+POCHCH_Chrysolina_haemoptera: 2
+POCHCH_Chrysolina_obsoleta: 5
+N11: 7
+POCHCH_Chrysolina_diluta: 10
+POCHCH_Chrysolina_colasi: 5
+N12: 3
+POCHCH_Chrysolina_femoralis: 2
+N14: 5
+N15: 1
+N16: 1
+N17: 2
+POCHCH_Chrysolina_varians: 4
+POCHCH_Chrysolina_geminata: 8
+N18: 1
+N20: 1
+POCHCH_Chrysolina_carnifex: 2
+POCHCH_Chrysolina_marginata: 4
+N21: 1
+POCHCH_Chrysolina_peregrina: 5
+N22: 2
+N23: 1
+POCHCH_Chrysolina_gemina: 6
+N24: 4
+POCHCH_Chrysolina_polita: 9
+POCHCH_Chrysolina_cerealis: 3
+POCHCH_Chrysolina_fastuosa: 1
+POCHCH_Chrysolina_bicolor: 2
+Total number of loss events: 131
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCHCH_Chrysolina_aurichalcea	0	24	0	0
+N2	0	0	0	0
+N3	0	0	0	0
+N4	0	0	0	0
+N5	0	0	0	0
+POCHCH_Chrysolina_viridana	0	2	0	0
+N6	0	3	0	0
+POCHCH_Chrysolina_herbacea	0	0	0	0
+POCHCH_Chrysolina_graminis	0	0	0	0
+N7	0	0	0	0
+POCHCH_Chrysolina_lucida	0	1	0	0
+POCHCH_Chrysolina_coerulans	0	4	0	0
+N8	0	0	0	0
+N9	0	0	0	0
+N10	0	0	0	0
+POCHCH_Chrysolina_haemoptera	0	2	0	0
+POCHCH_Chrysolina_obsoleta	0	5	0	0
+N11	0	7	0	0
+POCHCH_Chrysolina_diluta	0	10	0	0
+POCHCH_Chrysolina_colasi	0	5	0	0
+N12	0	3	0	0
+POCHCH_Chrysolina_femoralis	0	2	0	0
+POCHCH_Chrysolina_affinis	0	0	0	0
+N13	0	0	0	0
+N14	0	5	0	0
+N15	0	1	0	0
+N16	0	1	0	0
+N17	0	2	0	0
+POCHCH_Chrysolina_varians	0	4	0	0
+POCHCH_Chrysolina_geminata	0	8	0	0
+N18	0	1	0	0
+N19	0	0	0	0
+POCHCH_Chrysolina_curvilinea	5	0	0	0
+N20	0	1	0	0
+POCHCH_Chrysolina_carnifex	0	2	0	0
+POCHCH_Chrysolina_marginata	0	4	0	0
+N21	0	1	0	0
+POCHCH_Chrysolina_timarchoides	1	0	0	0
+POCHCH_Chrysolina_peregrina	0	5	0	0
+N22	0	2	0	0
+N23	0	1	0	0
+POCHCH_Chrysolina_americana	2	0	0	0
+POCHCH_Chrysolina_gemina	0	6	0	0
+N24	0	4	0	0
+POCHCH_Chrysolina_polita	0	9	0	0
+POCHCH_Chrysolina_grossa	5	0	0	0
+N25	4	0	0	0
+POCHCH_Chrysolina_cerealis	0	3	0	0
+POCHCH_Chrysolina_fastuosa	0	1	0	0
+POCHCH_Chrysolina_bicolor	0	2	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCHCH_Chrysolina_aurichalcea	0	24	0	0
+POCHCH_Chrysolina_viridana	0	2	0	0
+POCHCH_Chrysolina_herbacea	0	3	0	0
+POCHCH_Chrysolina_graminis	0	3	0	0
+POCHCH_Chrysolina_lucida	0	1	0	0
+POCHCH_Chrysolina_coerulans	0	4	0	0
+POCHCH_Chrysolina_haemoptera	0	2	0	0
+POCHCH_Chrysolina_obsoleta	0	5	0	0
+POCHCH_Chrysolina_diluta	0	17	0	0
+POCHCH_Chrysolina_colasi	0	12	0	0
+POCHCH_Chrysolina_femoralis	0	5	0	0
+POCHCH_Chrysolina_affinis	0	3	0	0
+POCHCH_Chrysolina_varians	0	13	0	0
+POCHCH_Chrysolina_geminata	0	17	0	0
+POCHCH_Chrysolina_curvilinea	5	8	0	0
+POCHCH_Chrysolina_carnifex	0	11	0	0
+POCHCH_Chrysolina_marginata	0	13	0	0
+POCHCH_Chrysolina_timarchoides	1	9	0	0
+POCHCH_Chrysolina_peregrina	0	14	0	0
+POCHCH_Chrysolina_americana	2	9	0	0
+POCHCH_Chrysolina_gemina	0	15	0	0
+POCHCH_Chrysolina_polita	0	21	0	0
+POCHCH_Chrysolina_grossa	5	12	0	0
+POCHCH_Chrysolina_cerealis	4	8	0	0
+POCHCH_Chrysolina_fastuosa	4	6	0	0
+POCHCH_Chrysolina_bicolor	0	2	0	0

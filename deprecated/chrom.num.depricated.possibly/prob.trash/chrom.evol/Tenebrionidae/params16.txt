@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir result16
+_dataFile Tenebrionidae.txt
+_treeFile Tenebrionidae16.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

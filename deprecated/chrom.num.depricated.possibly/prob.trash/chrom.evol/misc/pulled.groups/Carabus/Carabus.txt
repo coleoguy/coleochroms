@@ -1,0 +1,10 @@
+>ADCACA_Carabus_auronitens
+28
+>ADCACA_Carabus_granulatus
+22
+>ADCACA_Carabus_nemoralis
+28
+>ADCACA_Carabus_problematicus
+28
+>ADCACA_Carabus_punctatoauratus
+28

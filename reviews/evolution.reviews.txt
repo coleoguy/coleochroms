@@ -1,0 +1,157 @@
+Dear Heath:
+
+The manuscript 14-0816 entitled "Assessing the Impact of Key Ecological and Phenotypic Transitions on the Rate of Karyotype Evolution:  Drift Drives the Evolution of Chromosome Number.", which you submitted to  Evolution has now been reviewed.  Associate Editor Dr. Luke Harmon handled it, obtaining two reviews and writing an evaluation (all attached). First, I apologize for how long the review process took; it resulted from an unhappy combination of delays, and is well beyond the average for Evolution.  Based on these evaluations, as well as my own, I regret to inform you that the manuscript is not suitable for publication in Evolution in its present form.  However, I consider the manuscript potentially appropriate for Evolution. Therefore, although the issues raised preclude the manuscript's acceptance at this stage, I am declining it "without prejudice" regarding future resubmission.
+
+We all agree that this is an interesting question and database, but the reviewers and AE Harmon raise a number of crucial questions about your analyses and the conclusions you draw from them.  It is also clear that the manuscript as written does not do the data justice; careful thinking and rewriting will be necessary to make a convincing case for your conclusions.  The reviewers and AE Harmon give a number of very constructive suggestions to accomplish this.
+
+If you are certain that you can fully address the issues raised, I encourage you to revise the manuscript and resubmit it.  Any revised version will be treated as a new submission and will be subject to the full peer review process. Please note that resubmitting your manuscript does not guarantee eventual acceptance. Of course, you are also free to submit elsewhere if you prefer.
+
+If you choose to resubmit this manuscript to Evolution, please include a cover letter mentioning this manuscript number and an itemized response to each of the comments or suggestions. If you choose not to revise based on a comment, this needs to be clearly justified.  Typically my advice is that some revision of the manuscript is required for most reviewer and AE comments, because if the paper is eventually published your readers may have similar questions or concerns as that expressed by the reviewer.  In any event, I hope you find the reviews constructive.
+
+IMPORTANT: Though your original files are carried over to the resubmission, you will be unable to modify them. Please delete any redundant files before completing the submission. Any original files that do not require modifications may remain.
+
+Once you have revised your manuscript, go to http://mc.manuscriptcentral.com/evo and login to your Author Center. Click on "Manuscripts with Decisions," and then click on "Create a Resubmission" located next to the manuscript number. Then, follow the steps for resubmitting your manuscript.
+
+Thank you for submitting your work to Evolution.
+
+Sincerely,
+Dr. Jeffrey Conner
+Editor, Evolution
+connerj@msu.edu
+
+
+
+
+
+Associate Editor
+Comments to the Author:
+You will see that I have received two reviews for your manuscript about the rate of karyotype evolution. Although both reviews are positive about some aspects of the manuscript, they both make critical comments, and neither reviewer considers the paper suitable for publication in Evolution. In particular, the reviewers were critical of the structure of the paper, and the relationship between the very broad conclusions and the results of the analyses.
+
+My own reading of the paper is in line with the reviewers. I do think there is something interesting here, the dataset seems worthwhile, and the analyses and results are potentially of broad importance. But I don’t think that this version of the manuscript accomplishes the task. I will include some specific comments of my own below.
+
+I do think this paper might potentially be good for the journal, but only with substantial revisions and another round of review. I hope you find these comments helpful.
+
+Sincerely,
+Luke Harmon
+
+
+
+
+
+AE comments:
+
+The link between karyotype evolution and chromosomal evolution is potentially interesting, but I am not convinced by the arguments in the paper. For example, the abstract begins with the idea that chromosomal mutations are rare, and then contrasts that with their importance in speciation (the authors later turn to Ne to explain this). But speciation in itself is rare (on generational time-scales). In fact, one could construct an argument that many models of chromosomal evolution might be “too fast” to line up with the distribution of waiting times to speciation. I think what is needed here is a better idea of just what rate of karyotype chance is sufficient to explain the observed frequency of chromosomal speciation - or, even, the observed distribution of waiting times / branch lengths on a phylogenetic tree. I am not convinced that drift in large populations is a priori “too slow”.
+
+I agree with reviewer 2’s perspective about the conclusions that can be drawn from the gibbon example. Even if this is a particularly good example, I don’t see how anyone can make sweeping general conclusions from a single branch on the tree of life. This reviewer also makes an important point about selection. The methods employed here to look for trends could detect selection if it were uniform across taxa within a group, but not otherwise. The “large Ne” prediction is more general - but still, I think that rejecting selection is going too far. As an aside, I really don’t think this paper will lose too much if the conclusions are toned back a bit.
+
+My main methodological concern is the use of Brownian motion to model chromosome number. I would like to see some assessment of the adequacy of that model for these data - either by comparing the fit of alternative models like OU or by using our approach (Pennell et al. 2014 Biorxiv - that approach is not really developed for the specific analyses used here, but could be applied to model residuals).
+
+The particulars of the results made me pause a bit. The categories seem quite arbitrary (especially the distinction between small and medium Ne), so the fact that the results were not consistent across the spectrum seems like a red flag. In particular, the difference between “medium” and “large” Ne categories seems critical, as this is the difference between lineages with no small Ne characteristics and at least one. But these two categories are not different in rates.
+
+This really makes me wonder if there is something else driving these results besides Ne. The one think I would really check for if I were the authors is outliers - and, in this case, I would be suspicious of very close relatives with very different chromosome numbers. Such cases violate the Brownian model, and could result in, e.g., very large independent contrasts that could have a huge impact on rate estimates. Such outliers would also be picked up by tests of  BM versus OU or model adequacy tests. And if these close relatives are only present in one category - like “small Ne” - then they could potentially lead to artifactual results.
+
+
+Reviewer(s)' Comments to Author:
+
+
+
+
+
+Reviewer: 1
+
+Comments to the Author
+Review: Assessing the Impact of Key Ecological and Phenotypic Transitions on the Rate of Karyotype Evolution: Drift Drives the Evolution of Chromosome Number.
+Authors: Blackmon, Heath; Demuth, Jeffery.
+
+General Comments
+I agree with the authors on the hypothesis of neutral changes in chromosome number being underdominant and getting fixed due to genetic drift. I consider Coleoptera a good example for this type of study despite the lack of a more complete phylogenetic tree that would allow the authors to make more accurate inferences.
+I agree with the general conclusions of the study.
+
+My concerns relate more to the methods use in the present study. The authors have clarified the lack of reconciliation between phylogeny, approximate measures for Ne, and chromosome numbers and tried to overcome these issues by considering phylogenetic error using the best 100 a posteriori phylogenetic trees. However, the error, coming from actual measures of chromosome numbers and Ne related variables, is highly disregarded and possibly more critical than phylogenetic error at genus level. I consider important to comment or address this issue in the resubmission.
+
+Specific Comments
+1.      Line 108. Authors introduce Ne as a function of dispersal distance but never define variable δ
+2.      Line 143.  In 19 cases where multiple values of chromosome number were reported the mean value was used. I am not clear if the mean value is a good summary of the repeated chromosome numbers in a species, maybe it is better to use the minimum or the mode. How often miscount of chromosomes happen?
+3.      Line 162 and Table 1.  I am not very clear on the classification of High- Medium-Low expected Ne. Is it possible that some of the variables influencing expected Ne have more weight than others? For example, it seems that if authors remove Feeding variable classification will remain exactly the same, thus Feeding won’t have any importance determining Ne.
+4.      Line 180. Directly relates to my previous comment. ANOVA will in general conclude that the three classes of Ne have different chromosome numbers however it won’t tell how relevant the classes are based on the ecological/behavioral traits you have chosen. Clarify what kind of simulations were use to assess significance of F-statistic (bootstrap?, phylogenetic  bootstrap? why 1000?)
+5.      Line 183.  The use of Brownian motion for a discrete trait. I understand that authors performed the analysis using the raw counts of chromosome number and log(chromosome number) (from Line 146) and ended up with the same results. However, when using a Brownian motion it would be more appropriate to present the results using log since chromosome number is a discrete trait with small spread (1-39 range).  Instead of Brownian motion apply a discrete character evolution model to measure the rates (why not?).
+6.      Line 206. My main concern is the reduction of information (bias sample and observation error) when matching the phylogeny.  The authors have made a good job addressing phylogenetic error but not observation error. When there is such a reduction on the observations placed in the tips of a phylogeny it is important to characterize how much variance is lost due to this reduction of information. The authors tried to overcome this problem by showing the scaled variance analysis,  later  conclude (Line 350) that the methods not  using  a phylogeny are also misled also due to missing variance of the groups studied. I will suggest that the authors perform a bootstrap simulation (1000+ times) choosing randomly chromosome numbers in the tips of their small genera phylogeny and performing the same analysis to estimate the robustness of chromosome number change rate, this will allow them to assess the variation of their karyotype estimates due to reduction of information and will give strength to their conclusions. My expectation will be that authors will see a better reconciliation of their estimates with the time-scale variance analysis results.
+
+
+
+
+
+
+
+
+
+Reviewer: 2
+
+Comments to the Author
+First of all, I want to apologize for the tardiness of this review.
+
+I think the question posed by this paper — does genetic drift drive changes in karyotype? — is an interesting one. The authors link this question to the broader issue of the role of the karyotype in speciation, and I think this may be of interest to many evolutionary biologists. Certainly the extent to which drift drives genome evolution is a question that many people have spent a lot of time on, and it makes sense to include chromosome number in this broader debate.
+
+I was a bit frustrated by this paper because it felt to me like it could have been written more carefully and clearly. The organization could be improved, and some of the methods were illogical to me. I also felt like I couldn’t evaluate the strength of some of the results because there were aspects of the data that weren’t presented.
+
+There are a lot of minor grammatical problems with this paper – it could use an eagle-eye proofreader.
+
+I hope the authors find these comments useful!
+
+Line 40 – this sentence reads oddly to me – I see that the authors are making a distinction between their two analyses (Carabidae vs disparate genera), but it reads as though winglessness is pulled out as a special case. The take-home message is that several traits (including winglessness) are associated with high rates of karyotype evolution in both analyses, right? Can this be clarified?
+
+Line 59 – Can you add a citation for recombination being limited to one crossover per chromosome arm?
+
+Lines 62-66 are all one really long sentence.
+
+Lines 68 – 69. Most mutations in general are either neutral or deleterious (i.e. not just changes in karyotype) – this sentence reads as though karyotype changes are unusual in this regard.
+
+Lines 92 – 93. I like how the authors lay out these alternatives, but I do wonder about the last one. Is there reason to be so confident that selection acting on karyotype would only cause parallel changes in chromosome # in related species? I am not 100% convinced that this is the case – in the case of recombination, which the authors mention, couldn’t you conceivably have selection for increased recombination in one taxon and decreased in another, even if those taxa were relatively closely related?
+
+Pages 4-6. It strikes me that the introduction could be streamlined and strengthened a bit – the mutation rate part, specifically motivated by the recent gibbon work, feels a bit out of place, maybe because it feels motivated by a single study (the gibbon work) rather than by the fact that all evolutionary change reflects the interaction of mutation, selection, and drift … To my eyes, it would be simpler to lead with the fact that these 3 forces interact to shape karyotype evolution, and the authors are testing the hypothesis that drift is the most relevant of the 3, or something like that. There are surely cases where selection and mutation are the most relevant (e.g. social insects, gibbons), but the authors are curious whether these cases are the rule or the exception, right? And it seems like the authors are specifically hypothesizing that selection and mutation are exceptions? (Line 133-134?)
+
+Lines 105 – 110. It’s probably worth a sentence describing what effects the traits other than presence/absence of wings are expected to have on Ne, just to be consistent.
+
+Lines 114-117. This doesn’t fit with the way the authors set the paragraph up – population structure and allozyme heterozygosity are different than ecological and phenotypic traits.
+
+Line 122. It’s not clear to me on how the “first, we incorporate…” sentence fits with the problems the authors listed in the previous paragraph. What gap is this study filling? Is it because this study is using the Coleoptera dataset instead of more highly divergent clades (i.e. like all vertebrates?). It strikes me that beetles are also hundreds of millions of years old and quite diverse …
+
+In that same paragraph, are there specific issues with earlier studies that you expect to reflect not having incorporated phylogeny and realistic models? That would make their inclusion in the current study seem more important.
+
+Line 129. It might be good to describe how much variation in chromosome # exists across Coleoptera as another motivation for using the group. (I know it comes later)
+
+Lines 140 -142. This is a comma splice.
+
+Line 145. Did the authors also test whether their own data were normally distributed? This makes more sense than analyzing transformed and untransformed data without knowing whether transformation is warranted?
+
+Line 148. Although I can certainly empathize with being constrained by the existing data, it would really strengthen the paper to explain what the pros and cons of this sampling scheme are. It is presented as being inevitable, but it’s not clear to the reader whether it’s adequate.
+
+Line 152-158. Can the authors give a sense of how many species in the dataset were given probabilities rather than direct measurements?
+
+Lines 159 – 169. I think the authors need to summarize the relevant information from their 2014 phylogeny in this paper for readers who don’t have the other paper in front of them. The first questions that came to my mind were: 1) were the 1042 included taxa from only the 12 focal genera? or were there taxa from other genera included in that 1042 that weren’t included in this paper’s analysis? 2) How many species were in each genera?  3) Was there strong phylogenetic support for monophyly of each genus? 4) was the phylogenetic uncertainty primarily relationships among the genera, or was it relationships within genera? What would the impact of either of these be on the analyses in this paper?
+
+I had some additional questions about this analysis as well: 1) For the 1042 taxa referenced, did the authors have all trait data for all of them? If not, did they assign probabilities as they did in Carabidae? It’s hard for me to feel confident in their placement of genera into high, medium, and low expected Ne classes because it’s difficult to see exactly what they did. Can the authors add all the raw numbers in a table as supplementary material?
+
+Lines 171-174. This doesn’t make sense to me: to test for selection, authors looked for different numbers of chromosomes as would be expected if small population size selected for more chromosomes? What does that mean? It seems like the authors are mixing selection and drift together here? Do they mean if small Ne produces more chromosomes? Do they mean by drift or selection?
+
+Lines 171 – 181. These methods don’t quite make sense to me. For the Carabidae data, the authors did a Pearson’s cc to test for a correlation between chromosome number and probability of being winged? How does this connect to their initial hypotheses? I thought the goal was to test whether smaller Ne is associated with more changes in chromosome number; in principle, couldn’t changes include both fusions and fissions of chromosome numbers? If the authors are looking for consistent changes in one direction, which they are interpreting as evidence for selection (I worried about this a bit in an earlier comment), what relationship with winglessness are they expecting to see and why?
+
+Lines 182-204. This makes more sense to me as a test of the authors’ central hypothesis. Do the authors feel like Brownian motion is a reasonable model for karyotype evolution? If so, it would be good to say why. Both here and in the previous section, it would be really useful to have some idea of what the actual dataset is that the analyses are based on. How many species with actual trait data? What does the tree for this dataset (presumably far less than 1024 taxa?) look like?
+
+Lines 232-239. It is really unclear to me why the traits associated with Ne would select for changes in chromosome number. Maybe it’s not clear to the authors, either, which is why the selection hypotheses feel really awkward. In the introduction, the authors talk about recombination, but they never go back and revisit this in light of their traits that affect Ne. I understand that the authors are trying to consider and reject non-drift explanations of increased rates of evolution in lineages with smaller Ne – but my reading of the manuscript right now finds this exploration to be really unsatisfying. I would suggest the authors work to improve this component of the manuscript.  (A few of my earlier comments also touch on this central issue)
+
+Lines 241-249. Do the authors have the same depth of coverage for winged and wingless species? Is that an issue for comparing rate estimates between those two classes?
+
+Lines 251-254. It would be nice to know (maybe in the table?) how strong a majority these categorizations are based on – for example, 41 out of 80 species had the Ne-reducing trait? Or 399 out of 400 species?
+
+Lines 263-265. Given how close the low and intermediate rates are in Adephaga, the deviation from the expected rank-order doesn’t seem too important to me. Similarly, in Polyphaga, the low-Ne class is much more different from the medium- and high-Ne classes than the medium and high are from each other… (authors mention this themselves a bit laters)
+
+Lines 268 – 269. What are the units for rate of karyotype evolution?
+
+Lines 273-279. Is there much reason to think that these fossils mark or approximate the origin dates for these clades? (authors mention this in the Discussion)
+
+Lines 285-286. What potential differences in mutation rate between lineages? To my understanding, Adephaga rates of karyotype evolution are higher than in Polyphaga (lines 261-262) – is that what the authors are referring to? Or is there something else? This doesn’t seem to me like evidence for differences in mutation rate between the two groups.
+
+Lines 284-290. The authors don’t go back and revisit why they think differences in mutation rate are not a big player here, although they do set that idea up somewhat in the introduction. (they do get to it a bit later)
+
+Lines 370-371. How did the authors show that the distribution of fitness effects of karyotype change is independent of the mutation rate?

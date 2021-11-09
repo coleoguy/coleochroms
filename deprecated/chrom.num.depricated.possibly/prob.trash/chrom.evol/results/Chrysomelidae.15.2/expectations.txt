@@ -1,0 +1,1196 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+N2: 2
+N3: 3
+N4: 3
+N5: 1
+N6: 1
+N7: 2
+N8: 3
+N9: 5
+POCHCL_Lachnaia_sp: 6
+N10: 1
+POCHCL_Smaragdina_sp: 2
+POCHCH_Exema_canadensis: 6
+N14: 3
+N15: 2
+POCHEU_Colasposoma_auripenne: 1
+POCHEU_Basilepta_sp: 7
+N17: 11
+N18: 4
+N19: 1
+POCHEU_Eumolpus_sp: 2
+N20: 3
+N21: 1
+N25: 1
+POCHCA_Octotoma_scabripennis: 3
+N26: 2
+N27: 1
+N29: 1
+POCHCA_Aspidomorpha_sp: 1
+POCHCA_Coptocycla_adamantina: 14
+POCHCA_Deloyala_guttata: 3
+N32: 1
+POCHCA_Cassida_fuscorufa: 4
+POCHCA_Cassida_rubiginosa: 1
+POCHCA_Dicladispa_testacea: 1
+POCHCA_Notosacantha_sp: 2
+POCHCA_Agroiconota_propinqua: 1
+N40: 6
+POCHCH_Gonioctena_viminalis: 9
+N42: 1
+POCHCH_Gonioctena_linnaeana: 2
+N45: 1
+POCHCH_Entomoscelis_sp: 3
+N46: 6
+POCHCH_Gonioctena_variabilis: 1
+POCHCH_Paropsisterna_sp: 1
+POCHCH_Philhydronopa_sp: 2
+N53: 3
+N54: 1
+POCHCH_Oreina_intricata: 3
+POCHCH_Oreina_cacaliae: 6
+POCHCH_Oreina_virgulata: 8
+POCHCH_Chrysolina_affinis: 1
+POCHCH_Chrysolina_fastuosa: 1
+N64: 2
+N65: 1
+N66: 1
+POCHCH_Chrysolina_diluta: 7
+POCHCH_Chrysolina_obsoleta: 1
+POCHCH_Chrysolina_bicolor: 1
+POCHCH_Chrysolina_geminata: 4
+N70: 3
+POCHCH_Chrysolina_coerulans: 1
+POCHCH_Chrysolina_viridana: 2
+N72: 2
+N75: 3
+POCHCH_Chrysolina_grossa: 2
+N76: 3
+POCHCH_Chrysolina_americana: 2
+POCHCH_Chrysolina_varians: 7
+N77: 3
+N78: 7
+POCHCH_Chrysolina_aurichalcea: 4
+N79: 1
+POCHCH_Chrysolina_carnifex: 10
+POCHCH_Chrysolina_curvilinea: 1
+POCHCH_Chrysolina_timarchoides: 2
+POCHCH_Chrysolina_peregrina: 1
+N85: 2
+POCHCH_Cyrtonus_majoricensis: 6
+N87: 1
+POCHCH_Cyrtonus_dufouri: 3
+N88: 3
+POCHCH_Cyrtonus_cylindricus: 1
+N89: 4
+POCHCH_Cyrtonus_plumbeus: 4
+N90: 6
+POCHCH_Cyrtonus_puncticeps: 3
+N91: 1
+N93: 3
+POCHCH_Cyrtonus_fairmairei: 2
+POCHCH_Cyrtonus_elegans: 4
+POCHCH_Leptinotarsa_haldemani: 4
+POCHCH_Desmogramma_sp: 7
+N98: 1
+POCHCH_Labidomera_clivicollis: 1
+POCHCH_Leptinotarsa_juncta: 1
+N100: 3
+POCHCH_Leptinotarsa_texana: 5
+POCHCH_Platyphora_sp: 3
+POCHCH_Calligrapha_fulvipes: 3
+POCHCH_Calligrapha_polyspila: 2
+N103: 2
+POCHCH_Zygogramma_sp: 1
+N107: 1
+POCHCH_Calligrapha_rowena: 1
+POCHCH_Timarcha_intricata: 3
+N114: 3
+POCHCH_Timarcha_metallica: 1
+N115: 1
+N116: 1
+POCHCH_Timarcha_tenebricosa: 1
+POCHCH_Timarcha_pimelioides: 1
+N118: 1
+POCHCH_Timarcha_insparsa: 5
+POCHCH_Timarcha_calceata: 1
+N125: 2
+POCHCH_Timarcha_goettingensis: 3
+POCHCH_Timarcha_recticollis: 1
+POCHCH_Timarcha_sinuaticollis: 1
+POCHCH_Timarcha_hispanica: 1
+POCHCH_Timarcha_aurichalcea: 1
+POCHCH_Timarcha_montserratensis: 2
+N137: 1
+POCHCH_Timarcha_rugosa: 2
+POCHCH_Timarcha_ventricosa: 2
+N141: 3
+POCHCH_Timarcha_strangulata: 1
+POCHCH_Timarcha_scabripennis: 2
+POCHCH_Linaeidea_aenea: 2
+N147: 1
+POCHCH_Chrysomela_mainensis: 1
+POCHCH_Chrysomela_lapponica: 2
+POCHCH_Chrysomela_schaefferi: 1
+N150: 2
+N151: 1
+POCHCA_Hilarocassis_sp: 1
+POCHCH_Chrysomela_populi: 4
+POCHCH_Plagiodera_versicolora: 2
+POCHCH_Prasocuris_sp: 2
+N153: 3
+N154: 3
+POCHCH_Gastrophysa_cyanea: 2
+POCHCH_Gastrophysa_viridula: 4
+POCHCH_Phaedon_sp: 2
+POCHCH_Phratora_tibialis: 2
+POCHCH_Phratora_laticollis: 1
+N160: 5
+POCHGA_Sermylassa_halensis: 4
+N161: 6
+N162: 2
+POCHGA_Cerotoma_sp: 2
+POCHGA_Gynandrobrotica_lepida: 5
+POCHGA_Gynandrobrotica_nigrofasciata: 4
+POCHGA_Isotes_multipunctata: 3
+POCHGA_Acalymma_blandulum: 5
+N168: 1
+POCHGA_Acalymma_fairmairei: 2
+N169: 1
+POCHGA_Acalymma_trivittatum: 1
+POCHGA_Acalymma_vittatum: 1
+N172: 1
+POCHGA_Diabrotica_scutellata: 4
+POCHGA_Diabrotica_porracea: 1
+POCHGA_Diabrotica_cristata: 6
+POCHGA_Diabrotica_balteata: 2
+POCHGA_Paratriarius_sp: 1
+POCHGA_Diabrotica_sexmaculata: 8
+N175: 4
+POCHGA_Diabrotica_undecimpunctata: 3
+N179: 1
+POCHGA_Diabrotica_adelpha: 3
+N181: 2
+N182: 1
+N183: 1
+N184: 1
+N185: 3
+POCHGA_Ophraella_communa: 2
+POCHGA_Ophraella_notulata_M: 1
+N186: 4
+N187: 1
+N188: 1
+N189: 1
+N191: 1
+POCHGA_Galerucella_nympheae: 1
+POCHGA_Galerucella_birmanica: 2
+N192: 2
+N193: 1
+POCHGA_Galerucella_pusilla: 3
+POCHGA_Galerucella_tenella: 1
+N196: 1
+N197: 1
+POCHGA_Xanthogaleruca_luteola: 1
+N198: 2
+N199: 4
+POCHGA_Paridea_sp: 2
+N200: 4
+N202: 2
+POCHGA_Monolepta_sp: 1
+POCHGA_Luperus_sp: 1
+POCHGA_Aulacophora_sp: 2
+N207: 5
+POCHGA_Glyptina_sp: 1
+POCHGA_Disonycha_sp: 2
+N211: 8
+N213: 1
+POCHGA_Argopus_sp: 3
+POCHGA_Neocrepidodera_sp: 1
+POCHGA_Hermaeophaga_sp: 3
+POCHGA_Systena_sp: 12
+POCHGA_Heikertingerella_sp: 5
+POCHGA_Phyllotreta_sp: 4
+N219: 1
+N220: 3
+POCHGA_Aedmon_sp: 1
+N221: 6
+POCHGA_Hypolampsis_sp: 3
+N223: 2
+POCHAL_Altica_lythri: 5
+N224: 1
+POCHGA_Lysathia_ludoviciana: 3
+POCHGA_Psylliodes_chrysocephalus: 1
+POCHGA_Psylliodes_napi: 6
+N227: 2
+N228: 2
+POCHGA_Epitrix_fasciata: 6
+N230: 2
+POCHGA_Psylliodes_dulcamarae: 12
+N232: 7
+N233: 3
+POCHGA_Podagrica_malvae: 3
+POCHGA_Sphaeroderma_sp: 3
+N234: 1
+N235: 3
+POCHGA_Podontia_sp: 1
+N236: 4
+N239: 2
+POCHGA_Alagoasa_extrema: 1
+N240: 1
+N241: 5
+POCHGA_Alagoasa_cruxnigra: 3
+N243: 1
+POCHGA_Alagoasa_cf_arcifera: 13
+POCHGA_Alagoasa_decemgutatta: 3
+N244: 2
+POCHGA_Oedionychus_cinctus: 6
+POCHGA_Asphaera_abdominalis: 1
+POCHGA_Omophoita_personata: 2
+N249: 1
+POCHGA_Capraita_sp: 3
+POCHGA_Walterianella_sp: 1
+N252: 2
+POCHDO_Donacia_hirticollis: 9
+N253: 3
+POCHDO_Donacia_vulgaris: 4
+N255: 1
+POCHDO_Donacia_subtilis: 10
+POCHDO_Donacia_biimpressa: 1
+N257: 2
+N258: 7
+POCHCR_Crioceris_paracenthesis: 3
+POCHCR_Oulema_melanopus: 2
+N261: 6
+POCHBR_Pachymerus_sp: 6
+POCHBR_Zabrotes_subfasciatus: 1
+N263: 1
+POCHBR_Callosobruchus_analis: 2
+N267: 5
+POCHBR_Callosobruchus_subinnotatus: 3
+POCHBR_Callosobruchus_maculatus: 1
+POCHBR_Callosobruchus_chinensis: 3
+POCHSA_Sagra_femorata: 3
+POCHBR_Bruchus_pisorum: 4
+POCHBR_Spermophagus_sp: 2
+POCHBR_Bruchus_rufimanus: 8
+POCHBR_Acanthoscelides_obtectus: 19
+N271: 5
+POCHBR_Bruchidius_saundersi: 5
+POCHBR_Bruchidius_urbanus: 7
+Total number of gain events: 808
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+POCHCR_Pachybrachis_sp: 5
+POCHCH_Chlamisus_sp: 4
+POCHCR_Cryptocephalus_venustus: 3
+POCHEU_Bromius_obscurus: 1
+POCHEU_Paria_sp: 3
+POCHCR_Lema_sp: 5
+POCHEU_Chalcophana_sp: 1
+N22: 1
+N23: 1
+N24: 1
+POCHCA_Microrhopala_vittata: 1
+POCHCA_Laccoptera_sp: 4
+POCHCA_Dactylispa_sp: 1
+N43: 1
+POCHCH_Paropsis_porosa_M: 1
+POCHCH_Gonioctena_sibirica_M: 4
+N58: 1
+POCHCH_Oreina_variabilis: 1
+POCHCH_Oreina_elongata: 2
+POCHCH_Chrysolina_femoralis: 1
+N62: 2
+POCHCH_Chrysolina_colasi: 1
+POCHCH_Chrysolina_haemoptera: 1
+POCHCH_Chrysolina_lucida: 1
+N81: 3
+POCHCH_Cyrtonus_ruficornis: 1
+N92: 1
+N99: 1
+POCHCH_Doryphora_sp: 1
+N105: 1
+POCHCH_Calligrapha_confluens: 1
+POCHCH_Calligrapha_amator: 1
+POCHCH_Timarcha_balearica: 3
+N121: 2
+POCHCH_Timarcha_marginicollis: 1
+POCHCH_Timarcha_lugens: 1
+N123: 1
+N133: 1
+N134: 1
+POCHCH_Timarcha_granadensis: 2
+POCHCH_Timarcha_espanoli: 3
+POCHCH_Timarcha_intermedia: 1
+POCHCH_Gastrophysa_poligoni: 1
+N178: 1
+POCHGA_Diabrotica_speciosa: 1
+POCHGA_Diabrotica_limitata: 1
+POCHGA_Diabrotica_tibialis: 1
+POCHGA_Pyrrhalta_viburni: 3
+POCHGA_Galerucella_placida: 2
+POCHGA_Galerucella_calmariensis: 1
+POCHGA_Trirhabda_canadensis: 1
+POCHGA_Galerucella_lineola: 2
+POCHGA_Oides_sp: 1
+POCHGA_Diorhabda_sp: 1
+POCHGA_Exora_sp: 1
+POCHGA_Aphthona_lutescens: 1
+POCHGA_Longitarsus_exsoletus: 2
+POCHGA_Asiorestia_sp: 1
+POCHGA_Dibolia_sp: 1
+N229: 1
+POCHGA_Psylliodes_cupreus: 2
+POCHGA_Psylliodes_affinis: 2
+POCHGA_Ophrida_sp: 3
+POCHGA_Blepharida_rhois: 1
+POCHGA_Hemipyxis_sp: 3
+POCHGA_Paranaita_bilimbata: 2
+POCHGA_Omophoita_octoguttata: 2
+POCHGA_Asphaera_unicolor: 3
+POCHDO_Donacia_bicolor: 1
+N256: 2
+POCHDO_Donacia_clavipes: 3
+POCHCR_Lilioceris_sp: 1
+N264: 1
+POCHBR_Bruchidius_aureus: 2
+Total number of loss events: 124
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	2	0	0	0
+N3	3	0	0	0
+N4	3	0	0	0
+N5	1	0	0	0
+N6	1	0	0	0
+POCHCR_Pachybrachis_sp	0	5	0	0
+N7	2	0	0	0
+N8	3	0	0	0
+N9	5	0	0	0
+POCHCL_Coptocephala_sp	0	0	0	0
+POCHCL_Lachnaia_sp	6	0	0	0
+N10	1	0	0	0
+POCHCL_Smaragdina_sp	2	0	0	0
+POCHCL_Macrolenes_dentipes	0	0	0	0
+N11	0	0	0	0
+N12	0	0	0	0
+POCHCH_Exema_canadensis	6	0	0	0
+POCHCH_Chlamisus_sp	0	4	0	0
+POCHCR_Cryptocephalus_venustus	0	3	0	0
+N13	0	0	0	0
+N14	3	0	0	0
+N15	2	0	0	0
+POCHEU_Colasposoma_auripenne	1	0	0	0
+POCHEU_Bromius_obscurus	0	1	0	0
+N16	0	0	0	0
+POCHEU_Basilepta_sp	7	0	0	0
+POCHEU_Paria_sp	0	3	0	0
+POCHCR_Lema_sp	0	5	0	0
+N17	11	0	0	0
+POCHEU_Nodonota_sp	0	0	0	0
+N18	4	0	0	0
+N19	1	0	0	0
+POCHEU_Eumolpus_sp	2	0	0	0
+POCHEU_Chalcophana_sp	0	1	0	0
+POCHEU_Colaspis_sp	0	0	0	0
+N20	3	0	0	0
+N21	1	0	0	0
+N22	0	1	0	0
+N23	0	1	0	0
+POCHCA_Baliosus_sp	0	0	0	0
+N24	0	1	0	0
+POCHCA_Microrhopala_vittata	0	1	0	0
+N25	1	0	0	0
+POCHCA_Chalepus_sp	0	0	0	0
+POCHCA_Stolas_sp	0	0	0	0
+POCHCA_Octotoma_scabripennis	3	0	0	0
+N26	2	0	0	0
+N27	1	0	0	0
+N28	0	0	0	0
+N29	1	0	0	0
+POCHCA_Charidotella_sexpunctata	0	0	0	0
+POCHCA_Chelymorpha_sp	0	0	0	0
+POCHCA_Aspidomorpha_sp	1	0	0	0
+POCHCA_Coptocycla_adamantina	14	0	0	0
+N30	0	0	0	0
+POCHCA_Deloyala_guttata	3	0	0	0
+N31	0	0	0	0
+POCHCA_Laccoptera_sp	0	4	0	0
+N32	1	0	0	0
+POCHCA_Cassida_fuscorufa	4	0	0	0
+POCHCA_Cassida_rubiginosa	1	0	0	0
+N33	0	0	0	0
+N34	0	0	0	0
+POCHCA_Dactylispa_sp	0	1	0	0
+POCHCA_Dicladispa_testacea	1	0	0	0
+POCHCA_Notosacantha_sp	2	0	0	0
+POCHCA_Agroiconota_propinqua	1	0	0	0
+N35	0	0	0	0
+N36	0	0	0	0
+N37	0	0	0	0
+N38	0	0	0	0
+N39	0	0	0	0
+N40	6	0	0	0
+POCHCH_Gonioctena_viminalis	9	0	0	0
+N41	0	0	0	0
+N42	1	0	0	0
+POCHCH_Gonioctena_linnaeana	2	0	0	0
+N43	0	1	0	0
+POCHCH_Paropsis_porosa_M	0	1	0	0
+POCHCH_Gonioctena_springlovae	0	0	0	0
+POCHCH_Gonioctena_sibirica_M	0	4	0	0
+N44	0	0	0	0
+N45	1	0	0	0
+POCHCH_Entomoscelis_sp	3	0	0	0
+N46	6	0	0	0
+POCHCH_Paropsis_atomaria	0	0	0	0
+POCHCH_Gonioctena_variabilis	1	0	0	0
+N47	0	0	0	0
+POCHCH_Paropsisterna_sp	1	0	0	0
+POCHCH_Philhydronopa_sp	2	0	0	0
+N48	0	0	0	0
+N49	0	0	0	0
+N50	0	0	0	0
+N51	0	0	0	0
+N52	0	0	0	0
+N53	3	0	0	0
+N54	1	0	0	0
+N55	0	0	0	0
+N56	0	0	0	0
+N57	0	0	0	0
+N58	0	1	0	0
+POCHCH_Oreina_variabilis	0	1	0	0
+N59	0	0	0	0
+POCHCH_Oreina_ganglbaueri	0	0	0	0
+POCHCH_Oreina_alpestris	0	0	0	0
+POCHCH_Oreina_elongata	0	2	0	0
+POCHCH_Oreina_intricata	3	0	0	0
+POCHCH_Oreina_cacaliae	6	0	0	0
+N60	0	0	0	0
+POCHCH_Oreina_virgulata	8	0	0	0
+N61	0	0	0	0
+POCHCH_Chrysolina_femoralis	0	1	0	0
+POCHCH_Chrysolina_affinis	1	0	0	0
+N62	0	2	0	0
+POCHCH_Chrysolina_cerealis	0	0	0	0
+POCHCH_Chrysolina_fastuosa	1	0	0	0
+N63	0	0	0	0
+N64	2	0	0	0
+N65	1	0	0	0
+N66	1	0	0	0
+POCHCH_Chrysolina_colasi	0	1	0	0
+POCHCH_Chrysolina_diluta	7	0	0	0
+POCHCH_Chrysolina_haemoptera	0	1	0	0
+POCHCH_Chrysolina_obsoleta	1	0	0	0
+N67	0	0	0	0
+POCHCH_Chrysolina_bicolor	1	0	0	0
+POCHCH_Chrysolina_geminata	4	0	0	0
+N68	0	0	0	0
+N69	0	0	0	0
+N70	3	0	0	0
+POCHCH_Chrysolina_coerulans	1	0	0	0
+POCHCH_Chrysolina_lucida	0	1	0	0
+N71	0	0	0	0
+POCHCH_Chrysolina_viridana	2	0	0	0
+N72	2	0	0	0
+POCHCH_Chrysolina_herbacea	0	0	0	0
+POCHCH_Chrysolina_graminis	0	0	0	0
+N73	0	0	0	0
+N74	0	0	0	0
+N75	3	0	0	0
+POCHCH_Chrysolina_grossa	2	0	0	0
+POCHCH_Chrysolina_polita	0	0	0	0
+N76	3	0	0	0
+POCHCH_Chrysolina_americana	2	0	0	0
+POCHCH_Chrysolina_gemina	0	0	0	0
+POCHCH_Chrysolina_varians	7	0	0	0
+N77	3	0	0	0
+N78	7	0	0	0
+POCHCH_Chrysolina_aurichalcea	4	0	0	0
+N79	1	0	0	0
+POCHCH_Chrysolina_carnifex	10	0	0	0
+N80	0	0	0	0
+POCHCH_Chrysolina_curvilinea	1	0	0	0
+POCHCH_Chrysolina_marginata	0	0	0	0
+N81	0	3	0	0
+POCHCH_Chrysolina_timarchoides	2	0	0	0
+POCHCH_Chrysolina_peregrina	1	0	0	0
+N82	0	0	0	0
+N83	0	0	0	0
+N84	0	0	0	0
+N85	2	0	0	0
+POCHCH_Cyrtonus_rotundatus	0	0	0	0
+POCHCH_Cyrtonus_majoricensis	6	0	0	0
+N86	0	0	0	0
+N87	1	0	0	0
+POCHCH_Cyrtonus_dufouri	3	0	0	0
+POCHCH_Cyrtonus_cupreovirens	0	0	0	0
+N88	3	0	0	0
+POCHCH_Cyrtonus_ruficornis	0	1	0	0
+POCHCH_Cyrtonus_cylindricus	1	0	0	0
+N89	4	0	0	0
+POCHCH_Cyrtonus_plumbeus	4	0	0	0
+N90	6	0	0	0
+POCHCH_Cyrtonus_puncticeps	3	0	0	0
+N91	1	0	0	0
+N92	0	1	0	0
+POCHCH_Cyrtonus_arcasi	0	0	0	0
+POCHCH_Cyrtonus_pardoi	0	0	0	0
+N93	3	0	0	0
+POCHCH_Cyrtonus_contractus	0	0	0	0
+POCHCH_Cyrtonus_fairmairei	2	0	0	0
+POCHCH_Cyrtonus_elegans	4	0	0	0
+N94	0	0	0	0
+N95	0	0	0	0
+N96	0	0	0	0
+POCHCH_Leptinotarsa_haldemani	4	0	0	0
+N97	0	0	0	0
+POCHCH_Desmogramma_sp	7	0	0	0
+N98	1	0	0	0
+N99	0	1	0	0
+POCHCH_Labidomera_clivicollis	1	0	0	0
+POCHCH_Leptinotarsa_juncta	1	0	0	0
+N100	3	0	0	0
+POCHCH_Leptinotarsa_texana	5	0	0	0
+POCHCH_Doryphora_sp	0	1	0	0
+POCHCH_Platyphora_sp	3	0	0	0
+N101	0	0	0	0
+N102	0	0	0	0
+POCHCH_Calligrapha_fulvipes	3	0	0	0
+POCHCH_Calligrapha_polyspila	2	0	0	0
+N103	2	0	0	0
+POCHCH_Zygogramma_sp	1	0	0	0
+N104	0	0	0	0
+N105	0	1	0	0
+POCHCH_Calligrapha_californica	0	0	0	0
+POCHCH_Calligrapha_bidenticola	0	0	0	0
+N106	0	0	0	0
+N107	1	0	0	0
+POCHCH_Calligrapha_confluens	0	1	0	0
+N108	0	0	0	0
+N109	0	0	0	0
+N110	0	0	0	0
+POCHCH_Calligrapha_amator	0	1	0	0
+POCHCH_Calligrapha_scalaris	0	0	0	0
+POCHCH_Calligrapha_multipunctata	0	0	0	0
+POCHCH_Calligrapha_alni	0	0	0	0
+N111	0	0	0	0
+POCHCH_Calligrapha_rowena	1	0	0	0
+POCHCH_Calligrapha_philadelphica	0	0	0	0
+N112	0	0	0	0
+N113	0	0	0	0
+POCHCH_Timarcha_intricata	3	0	0	0
+N114	3	0	0	0
+POCHCH_Timarcha_metallica	1	0	0	0
+N115	1	0	0	0
+N116	1	0	0	0
+POCHCH_Timarcha_tenebricosa	1	0	0	0
+POCHCH_Timarcha_pimelioides	1	0	0	0
+N117	0	0	0	0
+N118	1	0	0	0
+POCHCH_Timarcha_insparsa	5	0	0	0
+POCHCH_Timarcha_balearica	0	3	0	0
+N119	0	0	0	0
+N120	0	0	0	0
+N121	0	2	0	0
+POCHCH_Timarcha_marginicollis	0	1	0	0
+POCHCH_Timarcha_calceata	1	0	0	0
+POCHCH_Timarcha_lugens	0	1	0	0
+N122	0	0	0	0
+N123	0	1	0	0
+N124	0	0	0	0
+N125	2	0	0	0
+POCHCH_Timarcha_goettingensis	3	0	0	0
+N126	0	0	0	0
+N127	0	0	0	0
+POCHCH_Timarcha_recticollis	1	0	0	0
+N128	0	0	0	0
+POCHCH_Timarcha_sinuaticollis	1	0	0	0
+N129	0	0	0	0
+POCHCH_Timarcha_interstitialis	0	0	0	0
+POCHCH_Timarcha_maritima	0	0	0	0
+POCHCH_Timarcha_cornuta	0	0	0	0
+N130	0	0	0	0
+N131	0	0	0	0
+POCHCH_Timarcha_hispanica	1	0	0	0
+POCHCH_Timarcha_fallax	0	0	0	0
+N132	0	0	0	0
+POCHCH_Timarcha_aurichalcea	1	0	0	0
+N133	0	1	0	0
+N134	0	1	0	0
+POCHCH_Timarcha_gougeleti	0	0	0	0
+N135	0	0	0	0
+POCHCH_Timarcha_perezi	0	0	0	0
+N136	0	0	0	0
+POCHCH_Timarcha_cyanescens	0	0	0	0
+POCHCH_Timarcha_geniculata	0	0	0	0
+POCHCH_Timarcha_montserratensis	2	0	0	0
+POCHCH_Timarcha_granadensis	0	2	0	0
+N137	1	0	0	0
+N138	0	0	0	0
+N139	0	0	0	0
+N140	0	0	0	0
+POCHCH_Timarcha_espanoli	0	3	0	0
+POCHCH_Timarcha_rugosa	2	0	0	0
+POCHCH_Timarcha_ventricosa	2	0	0	0
+POCHCH_Timarcha_intermedia	0	1	0	0
+N141	3	0	0	0
+POCHCH_Timarcha_strangulata	1	0	0	0
+POCHCH_Timarcha_scabripennis	2	0	0	0
+N142	0	0	0	0
+N143	0	0	0	0
+N144	0	0	0	0
+N145	0	0	0	0
+POCHCH_Linaeidea_aenea	2	0	0	0
+N146	0	0	0	0
+N147	1	0	0	0
+N148	0	0	0	0
+POCHCH_Chrysomela_interrupta	0	0	0	0
+POCHCH_Chrysomela_mainensis	1	0	0	0
+POCHCH_Chrysomela_lapponica	2	0	0	0
+POCHCH_Chrysomela_schaefferi	1	0	0	0
+N149	0	0	0	0
+N150	2	0	0	0
+N151	1	0	0	0
+POCHCH_Chrysomela_tremulae	0	0	0	0
+POCHCA_Hilarocassis_sp	1	0	0	0
+POCHCH_Chrysomela_populi	4	0	0	0
+N152	0	0	0	0
+POCHCH_Plagiodera_versicolora	2	0	0	0
+POCHCH_Prasocuris_sp	2	0	0	0
+N153	3	0	0	0
+N154	3	0	0	0
+N155	0	0	0	0
+POCHCH_Gastrophysa_cyanea	2	0	0	0
+POCHCH_Gastrophysa_viridula	4	0	0	0
+POCHCH_Gastrophysa_poligoni	0	1	0	0
+POCHCH_Phaedon_sp	2	0	0	0
+N156	0	0	0	0
+POCHCH_Phratora_tibialis	2	0	0	0
+POCHCH_Phratora_laticollis	1	0	0	0
+N157	0	0	0	0
+N158	0	0	0	0
+N159	0	0	0	0
+N160	5	0	0	0
+POCHGA_Sermylassa_halensis	4	0	0	0
+N161	6	0	0	0
+N162	2	0	0	0
+POCHGA_Cerotoma_sp	2	0	0	0
+POCHGA_Gynandrobrotica_lepida	5	0	0	0
+POCHGA_Gynandrobrotica_nigrofasciata	4	0	0	0
+N163	0	0	0	0
+N164	0	0	0	0
+N165	0	0	0	0
+POCHGA_Isotes_multipunctata	3	0	0	0
+N166	0	0	0	0
+N167	0	0	0	0
+POCHGA_Acalymma_blandulum	5	0	0	0
+N168	1	0	0	0
+POCHGA_Acalymma_fairmairei	2	0	0	0
+N169	1	0	0	0
+POCHGA_Acalymma_trivittatum	1	0	0	0
+POCHGA_Acalymma_vittatum	1	0	0	0
+N170	0	0	0	0
+N171	0	0	0	0
+N172	1	0	0	0
+POCHGA_Diabrotica_scutellata	4	0	0	0
+POCHGA_Diabrotica_longicornis	0	0	0	0
+POCHGA_Diabrotica_porracea	1	0	0	0
+N173	0	0	0	0
+N174	0	0	0	0
+POCHGA_Diabrotica_cristata	6	0	0	0
+POCHGA_Diabrotica_balteata	2	0	0	0
+POCHGA_Paratriarius_sp	1	0	0	0
+POCHGA_Diabrotica_sexmaculata	8	0	0	0
+N175	4	0	0	0
+N176	0	0	0	0
+N177	0	0	0	0
+N178	0	1	0	0
+POCHGA_Diabrotica_nummularis	0	0	0	0
+POCHGA_Diabrotica_speciosa	0	1	0	0
+POCHGA_Diabrotica_undecimpunctata	3	0	0	0
+POCHGA_Diabrotica_limitata	0	1	0	0
+N179	1	0	0	0
+POCHGA_Diabrotica_adelpha	3	0	0	0
+POCHGA_Diabrotica_tibialis	0	1	0	0
+N180	0	0	0	0
+N181	2	0	0	0
+N182	1	0	0	0
+N183	1	0	0	0
+POCHGA_Monoxia_sp	0	0	0	0
+N184	1	0	0	0
+N185	3	0	0	0
+POCHGA_Ophraella_communa	2	0	0	0
+POCHGA_Ophraella_notulata_M	1	0	0	0
+POCHGA_Apophylia_sp	0	0	0	0
+N186	4	0	0	0
+POCHGA_Pyrrhalta_viburni	0	3	0	0
+N187	1	0	0	0
+N188	1	0	0	0
+N189	1	0	0	0
+N190	0	0	0	0
+N191	1	0	0	0
+POCHGA_Galerucella_nympheae	1	0	0	0
+POCHGA_Galerucella_birmanica	2	0	0	0
+POCHGA_Galerucella_placida	0	2	0	0
+POCHGA_Lochmaea_capreae	0	0	0	0
+N192	2	0	0	0
+N193	1	0	0	0
+N194	0	0	0	0
+POCHGA_Galerucella_pusilla	3	0	0	0
+POCHGA_Galerucella_calmariensis	0	1	0	0
+POCHGA_Galerucella_tenella	1	0	0	0
+N195	0	0	0	0
+N196	1	0	0	0
+POCHGA_Trirhabda_virgata	0	0	0	0
+POCHGA_Galeruca_sp	0	0	0	0
+N197	1	0	0	0
+POCHGA_Trirhabda_canadensis	0	1	0	0
+POCHGA_Xanthogaleruca_luteola	1	0	0	0
+POCHGA_Galerucella_lineola	0	2	0	0
+N198	2	0	0	0
+N199	4	0	0	0
+POCHGA_Paridea_sp	2	0	0	0
+POCHGA_Oides_sp	0	1	0	0
+POCHGA_Agelastica_coerulea	0	0	0	0
+N200	4	0	0	0
+N201	0	0	0	0
+POCHGA_Diorhabda_sp	0	1	0	0
+N202	2	0	0	0
+POCHGA_Monolepta_sp	1	0	0	0
+N203	0	0	0	0
+POCHGA_Luperus_sp	1	0	0	0
+POCHGA_Aulacophora_sp	2	0	0	0
+POCHGA_Exora_sp	0	1	0	0
+N204	0	0	0	0
+N205	0	0	0	0
+N206	0	0	0	0
+N207	5	0	0	0
+N208	0	0	0	0
+N209	0	0	0	0
+POCHGA_Aphthona_lutescens	0	1	0	0
+POCHGA_Glyptina_sp	1	0	0	0
+N210	0	0	0	0
+POCHGA_Longitarsus_exsoletus	0	2	0	0
+POCHGA_Disonycha_sp	2	0	0	0
+N211	8	0	0	0
+N212	0	0	0	0
+N213	1	0	0	0
+POCHGA_Argopus_sp	3	0	0	0
+N214	0	0	0	0
+POCHGA_Neocrepidodera_sp	1	0	0	0
+POCHGA_Asiorestia_sp	0	1	0	0
+POCHGA_Dibolia_sp	0	1	0	0
+POCHGA_Hermaeophaga_sp	3	0	0	0
+N215	0	0	0	0
+POCHGA_Systena_sp	12	0	0	0
+N216	0	0	0	0
+POCHGA_Heikertingerella_sp	5	0	0	0
+POCHGA_Phyllotreta_sp	4	0	0	0
+N217	0	0	0	0
+N218	0	0	0	0
+N219	1	0	0	0
+N220	3	0	0	0
+POCHGA_Chaetocnema_chlorophana	0	0	0	0
+POCHGA_Aedmon_sp	1	0	0	0
+N221	6	0	0	0
+POCHGA_Chaetocnema_concinna	0	0	0	0
+POCHGA_Hypolampsis_sp	3	0	0	0
+N222	0	0	0	0
+N223	2	0	0	0
+POCHGA_Macrohaltica_sp	0	0	0	0
+POCHAL_Altica_lythri	5	0	0	0
+N224	1	0	0	0
+POCHGA_Lysathia_ludoviciana	3	0	0	0
+POCHGA_Syphrea_sp	0	0	0	0
+N225	0	0	0	0
+N226	0	0	0	0
+POCHGA_Psylliodes_chrysocephalus	1	0	0	0
+POCHGA_Psylliodes_napi	6	0	0	0
+N227	2	0	0	0
+N228	2	0	0	0
+POCHGA_Epitrix_fasciata	6	0	0	0
+N229	0	1	0	0
+POCHGA_Psylliodes_cupreus	0	2	0	0
+POCHGA_Psylliodes_marcidus_M	0	0	0	0
+N230	2	0	0	0
+POCHGA_Psylliodes_affinis	0	2	0	0
+POCHGA_Psylliodes_dulcamarae	12	0	0	0
+N231	0	0	0	0
+N232	7	0	0	0
+N233	3	0	0	0
+POCHGA_Podagrica_malvae	3	0	0	0
+POCHGA_Sphaeroderma_sp	3	0	0	0
+N234	1	0	0	0
+POCHGA_Ophrida_sp	0	3	0	0
+N235	3	0	0	0
+POCHGA_Podontia_sp	1	0	0	0
+POCHGA_Blepharida_rhois	0	1	0	0
+N236	4	0	0	0
+N237	0	0	0	0
+N238	0	0	0	0
+N239	2	0	0	0
+POCHGA_Alagoasa_extrema	1	0	0	0
+N240	1	0	0	0
+N241	5	0	0	0
+POCHGA_Alagoasa_cruxnigra	3	0	0	0
+N242	0	0	0	0
+POCHGA_Hemipyxis_sp	0	3	0	0
+N243	1	0	0	0
+POCHGA_Alagoasa_cf_arcifera	13	0	0	0
+POCHGA_Alagoasa_decemgutatta	3	0	0	0
+N244	2	0	0	0
+POCHGA_Paranaita_bilimbata	0	2	0	0
+POCHGA_Oedionychus_cinctus	6	0	0	0
+N245	0	0	0	0
+POCHGA_Asphaera_abdominalis	1	0	0	0
+N246	0	0	0	0
+POCHGA_Omophoita_personata	2	0	0	0
+POCHGA_Omophoita_octoguttata	0	2	0	0
+N247	0	0	0	0
+N248	0	0	0	0
+POCHGA_Alagoasa_bicolor	0	0	0	0
+POCHGA_Alagoasa_libentina	0	0	0	0
+POCHGA_Asphaera_unicolor	0	3	0	0
+N249	1	0	0	0
+POCHGA_Capraita_sp	3	0	0	0
+POCHGA_Walterianella_sp	1	0	0	0
+N250	0	0	0	0
+N251	0	0	0	0
+N252	2	0	0	0
+POCHDO_Donacia_hirticollis	9	0	0	0
+N253	3	0	0	0
+POCHDO_Donacia_vulgaris	4	0	0	0
+N254	0	0	0	0
+POCHDO_Donacia_bicolor	0	1	0	0
+N255	1	0	0	0
+POCHDO_Donacia_subtilis	10	0	0	0
+N256	0	2	0	0
+POCHDO_Donacia_clavipes	0	3	0	0
+POCHDO_Donacia_biimpressa	1	0	0	0
+N257	2	0	0	0
+N258	7	0	0	0
+POCHCR_Crioceris_paracenthesis	3	0	0	0
+POCHCR_Crioceris_asparagi	0	0	0	0
+N259	0	0	0	0
+POCHCR_Lilioceris_sp	0	1	0	0
+POCHCR_Oulema_melanopus	2	0	0	0
+N260	0	0	0	0
+N261	6	0	0	0
+POCHBR_Pachymerus_sp	6	0	0	0
+POCHBR_Zabrotes_subfasciatus	1	0	0	0
+N262	0	0	0	0
+N263	1	0	0	0
+N264	0	1	0	0
+N265	0	0	0	0
+POCHBR_Callosobruchus_analis	2	0	0	0
+N266	0	0	0	0
+N267	5	0	0	0
+POCHBR_Callosobruchus_subinnotatus	3	0	0	0
+POCHBR_Callosobruchus_maculatus	1	0	0	0
+N268	0	0	0	0
+POCHBR_Callosobruchus_chinensis	3	0	0	0
+POCHSA_Sagra_femorata	3	0	0	0
+N269	0	0	0	0
+N270	0	0	0	0
+POCHBR_Bruchus_pisorum	4	0	0	0
+POCHBR_Spermophagus_sp	2	0	0	0
+POCHBR_Bruchus_rufimanus	8	0	0	0
+POCHBR_Acanthoscelides_obtectus	19	0	0	0
+N271	5	0	0	0
+N272	0	0	0	0
+POCHBR_Bruchidius_saundersi	5	0	0	0
+POCHBR_Bruchidius_aureus	0	2	0	0
+POCHBR_Bruchidius_urbanus	7	0	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCHCR_Pachybrachis_sp	10	5	0	0
+POCHCL_Coptocephala_sp	20	0	0	0
+POCHCL_Lachnaia_sp	26	0	0	0
+POCHCL_Smaragdina_sp	18	0	0	0
+POCHCL_Macrolenes_dentipes	16	0	0	0
+POCHCH_Exema_canadensis	18	0	0	0
+POCHCH_Chlamisus_sp	12	4	0	0
+POCHCR_Cryptocephalus_venustus	12	3	0	0
+POCHEU_Colasposoma_auripenne	15	0	0	0
+POCHEU_Bromius_obscurus	14	1	0	0
+POCHEU_Basilepta_sp	19	0	0	0
+POCHEU_Paria_sp	12	3	0	0
+POCHCR_Lema_sp	9	5	0	0
+POCHEU_Nodonota_sp	19	0	0	0
+POCHEU_Eumolpus_sp	26	0	0	0
+POCHEU_Chalcophana_sp	24	1	0	0
+POCHEU_Colaspis_sp	23	0	0	0
+POCHCA_Baliosus_sp	9	2	0	0
+POCHCA_Microrhopala_vittata	9	4	0	0
+POCHCA_Chalepus_sp	10	3	0	0
+POCHCA_Stolas_sp	10	3	0	0
+POCHCA_Octotoma_scabripennis	12	1	0	0
+POCHCA_Charidotella_sexpunctata	13	0	0	0
+POCHCA_Chelymorpha_sp	13	0	0	0
+POCHCA_Aspidomorpha_sp	13	0	0	0
+POCHCA_Coptocycla_adamantina	26	0	0	0
+POCHCA_Deloyala_guttata	14	0	0	0
+POCHCA_Laccoptera_sp	11	4	0	0
+POCHCA_Cassida_fuscorufa	16	0	0	0
+POCHCA_Cassida_rubiginosa	13	0	0	0
+POCHCA_Dactylispa_sp	8	1	0	0
+POCHCA_Dicladispa_testacea	9	0	0	0
+POCHCA_Notosacantha_sp	10	0	0	0
+POCHCA_Agroiconota_propinqua	3	0	0	0
+POCHCH_Gonioctena_viminalis	15	0	0	0
+POCHCH_Gonioctena_linnaeana	9	0	0	0
+POCHCH_Paropsis_porosa_M	7	2	0	0
+POCHCH_Gonioctena_springlovae	7	1	0	0
+POCHCH_Gonioctena_sibirica_M	6	4	0	0
+POCHCH_Entomoscelis_sp	4	0	0	0
+POCHCH_Paropsis_atomaria	7	0	0	0
+POCHCH_Gonioctena_variabilis	8	0	0	0
+POCHCH_Paropsisterna_sp	1	0	0	0
+POCHCH_Philhydronopa_sp	2	0	0	0
+POCHCH_Oreina_variabilis	4	2	0	0
+POCHCH_Oreina_ganglbaueri	4	1	0	0
+POCHCH_Oreina_alpestris	4	1	0	0
+POCHCH_Oreina_elongata	4	2	0	0
+POCHCH_Oreina_intricata	7	0	0	0
+POCHCH_Oreina_cacaliae	10	0	0	0
+POCHCH_Oreina_virgulata	12	0	0	0
+POCHCH_Chrysolina_femoralis	4	1	0	0
+POCHCH_Chrysolina_affinis	5	0	0	0
+POCHCH_Chrysolina_cerealis	3	2	0	0
+POCHCH_Chrysolina_fastuosa	4	2	0	0
+POCHCH_Chrysolina_colasi	4	1	0	0
+POCHCH_Chrysolina_diluta	11	0	0	0
+POCHCH_Chrysolina_haemoptera	3	1	0	0
+POCHCH_Chrysolina_obsoleta	3	0	0	0
+POCHCH_Chrysolina_bicolor	1	0	0	0
+POCHCH_Chrysolina_geminata	4	0	0	0
+POCHCH_Chrysolina_coerulans	4	0	0	0
+POCHCH_Chrysolina_lucida	3	1	0	0
+POCHCH_Chrysolina_viridana	2	0	0	0
+POCHCH_Chrysolina_herbacea	2	0	0	0
+POCHCH_Chrysolina_graminis	2	0	0	0
+POCHCH_Chrysolina_grossa	5	0	0	0
+POCHCH_Chrysolina_polita	3	0	0	0
+POCHCH_Chrysolina_americana	5	0	0	0
+POCHCH_Chrysolina_gemina	3	0	0	0
+POCHCH_Chrysolina_varians	7	0	0	0
+POCHCH_Chrysolina_aurichalcea	14	0	0	0
+POCHCH_Chrysolina_carnifex	21	0	0	0
+POCHCH_Chrysolina_curvilinea	12	0	0	0
+POCHCH_Chrysolina_marginata	11	0	0	0
+POCHCH_Chrysolina_timarchoides	5	3	0	0
+POCHCH_Chrysolina_peregrina	4	3	0	0
+POCHCH_Cyrtonus_rotundatus	2	0	0	0
+POCHCH_Cyrtonus_majoricensis	8	0	0	0
+POCHCH_Cyrtonus_dufouri	4	0	0	0
+POCHCH_Cyrtonus_cupreovirens	1	0	0	0
+POCHCH_Cyrtonus_ruficornis	3	1	0	0
+POCHCH_Cyrtonus_cylindricus	4	0	0	0
+POCHCH_Cyrtonus_plumbeus	8	0	0	0
+POCHCH_Cyrtonus_puncticeps	13	0	0	0
+POCHCH_Cyrtonus_arcasi	11	1	0	0
+POCHCH_Cyrtonus_pardoi	11	1	0	0
+POCHCH_Cyrtonus_contractus	14	0	0	0
+POCHCH_Cyrtonus_fairmairei	16	0	0	0
+POCHCH_Cyrtonus_elegans	4	0	0	0
+POCHCH_Leptinotarsa_haldemani	4	0	0	0
+POCHCH_Desmogramma_sp	7	0	0	0
+POCHCH_Labidomera_clivicollis	2	1	0	0
+POCHCH_Leptinotarsa_juncta	2	1	0	0
+POCHCH_Leptinotarsa_texana	9	0	0	0
+POCHCH_Doryphora_sp	4	1	0	0
+POCHCH_Platyphora_sp	3	0	0	0
+POCHCH_Calligrapha_fulvipes	3	0	0	0
+POCHCH_Calligrapha_polyspila	2	0	0	0
+POCHCH_Zygogramma_sp	3	0	0	0
+POCHCH_Calligrapha_californica	2	1	0	0
+POCHCH_Calligrapha_bidenticola	2	1	0	0
+POCHCH_Calligrapha_confluens	3	1	0	0
+POCHCH_Calligrapha_amator	3	1	0	0
+POCHCH_Calligrapha_scalaris	3	0	0	0
+POCHCH_Calligrapha_multipunctata	3	0	0	0
+POCHCH_Calligrapha_alni	3	0	0	0
+POCHCH_Calligrapha_rowena	3	0	0	0
+POCHCH_Calligrapha_philadelphica	2	0	0	0
+POCHCH_Timarcha_intricata	3	0	0	0
+POCHCH_Timarcha_metallica	4	0	0	0
+POCHCH_Timarcha_tenebricosa	6	0	0	0
+POCHCH_Timarcha_pimelioides	6	0	0	0
+POCHCH_Timarcha_insparsa	10	0	0	0
+POCHCH_Timarcha_balearica	5	3	0	0
+POCHCH_Timarcha_marginicollis	4	3	0	0
+POCHCH_Timarcha_calceata	5	2	0	0
+POCHCH_Timarcha_lugens	4	1	0	0
+POCHCH_Timarcha_goettingensis	9	1	0	0
+POCHCH_Timarcha_recticollis	7	1	0	0
+POCHCH_Timarcha_sinuaticollis	7	1	0	0
+POCHCH_Timarcha_interstitialis	6	1	0	0
+POCHCH_Timarcha_maritima	6	1	0	0
+POCHCH_Timarcha_cornuta	6	1	0	0
+POCHCH_Timarcha_hispanica	5	1	0	0
+POCHCH_Timarcha_fallax	4	1	0	0
+POCHCH_Timarcha_aurichalcea	5	1	0	0
+POCHCH_Timarcha_gougeleti	4	3	0	0
+POCHCH_Timarcha_perezi	4	3	0	0
+POCHCH_Timarcha_cyanescens	4	3	0	0
+POCHCH_Timarcha_geniculata	4	3	0	0
+POCHCH_Timarcha_montserratensis	6	2	0	0
+POCHCH_Timarcha_granadensis	4	3	0	0
+POCHCH_Timarcha_espanoli	5	3	0	0
+POCHCH_Timarcha_rugosa	7	0	0	0
+POCHCH_Timarcha_ventricosa	7	0	0	0
+POCHCH_Timarcha_intermedia	5	1	0	0
+POCHCH_Timarcha_strangulata	9	0	0	0
+POCHCH_Timarcha_scabripennis	10	0	0	0
+POCHCH_Linaeidea_aenea	2	0	0	0
+POCHCH_Chrysomela_interrupta	1	0	0	0
+POCHCH_Chrysomela_mainensis	2	0	0	0
+POCHCH_Chrysomela_lapponica	3	0	0	0
+POCHCH_Chrysomela_schaefferi	1	0	0	0
+POCHCH_Chrysomela_tremulae	3	0	0	0
+POCHCA_Hilarocassis_sp	4	0	0	0
+POCHCH_Chrysomela_populi	6	0	0	0
+POCHCH_Plagiodera_versicolora	2	0	0	0
+POCHCH_Prasocuris_sp	2	0	0	0
+POCHCH_Gastrophysa_cyanea	8	0	0	0
+POCHCH_Gastrophysa_viridula	10	0	0	0
+POCHCH_Gastrophysa_poligoni	6	1	0	0
+POCHCH_Phaedon_sp	5	0	0	0
+POCHCH_Phratora_tibialis	2	0	0	0
+POCHCH_Phratora_laticollis	1	0	0	0
+POCHGA_Sermylassa_halensis	9	0	0	0
+POCHGA_Cerotoma_sp	15	0	0	0
+POCHGA_Gynandrobrotica_lepida	18	0	0	0
+POCHGA_Gynandrobrotica_nigrofasciata	15	0	0	0
+POCHGA_Isotes_multipunctata	3	0	0	0
+POCHGA_Acalymma_blandulum	5	0	0	0
+POCHGA_Acalymma_fairmairei	3	0	0	0
+POCHGA_Acalymma_trivittatum	3	0	0	0
+POCHGA_Acalymma_vittatum	3	0	0	0
+POCHGA_Diabrotica_scutellata	5	0	0	0
+POCHGA_Diabrotica_longicornis	1	0	0	0
+POCHGA_Diabrotica_porracea	1	0	0	0
+POCHGA_Diabrotica_cristata	6	0	0	0
+POCHGA_Diabrotica_balteata	2	0	0	0
+POCHGA_Paratriarius_sp	1	0	0	0
+POCHGA_Diabrotica_sexmaculata	8	0	0	0
+POCHGA_Diabrotica_nummularis	4	1	0	0
+POCHGA_Diabrotica_speciosa	4	2	0	0
+POCHGA_Diabrotica_undecimpunctata	7	0	0	0
+POCHGA_Diabrotica_limitata	4	1	0	0
+POCHGA_Diabrotica_adelpha	8	0	0	0
+POCHGA_Diabrotica_tibialis	5	1	0	0
+POCHGA_Monoxia_sp	4	0	0	0
+POCHGA_Ophraella_communa	10	0	0	0
+POCHGA_Ophraella_notulata_M	9	0	0	0
+POCHGA_Apophylia_sp	5	0	0	0
+POCHGA_Pyrrhalta_viburni	7	3	0	0
+POCHGA_Galerucella_nympheae	12	0	0	0
+POCHGA_Galerucella_birmanica	13	0	0	0
+POCHGA_Galerucella_placida	10	2	0	0
+POCHGA_Lochmaea_capreae	10	0	0	0
+POCHGA_Galerucella_pusilla	15	0	0	0
+POCHGA_Galerucella_calmariensis	12	1	0	0
+POCHGA_Galerucella_tenella	13	0	0	0
+POCHGA_Trirhabda_virgata	12	0	0	0
+POCHGA_Galeruca_sp	12	0	0	0
+POCHGA_Trirhabda_canadensis	12	1	0	0
+POCHGA_Xanthogaleruca_luteola	13	0	0	0
+POCHGA_Galerucella_lineola	8	2	0	0
+POCHGA_Paridea_sp	10	0	0	0
+POCHGA_Oides_sp	8	1	0	0
+POCHGA_Agelastica_coerulea	4	0	0	0
+POCHGA_Diorhabda_sp	4	1	0	0
+POCHGA_Monolepta_sp	7	0	0	0
+POCHGA_Luperus_sp	7	0	0	0
+POCHGA_Aulacophora_sp	8	0	0	0
+POCHGA_Exora_sp	4	1	0	0
+POCHGA_Aphthona_lutescens	5	1	0	0
+POCHGA_Glyptina_sp	6	0	0	0
+POCHGA_Longitarsus_exsoletus	5	2	0	0
+POCHGA_Disonycha_sp	7	0	0	0
+POCHGA_Argopus_sp	17	0	0	0
+POCHGA_Neocrepidodera_sp	15	0	0	0
+POCHGA_Asiorestia_sp	14	1	0	0
+POCHGA_Dibolia_sp	13	1	0	0
+POCHGA_Hermaeophaga_sp	16	0	0	0
+POCHGA_Systena_sp	12	0	0	0
+POCHGA_Heikertingerella_sp	5	0	0	0
+POCHGA_Phyllotreta_sp	4	0	0	0
+POCHGA_Chaetocnema_chlorophana	4	0	0	0
+POCHGA_Aedmon_sp	5	0	0	0
+POCHGA_Chaetocnema_concinna	7	0	0	0
+POCHGA_Hypolampsis_sp	10	0	0	0
+POCHGA_Macrohaltica_sp	2	0	0	0
+POCHAL_Altica_lythri	7	0	0	0
+POCHGA_Lysathia_ludoviciana	4	0	0	0
+POCHGA_Syphrea_sp	1	0	0	0
+POCHGA_Psylliodes_chrysocephalus	1	0	0	0
+POCHGA_Psylliodes_napi	6	0	0	0
+POCHGA_Epitrix_fasciata	10	0	0	0
+POCHGA_Psylliodes_cupreus	4	3	0	0
+POCHGA_Psylliodes_marcidus_M	4	1	0	0
+POCHGA_Psylliodes_affinis	4	2	0	0
+POCHGA_Psylliodes_dulcamarae	16	0	0	0
+POCHGA_Podagrica_malvae	13	0	0	0
+POCHGA_Sphaeroderma_sp	13	0	0	0
+POCHGA_Ophrida_sp	8	3	0	0
+POCHGA_Podontia_sp	12	0	0	0
+POCHGA_Blepharida_rhois	11	1	0	0
+POCHGA_Alagoasa_extrema	7	0	0	0
+POCHGA_Alagoasa_cruxnigra	15	0	0	0
+POCHGA_Hemipyxis_sp	12	3	0	0
+POCHGA_Alagoasa_cf_arcifera	26	0	0	0
+POCHGA_Alagoasa_decemgutatta	16	0	0	0
+POCHGA_Paranaita_bilimbata	9	2	0	0
+POCHGA_Oedionychus_cinctus	15	0	0	0
+POCHGA_Asphaera_abdominalis	5	0	0	0
+POCHGA_Omophoita_personata	6	0	0	0
+POCHGA_Omophoita_octoguttata	4	2	0	0
+POCHGA_Alagoasa_bicolor	4	0	0	0
+POCHGA_Alagoasa_libentina	4	0	0	0
+POCHGA_Asphaera_unicolor	4	3	0	0
+POCHGA_Capraita_sp	8	0	0	0
+POCHGA_Walterianella_sp	6	0	0	0
+POCHDO_Donacia_hirticollis	11	0	0	0
+POCHDO_Donacia_vulgaris	9	0	0	0
+POCHDO_Donacia_bicolor	5	1	0	0
+POCHDO_Donacia_subtilis	16	0	0	0
+POCHDO_Donacia_clavipes	6	5	0	0
+POCHDO_Donacia_biimpressa	7	2	0	0
+POCHCR_Crioceris_paracenthesis	12	0	0	0
+POCHCR_Crioceris_asparagi	9	0	0	0
+POCHCR_Lilioceris_sp	2	1	0	0
+POCHCR_Oulema_melanopus	4	0	0	0
+POCHBR_Pachymerus_sp	12	0	0	0
+POCHBR_Zabrotes_subfasciatus	7	0	0	0
+POCHBR_Callosobruchus_analis	3	1	0	0
+POCHBR_Callosobruchus_subinnotatus	9	1	0	0
+POCHBR_Callosobruchus_maculatus	7	1	0	0
+POCHBR_Callosobruchus_chinensis	4	1	0	0
+POCHSA_Sagra_femorata	4	1	0	0
+POCHBR_Bruchus_pisorum	5	1	0	0
+POCHBR_Spermophagus_sp	3	1	0	0
+POCHBR_Bruchus_rufimanus	9	1	0	0
+POCHBR_Acanthoscelides_obtectus	20	0	0	0
+POCHBR_Bruchidius_saundersi	10	0	0	0
+POCHBR_Bruchidius_aureus	5	2	0	0
+POCHBR_Bruchidius_urbanus	12	0	0	0

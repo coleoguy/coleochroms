@@ -1,0 +1,76 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+POELCA_Cardiophorus_sp: 1
+POELDE_Athous_sp: 2
+N5: 9
+POELAG_Agrypnus_sp: 5
+POELAG_Lacon_sp: 1
+POELAG_Adelocera_sp_M: 10
+POELEL_Elater_sp: 5
+POELME_Melanotus_sp: 9
+N10: 4
+POELEL_Agriotes_sputator: 11
+POELEL_Agriotes_obscurus: 3
+POELEL_Agriotes_lineatus: 3
+POELDE_Limonius_sp: 12
+Total number of gain events: 75
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+POELAG_Chalcolepidius_sp: 2
+N11: 4
+Total number of loss events: 6
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POELCA_Cardiophorus_sp	1	0	0	0
+N2	0	0	0	0
+N3	0	0	0	0
+POELDE_Athous_sp	2	0	0	0
+N4	0	0	0	0
+N5	9	0	0	0
+POELAG_Agrypnus_sp	5	0	0	0
+POELAG_Chalcolepidius_sp	0	2	0	0
+N6	0	0	0	0
+N7	0	0	0	0
+POELAG_Lacon_sp	1	0	0	0
+POELAG_Adelocera_sp_M	10	0	0	0
+N8	0	0	0	0
+N9	0	0	0	0
+POELEL_Elater_sp	5	0	0	0
+POELME_Melanotus_sp	9	0	0	0
+N10	4	0	0	0
+POELEL_Agriotes_sputator	11	0	0	0
+N11	0	4	0	0
+POELEL_Agriotes_obscurus	3	0	0	0
+POELEL_Agriotes_lineatus	3	0	0	0
+POELDE_Limonius_sp	12	0	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POELCA_Cardiophorus_sp	1	0	0	0
+POELDE_Athous_sp	2	0	0	0
+POELAG_Agrypnus_sp	14	0	0	0
+POELAG_Chalcolepidius_sp	9	2	0	0
+POELAG_Lacon_sp	1	0	0	0
+POELAG_Adelocera_sp_M	10	0	0	0
+POELEL_Elater_sp	5	0	0	0
+POELME_Melanotus_sp	9	0	0	0
+POELEL_Agriotes_sputator	15	0	0	0
+POELEL_Agriotes_obscurus	7	4	0	0
+POELEL_Agriotes_lineatus	7	4	0	0
+POELDE_Limonius_sp	12	0	0	0

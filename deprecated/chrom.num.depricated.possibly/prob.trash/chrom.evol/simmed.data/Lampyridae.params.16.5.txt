@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir simmed.data/results/Lampyridae.16.5
+_dataFile simmed.data/Lampyridae.16.5.txt
+_treeFile Lampyridae/Lampyridae16.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

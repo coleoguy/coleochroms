@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir simmed.data/results/Tenebrionidae.18.5
+_dataFile simmed.data/Tenebrionidae.18.5.txt
+_treeFile Tenebrionidae/Tenebrionidae18.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

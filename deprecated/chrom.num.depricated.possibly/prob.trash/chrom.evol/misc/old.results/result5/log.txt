@@ -1,0 +1,223 @@
+START OF LOG FILE
+chromEvol Version: 1.3. Last updated January 2012
+_baseNumber	(Int)	5
+_branchModelType	(Str)	GRADUAL
+_branchMul	(Float)	999
+_dataFile	(Str)	Bembidion.txt
+_demiPloidyR	(Float)	-999
+_duplConstR	(Float)	0
+_epsR	(Float)	-999
+_epsilonLLimprovement	(Float)	0.1
+_freqFile	(Str)	
+_gainConstR	(Float)	0
+_gainLinearR	(Float)	-999
+_inferTreeFile	(Str)	mlAncestors.tree
+_logFile	(Str)	log.txt
+_logValue	(Int)	5
+_lossConstR	(Float)	0
+_lossLinearR	(Float)	-999
+_mainType	(Str)	Optimize_Model
+_maxChrNum	(Int)	-10
+_maxChrNumForSimulations	(Int)	0
+_maxOptimizationIterations	(Int)	5
+_minChrNum	(Int)	-1
+_modelType	(Str)	GENERAL_CHR_MODEL
+_optimizeIterNum	(Str)	0,2,5
+_optimizePointsNum	(Str)	10,3,1
+_outDir	(Str)	result5
+_outFile	(Str)	chromEvol.res
+_pow2Scale	(Int)	1
+_rootAt	(Str)	
+_rootFreqType	(Str)	ROOT_LL
+_scaleBranch	(Float)	-999
+_simDemiTypes	(Str)	-999,-999,-2
+_simModels	(Str)	CONST_RATE_NO_DUPL,CONST_RATE,CONST_RATE
+_simulationsIter	(Int)	50
+_simulationsJumpsStats	(Str)	
+_simulationsNum	(Int)	0
+_simulationsTreeDir	(Str)	
+_simulationsTreeLength	(Float)	0
+_startSimulationsIter	(Int)	0
+_tolParamOptimization	(Float)	0.01
+_treeFile	(Str)	Bembidion5.tree
+
+ ---------------------- THE PARAMETERS ----------------------------
+main type: Optimize_Model
+tree file: Bembidion5.tree
+data file: Bembidion.txt
+output file: chromEvol.res
+model Type: GENERAL_CHR_MODEL
+ max chromosome number allowed: -10
+ gainConstR: 0
+ _lossConstR: 0
+ _duplConstR: 0
+ _demiPloidyR: -999
+
+ -----------------------------------------------------------------
+tree rooted at N1 id, 0
+sons of root are: 
+N2
+ADCATR_Bembidion_ruficorne
+Original total tree length = 1180.48
+total tree length = 5
+Optimizing parameters
+=====Cycle======= 0
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=0	GAIN_CONST=0	DUPL=0	
+ll before optimization = -323.7
+point: 0  likelihood = -323.7
+
+=====optimizing point======= 1
+starting optimization:
+model params:
+LOSS_CONST=69.6329	GAIN_CONST=2.77344	DUPL=31.2489	
+ll before optimization = -206.943
+point: 1  likelihood = -206.943
+
+=====optimizing point======= 2
+starting optimization:
+model params:
+LOSS_CONST=78.8487	GAIN_CONST=39.4107	DUPL=82.6898	
+ll before optimization = -405.107
+point: 2  likelihood = -405.107
+
+=====optimizing point======= 3
+starting optimization:
+model params:
+LOSS_CONST=85.0389	GAIN_CONST=91.4796	DUPL=61.9592	
+ll before optimization = -372.945
+point: 3  likelihood = -372.945
+
+=====optimizing point======= 4
+starting optimization:
+model params:
+LOSS_CONST=79.3615	GAIN_CONST=99.2774	DUPL=95.3709	
+ll before optimization = -500.714
+point: 4  likelihood = -500.714
+
+=====optimizing point======= 5
+starting optimization:
+model params:
+LOSS_CONST=43.833	GAIN_CONST=38.1732	DUPL=32.3344	
+ll before optimization = -240.183
+point: 5  likelihood = -240.183
+
+=====optimizing point======= 6
+starting optimization:
+model params:
+LOSS_CONST=54.3553	GAIN_CONST=28.1141	DUPL=49.2375	
+ll before optimization = -316.511
+point: 6  likelihood = -316.511
+
+=====optimizing point======= 7
+starting optimization:
+model params:
+LOSS_CONST=2.14752	GAIN_CONST=7.00205	DUPL=2.04099	
+ll before optimization = -83.325
+point: 7  likelihood = -83.325
+
+=====optimizing point======= 8
+starting optimization:
+model params:
+LOSS_CONST=54.7065	GAIN_CONST=5.38727	DUPL=91.3086	
+ll before optimization = -446.469
+point: 8  likelihood = -446.469
+
+=====optimizing point======= 9
+starting optimization:
+model params:
+LOSS_CONST=50.5387	GAIN_CONST=71.4285	DUPL=59.4062	
+ll before optimization = -379.385
+point: 9  likelihood = -379.385
+
+=====Cycle======= 1
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=69.6329	GAIN_CONST=2.77344	DUPL=31.2489	
+ll before optimization = -206.943
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -197.376 new = 83.5594 old=69.6329
+optmizing GAIN_CONST
+ LL= -195.584 new = 2.33957e-10 old=2.77344
+optmizing DUPL
+ LL= -103.928 new = 1.39315 old=31.2489
+iteration: 1 begin
+optmizing LOSS_CONST
+ LL= -85.8432 new = 19.7257 old=83.5594
+optmizing GAIN_CONST
+ LL= -85.8432 new = 2.33957e-10 old=2.33957e-10
+optmizing DUPL
+ LL= -81.826 new = 0.203258 old=1.39315
+point: 0  likelihood = -81.826
+
+=====optimizing point======= 1
+starting optimization:
+model params:
+LOSS_CONST=43.833	GAIN_CONST=38.1732	DUPL=32.3344	
+ll before optimization = -240.183
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -230.009 new = 78.5461 old=43.833
+optmizing GAIN_CONST
+ LL= -202.463 new = 3.14468e-10 old=38.1732
+optmizing DUPL
+ LL= -101.55 new = 1.11366 old=32.3344
+iteration: 1 begin
+optmizing LOSS_CONST
+ LL= -84.6342 new = 18.5422 old=78.5461
+optmizing GAIN_CONST
+ LL= -82.3905 new = 23.6068 old=3.14468e-10
+optmizing DUPL
+ LL= -76.8223 new = 2.51073e-10 old=1.11366
+point: 1  likelihood = -76.8223
+
+=====optimizing point======= 2
+starting optimization:
+model params:
+LOSS_CONST=2.14752	GAIN_CONST=7.00205	DUPL=2.04099	
+ll before optimization = -83.325
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -83.2925 new = 1.59269 old=2.14752
+optmizing GAIN_CONST
+ LL= -81.7949 new = 10.9571 old=7.00205
+optmizing DUPL
+ LL= -71.5912 new = 2.97648e-10 old=2.04099
+iteration: 1 begin
+optmizing LOSS_CONST
+ LL= -71.567 new = 0.992905 old=1.59269
+optmizing GAIN_CONST
+ LL= -71.567 new = 10.9571 old=10.9571
+optmizing DUPL
+ LL= -71.567 new = 2.97648e-10 old=2.97648e-10
+point: 2  likelihood = -71.567
+
+=====Cycle======= 2
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=0.992905	GAIN_CONST=10.9571	DUPL=2.97648e-10	
+ll before optimization = -71.567
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -71.5652 new = 1.0922 old=0.992905
+optmizing GAIN_CONST
+ LL= -71.5652 new = 10.9571 old=10.9571
+optmizing DUPL
+ LL= -71.5652 new = 1.67884e-10 old=2.97648e-10
+point: 0  likelihood = -71.5652
+
+
+FINAL LIKELIHOODS++++++++++++++
+point 0 likelihood = -71.5652
+after optmizations
+Inferring ancestral states
+Computing expectations
+Cannot perform simulations. The alpahabet size of 24 is too high
+Printing results
+
+TOTAL RUNNING TIME = 112

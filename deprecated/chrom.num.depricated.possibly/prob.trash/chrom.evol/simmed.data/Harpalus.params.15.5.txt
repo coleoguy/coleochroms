@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir simmed.data/results/Harpalus.15.5
+_dataFile simmed.data/Harpalus.15.5.txt
+_treeFile Harpalus/Harpalus15.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

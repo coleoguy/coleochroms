@@ -1,0 +1,73 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+Total number of gain events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+POELCA_Cardiophorus_sp: 9
+POELDE_Athous_sp: 5
+POELAG_Agrypnus_sp: 5
+POELAG_Chalcolepidius_sp: 2
+POELAG_Adelocera_sp_M: 4
+POELAG_Lacon_sp: 4
+POELEL_Elater_sp: 8
+POELME_Melanotus_sp: 7
+POELEL_Agriotes_sputator: 4
+POELEL_Agriotes_obscurus: 2
+POELEL_Agriotes_lineatus: 11
+POELDE_Limonius_sp: 4
+Total number of loss events: 65
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POELCA_Cardiophorus_sp	0	9	0	0
+N2	0	0	0	0
+N3	0	0	0	0
+POELDE_Athous_sp	0	5	0	0
+N4	0	0	0	0
+N5	0	0	0	0
+POELAG_Agrypnus_sp	0	5	0	0
+POELAG_Chalcolepidius_sp	0	2	0	0
+N6	0	0	0	0
+N7	0	0	0	0
+POELAG_Adelocera_sp_M	0	4	0	0
+POELAG_Lacon_sp	0	4	0	0
+N8	0	0	0	0
+N9	0	0	0	0
+POELEL_Elater_sp	0	8	0	0
+POELME_Melanotus_sp	0	7	0	0
+N10	0	0	0	0
+POELEL_Agriotes_sputator	0	4	0	0
+N11	0	0	0	0
+POELEL_Agriotes_obscurus	0	2	0	0
+POELEL_Agriotes_lineatus	0	11	0	0
+POELDE_Limonius_sp	0	4	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POELCA_Cardiophorus_sp	0	9	0	0
+POELDE_Athous_sp	0	5	0	0
+POELAG_Agrypnus_sp	0	5	0	0
+POELAG_Chalcolepidius_sp	0	2	0	0
+POELAG_Adelocera_sp_M	0	4	0	0
+POELAG_Lacon_sp	0	4	0	0
+POELEL_Elater_sp	0	8	0	0
+POELME_Melanotus_sp	0	7	0	0
+POELEL_Agriotes_sputator	0	4	0	0
+POELEL_Agriotes_obscurus	0	2	0	0
+POELEL_Agriotes_lineatus	0	11	0	0
+POELDE_Limonius_sp	0	4	0	0

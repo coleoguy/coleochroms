@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir result20
+_dataFile Elateridae.txt
+_treeFile Elateridae20.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

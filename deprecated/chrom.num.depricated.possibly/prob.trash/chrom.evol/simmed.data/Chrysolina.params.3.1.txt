@@ -1,0 +1,9 @@
+_mainType Optimize_Model
+_outDir simmed.data/results/Chrysolina.3.1
+_dataFile simmed.data/Chrysolina.3.1.txt
+_treeFile Chrysolina/Chrysolina3.tree
+_maxChrNum -1
+_minChrNum -1
+_simulationsNum 0
+_gainConstR = 1
+_lossConstR = 1

@@ -1,0 +1,229 @@
+START OF LOG FILE
+chromEvol Version: 1.3. Last updated January 2012
+_baseNumber	(Int)	5
+_branchModelType	(Str)	GRADUAL
+_branchMul	(Float)	999
+_dataFile	(Str)	Lampyridae.txt
+_demiPloidyR	(Float)	-999
+_duplConstR	(Float)	-999
+_epsR	(Float)	-999
+_epsilonLLimprovement	(Float)	0.1
+_freqFile	(Str)	
+_gainConstR	(Float)	0
+_gainLinearR	(Float)	-999
+_inferTreeFile	(Str)	mlAncestors.tree
+_logFile	(Str)	log.txt
+_logValue	(Int)	5
+_lossConstR	(Float)	0
+_lossLinearR	(Float)	-999
+_mainType	(Str)	Optimize_Model
+_maxChrNum	(Int)	-1
+_maxChrNumForSimulations	(Int)	0
+_maxOptimizationIterations	(Int)	5
+_minChrNum	(Int)	-1
+_modelType	(Str)	GENERAL_CHR_MODEL
+_optimizeIterNum	(Str)	0,2,5
+_optimizePointsNum	(Str)	10,3,1
+_outDir	(Str)	result14
+_outFile	(Str)	chromEvol.res
+_pow2Scale	(Int)	1
+_rootAt	(Str)	
+_rootFreqType	(Str)	ROOT_LL
+_scaleBranch	(Float)	-999
+_simDemiTypes	(Str)	-999,-999,-2
+_simModels	(Str)	CONST_RATE_NO_DUPL,CONST_RATE,CONST_RATE
+_simulationsIter	(Int)	50
+_simulationsJumpsStats	(Str)	
+_simulationsNum	(Int)	0
+_simulationsTreeDir	(Str)	
+_simulationsTreeLength	(Float)	0
+_startSimulationsIter	(Int)	0
+_tolParamOptimization	(Float)	0.01
+_treeFile	(Str)	Lampyridae14.tree
+
+ ---------------------- THE PARAMETERS ----------------------------
+main type: Optimize_Model
+tree file: Lampyridae14.tree
+data file: Lampyridae.txt
+output file: chromEvol.res
+model Type: GENERAL_CHR_MODEL
+ max chromosome number allowed: -1
+ gainConstR: 0
+ _lossConstR: 0
+ _duplConstR: -999
+ _demiPloidyR: -999
+
+ -----------------------------------------------------------------
+tree rooted at N1 id, 0
+sons of root are: 
+POLALA_Cryptolestes_sp
+N2
+Original total tree length = 1542.87
+total tree length = 3
+Optimizing parameters
+=====Cycle======= 0
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=0	GAIN_CONST=0	
+ll before optimization = -72.0873
+point: 0  likelihood = -72.0873
+
+=====optimizing point======= 1
+starting optimization:
+model params:
+LOSS_CONST=69.6329	GAIN_CONST=2.77344	
+ll before optimization = -141.597
+point: 1  likelihood = -141.597
+
+=====optimizing point======= 2
+starting optimization:
+model params:
+LOSS_CONST=39.4107	GAIN_CONST=31.2489	
+ll before optimization = -30.4456
+point: 2  likelihood = -30.4456
+
+=====optimizing point======= 3
+starting optimization:
+model params:
+LOSS_CONST=82.6898	GAIN_CONST=78.8487	
+ll before optimization = -39.5309
+point: 3  likelihood = -39.5309
+
+=====optimizing point======= 4
+starting optimization:
+model params:
+LOSS_CONST=85.0389	GAIN_CONST=91.4796	
+ll before optimization = -36.5182
+point: 4  likelihood = -36.5182
+
+=====optimizing point======= 5
+starting optimization:
+model params:
+LOSS_CONST=99.2774	GAIN_CONST=61.9592	
+ll before optimization = -63.7873
+point: 5  likelihood = -63.7873
+
+=====optimizing point======= 6
+starting optimization:
+model params:
+LOSS_CONST=95.3709	GAIN_CONST=79.3615	
+ll before optimization = -48.309
+point: 6  likelihood = -48.309
+
+=====optimizing point======= 7
+starting optimization:
+model params:
+LOSS_CONST=43.833	GAIN_CONST=38.1732	
+ll before optimization = -30.4905
+point: 7  likelihood = -30.4905
+
+=====optimizing point======= 8
+starting optimization:
+model params:
+LOSS_CONST=28.1141	GAIN_CONST=32.3344	
+ll before optimization = -23.7393
+point: 8  likelihood = -23.7393
+
+=====optimizing point======= 9
+starting optimization:
+model params:
+LOSS_CONST=49.2375	GAIN_CONST=54.3553	
+ll before optimization = -28.4146
+point: 9  likelihood = -28.4146
+
+=====Cycle======= 1
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=39.4107	GAIN_CONST=31.2489	
+ll before optimization = -30.4456
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -22.4943 new = 19.4857 old=39.4107
+optmizing GAIN_CONST
+ LL= -21.9189 new = 23.1754 old=31.2489
+iteration: 1 begin
+optmizing LOSS_CONST
+ LL= -21.7038 new = 15.5886 old=19.4857
+optmizing GAIN_CONST
+ LL= -21.0112 new = 17.1879 old=23.1754
+point: 0  likelihood = -21.0112
+
+=====optimizing point======= 1
+starting optimization:
+model params:
+LOSS_CONST=28.1141	GAIN_CONST=32.3344	
+ll before optimization = -23.7393
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -22.518 new = 21.0928 old=28.1141
+optmizing GAIN_CONST
+ LL= -22.518 new = 32.3344 old=32.3344
+iteration: 1 begin
+optmizing LOSS_CONST
+ LL= -22.518 new = 21.0928 old=21.0928
+optmizing GAIN_CONST
+ LL= -22.518 new = 32.3344 old=32.3344
+point: 1  likelihood = -22.518
+
+=====optimizing point======= 2
+starting optimization:
+model params:
+LOSS_CONST=49.2375	GAIN_CONST=54.3553	
+ll before optimization = -28.4146
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -23.8737 new = 30.4305 old=49.2375
+optmizing GAIN_CONST
+ LL= -23.8737 new = 54.3553 old=54.3553
+iteration: 1 begin
+optmizing LOSS_CONST
+ LL= -23.8737 new = 30.4305 old=30.4305
+optmizing GAIN_CONST
+ LL= -23.8737 new = 54.3553 old=54.3553
+point: 2  likelihood = -23.8737
+
+=====Cycle======= 2
+=====optimizing point======= 0
+starting optimization:
+model params:
+LOSS_CONST=15.5886	GAIN_CONST=17.1879	
+ll before optimization = -21.0112
+iteration: 0 begin
+optmizing LOSS_CONST
+ LL= -20.8128 new = 14.0297 old=15.5886
+optmizing GAIN_CONST
+ LL= -20.5003 new = 12.6068 old=17.1879
+iteration: 1 begin
+optmizing LOSS_CONST
+ LL= -19.9112 new = 10.9866 old=14.0297
+optmizing GAIN_CONST
+ LL= -19.2217 new = 7.01228 old=12.6068
+iteration: 2 begin
+optmizing LOSS_CONST
+ LL= -18.1618 new = 7.46912 old=10.9866
+optmizing GAIN_CONST
+ LL= -16.247 new = 2.4916e-10 old=7.01228
+iteration: 3 begin
+optmizing LOSS_CONST
+ LL= -9.30172 new = 1.76322 old=7.46912
+optmizing GAIN_CONST
+ LL= -9.30172 new = 2.4916e-10 old=2.4916e-10
+iteration: 4 begin
+optmizing LOSS_CONST
+ LL= -9.29184 new = 1.5869 old=1.76322
+optmizing GAIN_CONST
+ LL= -9.29184 new = 2.4916e-10 old=2.4916e-10
+point: 0  likelihood = -9.29184
+
+
+FINAL LIKELIHOODS++++++++++++++
+point 0 likelihood = -9.29184
+after optmizations
+Inferring ancestral states
+Computing expectations
+Cannot perform simulations. The alpahabet size of 5 is too high
+Printing results
+
+TOTAL RUNNING TIME = 1

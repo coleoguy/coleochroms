@@ -1,0 +1,242 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+N6: 9
+POCELE_Rhagium_mordax: 1
+POCESP_Asemum_striatum: 2
+N8: 3
+POCELE_Gaurotes_sp: 1
+POCECE_Xylotrechus_sp: 2
+POCELA_Mecynippus_pubicornis: 1
+POCESP_Tetropium_castaneum: 4
+POCELA_Mesosa_myops: 5
+POCELA_Uraecha_bimaculata: 2
+POCELA_Mesechthistatus_binodosus: 3
+POCELA_Apriona_japonica: 10
+N16: 4
+POCELA_Anoplophora_chinensis: 2
+POCELA_Phaea_sp: 7
+POCELA_Tetraopes_femoratus: 7
+POCELA_Tetraopes_tetropthalmus: 1
+N21: 6
+POCELA_Acalolepta_luxuriosa: 2
+POCELA_Acalolepta_fraudatrix: 10
+POCELA_Glenea_sp: 6
+N28: 4
+POCELA_Oberea_sp: 3
+N29: 3
+POCELA_Epiglenea_comes: 1
+POCELA_Leiopus_sp: 2
+POCELA_Saperda_sp: 1
+POCELA_Agapanthia_daurica: 1
+POCELA_Xenolea_sp: 1
+N34: 6
+POCELA_Pogonocherus_hispidus: 2
+POCELA_Batocera_rubus: 1
+POCELA_Apomecyna_sp: 6
+N35: 8
+POCELA_Monochamus_saltuarius: 5
+POCELA_Monochamus_urussovi: 1
+POCELA_Monochamus_sutor: 2
+POCESP_Tetropium_gabrieli: 4
+POCESP_Tetropium_fuscum: 8
+POCECE_Phymatodes_sp: 3
+POCEPR_Macrotoma_sp: 7
+POCECE_Elaphidion_sp: 9
+POCECE_Eburia_sp: 7
+POCECE_Purpuricenus_sp: 8
+POCECE_Rosalia_sp: 5
+POCECE_Callidium_violaceum: 1
+POCECE_Plagionotus_sp: 4
+POCECE_Clytus_arietis: 10
+POCECE_Stenygra_sp: 2
+POCELE_Leptura_sp: 1
+POCEPR_Prionus_sp: 5
+POCECE_Chlorophorus_sp: 1
+POCEDI_Distenia_sp: 1
+Total number of gain events: 211
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+POCELA_Anoplophora_malasiaca: 2
+N22: 1
+POCELA_Pterolophia_sp: 2
+POCELA_Phytoecia_sp: 2
+POCELA_Monochamus_galloprovincialis_M: 3
+Total number of loss events: 10
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0	0	0	0
+N3	0	0	0	0
+N4	0	0	0	0
+N5	0	0	0	0
+N6	9	0	0	0
+N7	0	0	0	0
+POCELE_Rhagium_mordax	1	0	0	0
+POCESP_Asemum_striatum	2	0	0	0
+POCESP_Spondylis_sp	0	0	0	0
+N8	3	0	0	0
+POCELE_Acmaeops_sp	0	0	0	0
+POCELE_Gaurotes_sp	1	0	0	0
+N9	0	0	0	0
+N10	0	0	0	0
+POCECE_Xylotrechus_sp	2	0	0	0
+POCELA_Mecynippus_pubicornis	1	0	0	0
+POCESP_Tetropium_castaneum	4	0	0	0
+N11	0	0	0	0
+N12	0	0	0	0
+POCELA_Mesosa_myops	5	0	0	0
+N13	0	0	0	0
+POCELA_Uraecha_bimaculata	2	0	0	0
+N14	0	0	0	0
+N15	0	0	0	0
+POCELA_Mesechthistatus_binodosus	3	0	0	0
+POCELA_Apriona_japonica	10	0	0	0
+N16	4	0	0	0
+POCELA_Anoplophora_chinensis	2	0	0	0
+POCELA_Anoplophora_malasiaca	0	2	0	0
+N17	0	0	0	0
+N18	0	0	0	0
+N19	0	0	0	0
+POCELA_Phaea_sp	7	0	0	0
+N20	0	0	0	0
+POCELA_Tetraopes_femoratus	7	0	0	0
+POCELA_Tetraopes_tetropthalmus	1	0	0	0
+N21	6	0	0	0
+N22	0	1	0	0
+POCELA_Acalolepta_luxuriosa	2	0	0	0
+POCELA_Pterolophia_sp	0	2	0	0
+POCELA_Acalolepta_fraudatrix	10	0	0	0
+N23	0	0	0	0
+N24	0	0	0	0
+N25	0	0	0	0
+N26	0	0	0	0
+POCELA_Glenea_sp	6	0	0	0
+N27	0	0	0	0
+N28	4	0	0	0
+POCELA_Oberea_sp	3	0	0	0
+POCELA_Phytoecia_sp	0	2	0	0
+N29	3	0	0	0
+POCELA_Epiglenea_comes	1	0	0	0
+POCECE_Cyrtoclytus_sp	0	0	0	0
+N30	0	0	0	0
+POCELA_Leiopus_sp	2	0	0	0
+POCELA_Saperda_sp	1	0	0	0
+N31	0	0	0	0
+N32	0	0	0	0
+POCELA_Agapanthia_daurica	1	0	0	0
+POCELA_Xenolea_sp	1	0	0	0
+N33	0	0	0	0
+N34	6	0	0	0
+POCELA_Pogonocherus_hispidus	2	0	0	0
+POCELA_Batocera_rubus	1	0	0	0
+POCELA_Apomecyna_sp	6	0	0	0
+N35	8	0	0	0
+POCELA_Monochamus_saltuarius	5	0	0	0
+N36	0	0	0	0
+N37	0	0	0	0
+POCELA_Monochamus_sartor	0	0	0	0
+POCELA_Monochamus_urussovi	1	0	0	0
+N38	0	0	0	0
+POCELA_Monochamus_galloprovincialis_M	0	3	0	0
+POCELA_Monochamus_sutor	2	0	0	0
+N39	0	0	0	0
+POCESP_Tetropium_gabrieli	4	0	0	0
+POCESP_Tetropium_fuscum	8	0	0	0
+N40	0	0	0	0
+N41	0	0	0	0
+N42	0	0	0	0
+POCECE_Phymatodes_sp	3	0	0	0
+N43	0	0	0	0
+N44	0	0	0	0
+N45	0	0	0	0
+POCEPR_Macrotoma_sp	7	0	0	0
+POCECE_Elaphidion_sp	9	0	0	0
+N46	0	0	0	0
+POCECE_Eburia_sp	7	0	0	0
+POCECE_Purpuricenus_sp	8	0	0	0
+N47	0	0	0	0
+POCECE_Rosalia_sp	5	0	0	0
+N48	0	0	0	0
+N49	0	0	0	0
+POCECE_Callidium_violaceum	1	0	0	0
+POCECE_Plagionotus_sp	4	0	0	0
+POCECE_Clytus_arietis	10	0	0	0
+N50	0	0	0	0
+N51	0	0	0	0
+POCECE_Stenygra_sp	2	0	0	0
+N52	0	0	0	0
+POCELE_Leptura_sp	1	0	0	0
+POCEPR_Prionus_sp	5	0	0	0
+POCECE_Chlorophorus_sp	1	0	0	0
+POCEDI_Distenia_sp	1	0	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POCELE_Rhagium_mordax	10	0	0	0
+POCESP_Asemum_striatum	11	0	0	0
+POCESP_Spondylis_sp	9	0	0	0
+POCELE_Acmaeops_sp	3	0	0	0
+POCELE_Gaurotes_sp	4	0	0	0
+POCECE_Xylotrechus_sp	2	0	0	0
+POCELA_Mecynippus_pubicornis	1	0	0	0
+POCESP_Tetropium_castaneum	4	0	0	0
+POCELA_Mesosa_myops	5	0	0	0
+POCELA_Uraecha_bimaculata	2	0	0	0
+POCELA_Mesechthistatus_binodosus	3	0	0	0
+POCELA_Apriona_japonica	10	0	0	0
+POCELA_Anoplophora_chinensis	6	0	0	0
+POCELA_Anoplophora_malasiaca	4	2	0	0
+POCELA_Phaea_sp	7	0	0	0
+POCELA_Tetraopes_femoratus	7	0	0	0
+POCELA_Tetraopes_tetropthalmus	1	0	0	0
+POCELA_Acalolepta_luxuriosa	8	1	0	0
+POCELA_Pterolophia_sp	6	3	0	0
+POCELA_Acalolepta_fraudatrix	16	0	0	0
+POCELA_Glenea_sp	6	0	0	0
+POCELA_Oberea_sp	7	0	0	0
+POCELA_Phytoecia_sp	4	2	0	0
+POCELA_Epiglenea_comes	4	0	0	0
+POCECE_Cyrtoclytus_sp	3	0	0	0
+POCELA_Leiopus_sp	2	0	0	0
+POCELA_Saperda_sp	1	0	0	0
+POCELA_Agapanthia_daurica	1	0	0	0
+POCELA_Xenolea_sp	1	0	0	0
+POCELA_Pogonocherus_hispidus	8	0	0	0
+POCELA_Batocera_rubus	7	0	0	0
+POCELA_Apomecyna_sp	6	0	0	0
+POCELA_Monochamus_saltuarius	13	0	0	0
+POCELA_Monochamus_sartor	8	0	0	0
+POCELA_Monochamus_urussovi	9	0	0	0
+POCELA_Monochamus_galloprovincialis_M	8	3	0	0
+POCELA_Monochamus_sutor	10	0	0	0
+POCESP_Tetropium_gabrieli	4	0	0	0
+POCESP_Tetropium_fuscum	8	0	0	0
+POCECE_Phymatodes_sp	3	0	0	0
+POCEPR_Macrotoma_sp	7	0	0	0
+POCECE_Elaphidion_sp	9	0	0	0
+POCECE_Eburia_sp	7	0	0	0
+POCECE_Purpuricenus_sp	8	0	0	0
+POCECE_Rosalia_sp	5	0	0	0
+POCECE_Callidium_violaceum	1	0	0	0
+POCECE_Plagionotus_sp	4	0	0	0
+POCECE_Clytus_arietis	10	0	0	0
+POCECE_Stenygra_sp	2	0	0	0
+POCELE_Leptura_sp	1	0	0	0
+POCEPR_Prionus_sp	5	0	0	0
+POCECE_Chlorophorus_sp	1	0	0	0
+POCEDI_Distenia_sp	1	0	0	0

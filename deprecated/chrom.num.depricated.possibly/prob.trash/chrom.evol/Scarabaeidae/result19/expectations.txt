@@ -1,0 +1,399 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+N6: 1
+POSCSC_Tiniocellus_spinipes: 3
+POSCSC_Microcopris_sp: 2
+POSCSC_Ontherus_sp: 1
+N58: 1
+POSCRU_Adoretus_versutus: 1
+POSCAP_Aphodius_moestus: 1
+Total number of gain events: 10
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N3: 1
+N4: 1
+N5: 6
+POSCSC_Phanaeus_vindex: 1
+POSCSC_Phanaeus_igneus: 1
+POSCSC_Phanaeus_chalcomelas: 8
+POSCSC_Caccobius_schreberi: 1
+POSCSC_Onthophagus_pennsylvannicus: 1
+POSCSC_Onthophagus_hecate: 1
+POSCSC_Onthophagus_marginicollis: 1
+N18: 1
+POSCSC_Onthophagus_taurus: 1
+POSCSC_Digitonthophagus_gazella: 1
+POSCSC_Oniticellus_fulvus: 1
+POSCSC_Oruscatus_davus: 1
+N22: 1
+POSCSC_Canthon_indigaceus: 2
+POSCSC_Canthidium_sp: 2
+POSCSC_Eucranium_arachnoides: 2
+POSCSC_Glyphoderus_sterquilinus: 2
+POSCSC_Oxysternon_sp: 1
+POSCSC_Paragymnopleurus_sp: 2
+N37: 2
+POSCSC_Copris_lugubris: 4
+POSCSC_Copris_sinicus: 4
+N40: 1
+POSCSC_Eurysternus_caribaeus: 11
+POSCSC_Deltochilum_amazonicum: 5
+POSCCH_Chiron_sp: 1
+POSCSE_Serica_sp: 1
+POSCME_Apogonia_sp: 1
+POSCME_Hoplia_sp: 1
+POSCME_Phyllophaga_delata_M: 1
+N51: 1
+POSCME_Haplidia_sp: 2
+POSCME_Amphimallon_solstitiale: 1
+POSCME_Melolontha_sp: 1
+POSCCE_Protaetia_cuprea: 1
+POSCCE_Trichius_zonatus: 1
+N60: 1
+POSCDY_Oryctes_nasicornis: 2
+POSCDY_Dynastes_sp: 2
+POSCRU_Popillia_japonica: 2
+POSCRU_Anomala_bengalensis: 2
+POSCCE_Cetonia_aurata: 1
+N72: 1
+N76: 1
+POSCAP_Aphodius_vittatus: 1
+N80: 1
+POSCAP_Aphodius_borealis: 1
+POSCAP_Aphodius_paykulli: 1
+POSCAP_Aphodius_haemorrhoidalis: 1
+POSCAP_Aphodius_erraticus: 1
+POSCAP_Aphodius_ater: 1
+POSCAP_Aphodius_constans: 1
+POSCAP_Aphodius_rufus: 1
+POSCAP_Aphodius_fossor: 1
+POSCAP_Aphodius_foetidus: 1
+POSCAP_Aphodius_foetens: 1
+POSCAP_Aphodius_coniugatus: 1
+N95: 1
+POSCAP_Aphodius_elevatus: 1
+POSCAP_Aphodius_luridus: 1
+POSCAP_Aphodius_depressus: 1
+POSCAP_Psammodius_sp: 1
+POSCHY_Hybosorus_sp: 1
+POSCAP_Ataenius_sp: 1
+Total number of loss events: 110
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0	0	0	0
+N3	0	1	0	0
+N4	0	1	0	0
+N5	0	6	0	0
+POSCSC_Phanaeus_vindex	0	1	0	0
+POSCSC_Phanaeus_igneus	0	1	0	0
+N6	1	0	0	0
+POSCSC_Malagoniella_sp	0	0	0	0
+POSCSC_Onitis_sp	0	0	0	0
+N7	0	0	0	0
+POSCSC_Phanaeus_chalcomelas	0	8	0	0
+N8	0	0	0	0
+POSCSC_Cheironitis_sp	0	0	0	0
+N9	0	0	0	0
+POSCSC_Bubas_bison	0	0	0	0
+POSCSC_Bubas_bubalus	0	0	0	0
+N10	0	0	0	0
+N11	0	0	0	0
+N12	0	0	0	0
+N13	0	0	0	0
+N14	0	0	0	0
+POSCSC_Caccobius_schreberi	0	1	0	0
+N15	0	0	0	0
+POSCSC_Onthophagus_pennsylvannicus	0	1	0	0
+N16	0	0	0	0
+POSCSC_Onthophagus_hecate	0	1	0	0
+POSCSC_Onthophagus_marginicollis	0	1	0	0
+N17	0	0	0	0
+N18	0	1	0	0
+POSCSC_Onthophagus_nuchicornis_M	0	0	0	0
+N19	0	0	0	0
+POSCSC_Onthophagus_similis	0	0	0	0
+POSCSC_Onthophagus_fracticornis	0	0	0	0
+POSCSC_Onthophagus_taurus	0	1	0	0
+POSCSC_Digitonthophagus_gazella	0	1	0	0
+N20	0	0	0	0
+POSCSC_Oniticellus_fulvus	0	1	0	0
+N21	0	0	0	0
+POSCSC_Tiniocellus_spinipes	3	0	0	0
+POSCSC_Oruscatus_davus	0	1	0	0
+N22	0	1	0	0
+N23	0	0	0	0
+N24	0	0	0	0
+N25	0	0	0	0
+N26	0	0	0	0
+POSCSC_Gromphas_sp	0	0	0	0
+POSCSC_Canthon_indigaceus	0	2	0	0
+N27	0	0	0	0
+N28	0	0	0	0
+POSCSC_Canthidium_sp	0	2	0	0
+N29	0	0	0	0
+N30	0	0	0	0
+POSCSC_Eucranium_arachnoides	0	2	0	0
+POSCSC_Glyphoderus_sterquilinus	0	2	0	0
+POSCSC_Sulcophanaeus_sp	0	0	0	0
+N31	0	0	0	0
+N32	0	0	0	0
+N33	0	0	0	0
+POSCSC_Bolbites_onitoides	0	0	0	0
+POSCSC_Oxysternon_sp	0	1	0	0
+POSCSC_Coprophanaeus_sp	0	0	0	0
+POSCSC_Scarabaeus_sp	0	0	0	0
+N34	0	0	0	0
+POSCSC_Heliocopris_sp	0	0	0	0
+N35	0	0	0	0
+POSCSC_Paragymnopleurus_sp	0	2	0	0
+POSCSC_Gymnopleurus_sp	0	0	0	0
+N36	0	0	0	0
+POSCSC_Sisyphus_sp	0	0	0	0
+N37	0	2	0	0
+N38	0	0	0	0
+POSCSC_Copris_lugubris	0	4	0	0
+N39	0	0	0	0
+POSCSC_Paracopris_sp	0	0	0	0
+POSCSC_Microcopris_sp	2	0	0	0
+POSCSC_Copris_sinicus	0	4	0	0
+N40	0	1	0	0
+POSCSC_Eurysternus_caribaeus	0	11	0	0
+N41	0	0	0	0
+POSCSC_Deltochilum_amazonicum	0	5	0	0
+POSCSC_Ontherus_sp	1	0	0	0
+N42	0	0	0	0
+N43	0	0	0	0
+N44	0	0	0	0
+POSCCH_Chiron_sp	0	1	0	0
+N45	0	0	0	0
+N46	0	0	0	0
+POSCSE_Serica_sp	0	1	0	0
+N47	0	0	0	0
+N48	0	0	0	0
+POSCME_Apogonia_sp	0	1	0	0
+POSCME_Hoplia_sp	0	1	0	0
+N49	0	0	0	0
+N50	0	0	0	0
+POSCME_Phyllophaga_delata_M	0	1	0	0
+N51	0	1	0	0
+POSCME_Phyllophaga_drakii	0	0	0	0
+POSCME_Phyllophaga_fusca	0	0	0	0
+N52	0	0	0	0
+N53	0	0	0	0
+POSCME_Haplidia_sp	0	2	0	0
+POSCME_Schizonycha_sp	0	0	0	0
+N54	0	0	0	0
+POSCME_Amphimallon_solstitiale	0	1	0	0
+POSCME_Melolontha_sp	0	1	0	0
+N55	0	0	0	0
+N56	0	0	0	0
+N57	0	0	0	0
+N58	1	0	0	0
+POSCRU_Adoretus_lasiopygus	0	0	0	0
+POSCRU_Adoretus_versutus	1	0	0	0
+N59	0	0	0	0
+POSCCE_Protaetia_cuprea	0	1	0	0
+POSCCE_Trichius_zonatus	0	1	0	0
+N60	0	1	0	0
+N61	0	0	0	0
+POSCDY_Cyclocephala_sp	0	0	0	0
+N62	0	0	0	0
+N63	0	0	0	0
+POSCDY_Phyllognathus_dionysius	0	0	0	0
+POSCDY_Oryctes_nasicornis	0	2	0	0
+N64	0	0	0	0
+POSCDY_Dynastes_sp	0	2	0	0
+POSCDY_Pentodon_sp	0	0	0	0
+N65	0	0	0	0
+N66	0	0	0	0
+POSCRU_Phyllopertha_sp	0	0	0	0
+N67	0	0	0	0
+POSCRU_Mimela_sp	0	0	0	0
+POSCRU_Popillia_japonica	0	2	0	0
+N68	0	0	0	0
+N69	0	0	0	0
+POSCRU_Anomala_varicolor	0	0	0	0
+N70	0	0	0	0
+POSCRU_Anomala_dorsalis	0	0	0	0
+POSCRU_Anomala_polita	0	0	0	0
+POSCRU_Anomala_bengalensis	0	2	0	0
+N71	0	0	0	0
+POSCCE_Cetonia_aurata	0	1	0	0
+N72	0	1	0	0
+POSCCE_Oxythyrea_sp	0	0	0	0
+N73	0	0	0	0
+POSCCE_Tropinota_sp	0	0	0	0
+POSCCE_Cremastocheilus_sp	0	0	0	0
+N74	0	0	0	0
+N75	0	0	0	0
+N76	0	1	0	0
+POSCAP_Aphodius_contaminatus	0	0	0	0
+POSCAP_Aphodius_obliteratus	0	0	0	0
+N77	0	0	0	0
+N78	0	0	0	0
+N79	0	0	0	0
+POSCAP_Aphodius_vittatus	0	1	0	0
+N80	0	1	0	0
+POSCAP_Aphodius_distinctus	0	0	0	0
+N81	0	0	0	0
+N82	0	0	0	0
+N83	0	0	0	0
+POSCAP_Aphodius_sticticus	0	0	0	0
+POSCAP_Aphodius_prodromus	0	0	0	0
+POSCAP_Aphodius_sphacelatus	0	0	0	0
+POSCAP_Aphodius_consputus	0	0	0	0
+N84	0	0	0	0
+N85	0	0	0	0
+POSCAP_Aphodius_borealis	0	1	0	0
+POSCAP_Aphodius_paykulli	0	1	0	0
+N86	0	0	0	0
+POSCAP_Aphodius_haemorrhoidalis	0	1	0	0
+N87	0	0	0	0
+POSCAP_Aphodius_moestus	1	0	0	0
+POSCAP_Aphodius_erraticus	0	1	0	0
+N88	0	0	0	0
+N89	0	0	0	0
+POSCAP_Aphodius_ater	0	1	0	0
+POSCAP_Aphodius_constans	0	1	0	0
+POSCAP_Aphodius_rufus	0	1	0	0
+N90	0	0	0	0
+N91	0	0	0	0
+N92	0	0	0	0
+N93	0	0	0	0
+POSCAP_Aphodius_fossor	0	1	0	0
+POSCAP_Aphodius_foetidus	0	1	0	0
+N94	0	0	0	0
+POSCAP_Aphodius_foetens	0	1	0	0
+POSCAP_Aphodius_coniugatus	0	1	0	0
+N95	0	1	0	0
+POSCAP_Aphodius_pedellus	0	0	0	0
+POSCAP_Aphodius_fimetarius	0	0	0	0
+N96	0	0	0	0
+POSCAP_Aphodius_elevatus	0	1	0	0
+N97	0	0	0	0
+POSCAP_Aphodius_luridus	0	1	0	0
+POSCAP_Aphodius_depressus	0	1	0	0
+N98	0	0	0	0
+POSCAP_Psammodius_sp	0	1	0	0
+N99	0	0	0	0
+POSCHY_Hybosorus_sp	0	1	0	0
+POSCAP_Ataenius_sp	0	1	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+POSCSC_Phanaeus_vindex	0	9	0	0
+POSCSC_Phanaeus_igneus	0	9	0	0
+POSCSC_Malagoniella_sp	1	2	0	0
+POSCSC_Onitis_sp	1	2	0	0
+POSCSC_Phanaeus_chalcomelas	0	9	0	0
+POSCSC_Cheironitis_sp	0	1	0	0
+POSCSC_Bubas_bison	0	1	0	0
+POSCSC_Bubas_bubalus	0	1	0	0
+POSCSC_Caccobius_schreberi	0	1	0	0
+POSCSC_Onthophagus_pennsylvannicus	0	1	0	0
+POSCSC_Onthophagus_hecate	0	1	0	0
+POSCSC_Onthophagus_marginicollis	0	1	0	0
+POSCSC_Onthophagus_nuchicornis_M	0	1	0	0
+POSCSC_Onthophagus_similis	0	1	0	0
+POSCSC_Onthophagus_fracticornis	0	1	0	0
+POSCSC_Onthophagus_taurus	0	1	0	0
+POSCSC_Digitonthophagus_gazella	0	1	0	0
+POSCSC_Oniticellus_fulvus	0	1	0	0
+POSCSC_Tiniocellus_spinipes	3	0	0	0
+POSCSC_Oruscatus_davus	0	1	0	0
+POSCSC_Gromphas_sp	0	1	0	0
+POSCSC_Canthon_indigaceus	0	3	0	0
+POSCSC_Canthidium_sp	0	3	0	0
+POSCSC_Eucranium_arachnoides	0	3	0	0
+POSCSC_Glyphoderus_sterquilinus	0	3	0	0
+POSCSC_Sulcophanaeus_sp	0	1	0	0
+POSCSC_Bolbites_onitoides	0	1	0	0
+POSCSC_Oxysternon_sp	0	2	0	0
+POSCSC_Coprophanaeus_sp	0	1	0	0
+POSCSC_Scarabaeus_sp	0	1	0	0
+POSCSC_Heliocopris_sp	0	1	0	0
+POSCSC_Paragymnopleurus_sp	0	3	0	0
+POSCSC_Gymnopleurus_sp	0	1	0	0
+POSCSC_Sisyphus_sp	0	1	0	0
+POSCSC_Copris_lugubris	0	7	0	0
+POSCSC_Paracopris_sp	0	3	0	0
+POSCSC_Microcopris_sp	2	3	0	0
+POSCSC_Copris_sinicus	0	7	0	0
+POSCSC_Eurysternus_caribaeus	0	13	0	0
+POSCSC_Deltochilum_amazonicum	0	7	0	0
+POSCSC_Ontherus_sp	1	2	0	0
+POSCCH_Chiron_sp	0	1	0	0
+POSCSE_Serica_sp	0	1	0	0
+POSCME_Apogonia_sp	0	1	0	0
+POSCME_Hoplia_sp	0	1	0	0
+POSCME_Phyllophaga_delata_M	0	1	0	0
+POSCME_Phyllophaga_drakii	0	1	0	0
+POSCME_Phyllophaga_fusca	0	1	0	0
+POSCME_Haplidia_sp	0	2	0	0
+POSCME_Schizonycha_sp	0	0	0	0
+POSCME_Amphimallon_solstitiale	0	1	0	0
+POSCME_Melolontha_sp	0	1	0	0
+POSCRU_Adoretus_lasiopygus	1	0	0	0
+POSCRU_Adoretus_versutus	2	0	0	0
+POSCCE_Protaetia_cuprea	0	1	0	0
+POSCCE_Trichius_zonatus	0	1	0	0
+POSCDY_Cyclocephala_sp	0	1	0	0
+POSCDY_Phyllognathus_dionysius	0	1	0	0
+POSCDY_Oryctes_nasicornis	0	3	0	0
+POSCDY_Dynastes_sp	0	3	0	0
+POSCDY_Pentodon_sp	0	1	0	0
+POSCRU_Phyllopertha_sp	0	1	0	0
+POSCRU_Mimela_sp	0	1	0	0
+POSCRU_Popillia_japonica	0	3	0	0
+POSCRU_Anomala_varicolor	0	1	0	0
+POSCRU_Anomala_dorsalis	0	1	0	0
+POSCRU_Anomala_polita	0	1	0	0
+POSCRU_Anomala_bengalensis	0	3	0	0
+POSCCE_Cetonia_aurata	0	1	0	0
+POSCCE_Oxythyrea_sp	0	1	0	0
+POSCCE_Tropinota_sp	0	1	0	0
+POSCCE_Cremastocheilus_sp	0	1	0	0
+POSCAP_Aphodius_contaminatus	0	1	0	0
+POSCAP_Aphodius_obliteratus	0	1	0	0
+POSCAP_Aphodius_vittatus	0	1	0	0
+POSCAP_Aphodius_distinctus	0	1	0	0
+POSCAP_Aphodius_sticticus	0	1	0	0
+POSCAP_Aphodius_prodromus	0	1	0	0
+POSCAP_Aphodius_sphacelatus	0	1	0	0
+POSCAP_Aphodius_consputus	0	1	0	0
+POSCAP_Aphodius_borealis	0	1	0	0
+POSCAP_Aphodius_paykulli	0	1	0	0
+POSCAP_Aphodius_haemorrhoidalis	0	1	0	0
+POSCAP_Aphodius_moestus	1	0	0	0
+POSCAP_Aphodius_erraticus	0	1	0	0
+POSCAP_Aphodius_ater	0	1	0	0
+POSCAP_Aphodius_constans	0	1	0	0
+POSCAP_Aphodius_rufus	0	1	0	0
+POSCAP_Aphodius_fossor	0	1	0	0
+POSCAP_Aphodius_foetidus	0	1	0	0
+POSCAP_Aphodius_foetens	0	1	0	0
+POSCAP_Aphodius_coniugatus	0	1	0	0
+POSCAP_Aphodius_pedellus	0	1	0	0
+POSCAP_Aphodius_fimetarius	0	1	0	0
+POSCAP_Aphodius_elevatus	0	1	0	0
+POSCAP_Aphodius_luridus	0	1	0	0
+POSCAP_Aphodius_depressus	0	1	0	0
+POSCAP_Psammodius_sp	0	1	0	0
+POSCHY_Hybosorus_sp	0	1	0	0
+POSCAP_Ataenius_sp	0	1	0	0

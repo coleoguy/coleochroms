@@ -1,0 +1,178 @@
+#cannot perform simulations: Expectations are based on heuristic computations rather than simulations
+#Nodes with GAIN events with expectation above 0.5
+ADDYAG_Ilybius_wasastjernae: 3
+ADDYCO_Rhantus_exsoletus: 1
+ADDYCO_Colymbetes_paykulli: 1
+ADDYAG_Agabus_bipustulatus: 2
+ADDYHY_Nebrioporus_lanceolatus_M: 1
+Total number of gain events: 8
+#+++++++++++++++++++++++++++++
+
+#Nodes with LOSS events with expectation above 0.5
+N4: 4
+ADDYDY_Cybister_sugillatus: 6
+N5: 1
+N6: 3
+ADDYDY_Cybister_lateralimarginalis: 6
+ADDYDY_Cybister_japonicus: 5
+ADDYDY_Cybister_tripunctatus: 2
+N8: 5
+ADDYDY_Eretes_sticticus: 10
+N9: 3
+N10: 2
+ADDYDY_Dytiscus_marginalis_M: 3
+ADDYDY_Dytiscus_circumcinctus: 4
+ADDYDY_Dytiscus_dauricus: 6
+N13: 3
+N14: 3
+ADDYAG_Ilybius_erichsoni: 5
+ADDYAG_Ilybius_albarracinensis: 5
+ADDYAG_Ilybius_chalconatus: 2
+N15: 5
+N16: 1
+ADDYAG_Ilybius_vittiger: 8
+N17: 2
+N18: 1
+ADDYAG_Ilybius_subaeneus: 7
+N19: 1
+N20: 3
+ADDYAG_Ilybius_quadriguttatus: 3
+ADDYAG_Ilybius_guttiger: 3
+ADDYAG_Ilybius_ater: 2
+N21: 3
+ADDYAG_Ilybius_aenescens: 5
+ADDYAG_Ilybius_fuliginosus: 2
+N23: 3
+ADDYAG_Platambus_sp: 7
+N24: 2
+N25: 6
+ADDYCO_Colymbetes_striatus: 4
+N28: 3
+ADDYAG_Agabus_conspersus: 2
+ADDYAG_Agabus_biguttatus: 3
+N30: 1
+ADDYAG_Agabus_confinis: 2
+ADDYAG_Agabus_sturmii: 1
+ADDYAG_Agabus_ramblae: 1
+N31: 5
+ADDYHY_Stictotarsus_griseostriatus: 8
+ADDYHY_Hydroporus_sp: 10
+ADDYHY_Hydrovatus_sp: 14
+Total number of loss events: 196
+#+++++++++++++++++++++++++++++
+
+#Nodes with duplication events with expectation above 0.5
+Total number of duplication events: 0
+#+++++++++++++++++++++++++++++
+
+#Nodes with demi-duplication events with expectation above 0.5
+Total number of demi-dulications events: 0
+#+++++++++++++++++++++++++++++
+
+#EVENTS NOT ACCOUNTED FOR IN THE SIMULATIONS: 
+NONE
+#+++++++++++++++++++++++++++++
+
+#ALL EVENTS EXPECTATIONS PER NODE
+NODE	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+N2	0	0	0	0
+N3	0	0	0	0
+N4	0	4	0	0
+ADDYDY_Cybister_sugillatus	0	6	0	0
+N5	0	1	0	0
+N6	0	3	0	0
+ADDYDY_Cybister_lateralimarginalis	0	6	0	0
+ADDYDY_Cybister_japonicus	0	5	0	0
+ADDYDY_Cybister_tripunctatus	0	2	0	0
+N7	0	0	0	0
+N8	0	5	0	0
+ADDYDY_Eretes_sticticus	0	10	0	0
+N9	0	3	0	0
+N10	0	2	0	0
+ADDYDY_Dytiscus_marginalis_M	0	3	0	0
+ADDYDY_Dytiscus_circumcinctus	0	4	0	0
+ADDYDY_Dytiscus_dauricus	0	6	0	0
+N11	0	0	0	0
+N12	0	0	0	0
+N13	0	3	0	0
+N14	0	3	0	0
+ADDYAG_Ilybius_erichsoni	0	5	0	0
+ADDYAG_Ilybius_albarracinensis	0	5	0	0
+ADDYAG_Ilybius_chalconatus	0	2	0	0
+N15	0	5	0	0
+N16	0	1	0	0
+ADDYAG_Ilybius_vittiger	0	8	0	0
+ADDYAG_Ilybius_wasastjernae	3	0	0	0
+N17	0	2	0	0
+N18	0	1	0	0
+ADDYAG_Ilybius_subaeneus	0	7	0	0
+N19	0	1	0	0
+N20	0	3	0	0
+ADDYAG_Ilybius_quadriguttatus	0	3	0	0
+ADDYAG_Ilybius_guttiger	0	3	0	0
+ADDYAG_Ilybius_ater	0	2	0	0
+N21	0	3	0	0
+ADDYAG_Ilybius_aenescens	0	5	0	0
+ADDYAG_Ilybius_fuliginosus	0	2	0	0
+N22	0	0	0	0
+N23	0	3	0	0
+ADDYAG_Platambus_sp	0	7	0	0
+N24	0	2	0	0
+ADDYCO_Rhantus_exsoletus	1	0	0	0
+N25	0	6	0	0
+ADDYCO_Colymbetes_paykulli	1	0	0	0
+ADDYCO_Colymbetes_striatus	0	4	0	0
+N26	0	0	0	0
+N27	0	0	0	0
+N28	0	3	0	0
+ADDYAG_Agabus_bipustulatus	2	0	0	0
+ADDYAG_Agabus_conspersus	0	2	0	0
+ADDYAG_Agabus_biguttatus	0	3	0	0
+N29	0	0	0	0
+N30	0	1	0	0
+ADDYAG_Agabus_confinis	0	2	0	0
+ADDYAG_Agabus_sturmii	0	1	0	0
+ADDYAG_Agabus_ramblae	0	1	0	0
+N31	0	5	0	0
+N32	0	0	0	0
+ADDYHY_Nebrioporus_lanceolatus_M	1	0	0	0
+ADDYHY_Stictotarsus_griseostriatus	0	8	0	0
+ADDYHY_Hydroporus_sp	0	10	0	0
+ADDYHY_Hydrovatus_sp	0	14	0	0
+#+++++++++++++++++++++++++++++
+
+#Expected number of events from root to leaf
+LEAF	GAIN	LOSS	DUPLICATION	DEMI-DUPLICATION
+ADDYDY_Cybister_sugillatus	0	10	0	0
+ADDYDY_Cybister_lateralimarginalis	0	14	0	0
+ADDYDY_Cybister_japonicus	0	13	0	0
+ADDYDY_Cybister_tripunctatus	0	7	0	0
+ADDYDY_Eretes_sticticus	0	15	0	0
+ADDYDY_Dytiscus_marginalis_M	0	13	0	0
+ADDYDY_Dytiscus_circumcinctus	0	14	0	0
+ADDYDY_Dytiscus_dauricus	0	14	0	0
+ADDYAG_Ilybius_erichsoni	0	11	0	0
+ADDYAG_Ilybius_albarracinensis	0	11	0	0
+ADDYAG_Ilybius_chalconatus	0	5	0	0
+ADDYAG_Ilybius_vittiger	0	14	0	0
+ADDYAG_Ilybius_wasastjernae	3	6	0	0
+ADDYAG_Ilybius_subaeneus	0	15	0	0
+ADDYAG_Ilybius_quadriguttatus	0	15	0	0
+ADDYAG_Ilybius_guttiger	0	15	0	0
+ADDYAG_Ilybius_ater	0	11	0	0
+ADDYAG_Ilybius_aenescens	0	15	0	0
+ADDYAG_Ilybius_fuliginosus	0	12	0	0
+ADDYAG_Platambus_sp	0	10	0	0
+ADDYCO_Rhantus_exsoletus	1	5	0	0
+ADDYCO_Colymbetes_paykulli	1	11	0	0
+ADDYCO_Colymbetes_striatus	0	15	0	0
+ADDYAG_Agabus_bipustulatus	2	3	0	0
+ADDYAG_Agabus_conspersus	0	5	0	0
+ADDYAG_Agabus_biguttatus	0	3	0	0
+ADDYAG_Agabus_confinis	0	3	0	0
+ADDYAG_Agabus_sturmii	0	2	0	0
+ADDYAG_Agabus_ramblae	0	1	0	0
+ADDYHY_Nebrioporus_lanceolatus_M	1	5	0	0
+ADDYHY_Stictotarsus_griseostriatus	0	13	0	0
+ADDYHY_Hydroporus_sp	0	15	0	0
+ADDYHY_Hydrovatus_sp	0	14	0	0
