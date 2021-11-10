@@ -69,9 +69,6 @@ polyphagainterval <- ggplot(hpd_polyphaga_long, aes(x = value, y = Genus)) +
   geom_point(aes(color = Genus, shape = name)) +
   facet_wrap(facets = hpd_polyphaga_long$name)
 
-polyphagainterval
-
-
 hpd_adephaga <- adephaga %>%
   group_by_(.dots=c("Genus", "name")) %>%
   do(data.frame(HPDinterval(as.mcmc(.$value))))
@@ -83,7 +80,15 @@ adephagainterval <- ggplot(hpd_adephaga_long, aes(x = value, y = Genus)) +
   geom_point(aes(color = Genus)) +
   facet_wrap(facets = hpd_adephaga_long$name)
 
-adephagainterval
+hpd_all <- dat %>%
+  group_by_(.dots=c("Genus", "name")) %>%
+  do(data.frame(HPDinterval(as.mcmc(.$value))))
+hpd_all_long <- hpd_all %>%
+  pivot_longer(c("lower", "upper"), names_to = "interval")
 
+allinterval <- ggplot(hpd_all_long, aes(x = value, y = Genus)) +
+  geom_line(aes(color = Genus)) +
+  geom_point(aes(color = Genus)) +
+  facet_wrap(facets = hpd_all_long$name)
 
-  
+allinterval 
