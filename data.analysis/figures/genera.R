@@ -1,8 +1,8 @@
 #attached libraries
-#library(ggplot2)
-#library(ggridges)
-
-dat <- read.csv("../data/genera.chromeplus.csv", row.names = 1)
+library(ggplot2)
+library(ggridges)
+library(dplyr)
+dat <- read.csv("../results/genera.chromeplus.csv", row.names = 1)
 genera <- unique(dat$Genus)
 dat$suborder[dat$Genus %in% genera[c(3,5,6,7,9,10,12)]] <- "Polyphaga"
 dat$suborder[dat$Genus %in% genera[c(1,2,4,8,11)]] <- "Adephaga"
