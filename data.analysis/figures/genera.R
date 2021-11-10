@@ -55,7 +55,35 @@ densityfigure <- ggplot(polyphaga, aes(x = value, y = Genus)) +
 densityfigure
 
 
-# TODO example of calcing HPD interval
+##Calculate HPD intervals for asc, desc, and pol for each genus
 
-foo <- dat$value[dat$Genus=="Bembidion" & dat$name == "asc1"]
-HPDinterval(as.mcmc(foo))[1,]
+hpd_polyphaga <- polyphaga %>%
+  group_by_(.dots=c("Genus", "name")) %>%
+  do(data.frame(HPDinterval(as.mcmc(.$value))))
+
+hpd_polyphaga_long <- hpd_polyphaga %>%
+  pivot_longer(c("lower", "upper"), names_to = "interval")
+
+polyphagainterval <- ggplot(hpd_polyphaga_long, aes(x = value, y = Genus)) +
+  geom_line(aes(color = Genus)) +
+  geom_point(aes(color = Genus, shape = name)) +
+  facet_wrap(facets = hpd_polyphaga_long$name)
+
+polyphagainterval
+
+
+hpd_adephaga <- adephaga %>%
+  group_by_(.dots=c("Genus", "name")) %>%
+  do(data.frame(HPDinterval(as.mcmc(.$value))))
+hpd_adephaga_long <- hpd_adephaga %>%
+  pivot_longer(c("lower", "upper"), names_to = "interval")
+
+adephagainterval <- ggplot(hpd_adephaga_long, aes(x = value, y = Genus)) +
+  geom_line(aes(color = Genus)) +
+  geom_point(aes(color = Genus)) +
+  facet_wrap(facets = hpd_adephaga_long$name)
+
+adephagainterval
+
+
+  
