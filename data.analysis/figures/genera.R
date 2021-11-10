@@ -2,6 +2,8 @@
 library(ggplot2)
 library(ggridges)
 library(dplyr)
+library(coda)
+
 dat <- read.csv("../results/genera.chromeplus.csv", row.names = 1)
 genera <- unique(dat$Genus)
 dat$suborder[dat$Genus %in% genera[c(3,5,6,7,9,10,12)]] <- "Polyphaga"
@@ -53,3 +55,7 @@ densityfigure <- ggplot(polyphaga, aes(x = value, y = Genus)) +
 densityfigure
 
 
+# TODO example of calcing HPD interval
+
+foo <- dat$value[dat$Genus=="Bembidion" & dat$name == "asc1"]
+HPDinterval(as.mcmc(foo))[1,]
