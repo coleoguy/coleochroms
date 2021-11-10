@@ -3,6 +3,7 @@ library(ggplot2)
 library(ggridges)
 library(dplyr)
 library(coda)
+library(tidyr)
 
 dat <- read.csv("../results/genera.chromeplus.csv", row.names = 1)
 genera <- unique(dat$Genus)
@@ -58,37 +59,37 @@ densityfigure
 ##Calculate HPD intervals for asc, desc, and pol for each genus
 
 hpd_polyphaga <- polyphaga %>%
-  group_by_(.dots=c("Genus", "name")) %>%
+  group_by_(.dots=c("Genus", "name", "indexgroup")) %>%
   do(data.frame(HPDinterval(as.mcmc(.$value))))
 
 hpd_polyphaga_long <- hpd_polyphaga %>%
   pivot_longer(c("lower", "upper"), names_to = "interval")
 
 polyphagainterval <- ggplot(hpd_polyphaga_long, aes(x = value, y = Genus)) +
-  geom_line(aes(color = Genus)) +
-  geom_point(aes(color = Genus, shape = name)) +
+  geom_line(aes(color = indexgroup)) +
+  geom_point(aes(color = indexgroup)) +
   facet_wrap(facets = hpd_polyphaga_long$name)
 
 hpd_adephaga <- adephaga %>%
-  group_by_(.dots=c("Genus", "name")) %>%
+  group_by_(.dots=c("Genus", "name", "indexgroup")) %>%
   do(data.frame(HPDinterval(as.mcmc(.$value))))
 hpd_adephaga_long <- hpd_adephaga %>%
   pivot_longer(c("lower", "upper"), names_to = "interval")
 
 adephagainterval <- ggplot(hpd_adephaga_long, aes(x = value, y = Genus)) +
-  geom_line(aes(color = Genus)) +
-  geom_point(aes(color = Genus)) +
+  geom_line(aes(color = indexgroup)) +
+  geom_point(aes(color = indexgroup)) +
   facet_wrap(facets = hpd_adephaga_long$name)
 
 hpd_all <- dat %>%
-  group_by_(.dots=c("Genus", "name")) %>%
+  group_by_(.dots=c("Genus", "name", "indexgroup")) %>%
   do(data.frame(HPDinterval(as.mcmc(.$value))))
 hpd_all_long <- hpd_all %>%
   pivot_longer(c("lower", "upper"), names_to = "interval")
 
 allinterval <- ggplot(hpd_all_long, aes(x = value, y = Genus)) +
-  geom_line(aes(color = Genus)) +
-  geom_point(aes(color = Genus)) +
+  geom_line(aes(color = indexgroup)) +
+  geom_point(aes(color = indexgroup)) +
   facet_wrap(facets = hpd_all_long$name)
 
 allinterval 
