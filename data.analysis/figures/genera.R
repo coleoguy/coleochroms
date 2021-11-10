@@ -45,17 +45,11 @@ boxplotfigure <- ggplot(polyphaga) +
 boxplotfigure
 
 #density
+# TODO where is geom_density_ridges() from can't find it
 densityfigure <- ggplot(polyphaga, aes(x = value, y = Genus)) +
   geom_density_ridges(aes(fill = name)) +
   xlim(0,0.06)
 
 densityfigure
 
-
-boxplot(dat$rate[dat$suborder=="Polyphaga"]~dat$genus[dat$suborder=="Polyphaga"])
-for(i in 1:12){
-  x <- mean(dat$rate[dat$genus==genera[i] & dat$type=="wgd"])
-  print(paste(genera[i],x))
-}
-genera
 
