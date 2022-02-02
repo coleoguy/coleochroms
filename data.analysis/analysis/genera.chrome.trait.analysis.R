@@ -18,7 +18,7 @@ for(j in 1:length(taxa)){
   chrom <- ceiling(as.numeric(data[,2])/2)
   names(chrom) <- data[,1]
   print(taxa[j])
-  Ntrees <- 100
+  Ntrees <- 1
   x <- foreach (i = 1:Ntrees) %dopar% {
     tree <- read.tree(paste("../data/genus.data.trees/", taxa[j], "/", taxa[j],
                             i, ".tree", sep=""))
@@ -74,5 +74,4 @@ final.results <- results %>%
   pivot_longer(., cols = 3:5)
 
 write.csv(final.results, "../data/genera.chromeplus.csv")
-library(ggraptR)
-ggraptR(foo)
+
