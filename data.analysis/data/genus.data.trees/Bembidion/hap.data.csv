@@ -1,4 +1,3 @@
-Data,
 species,chrom.num
 ADCATR_Bembidion_aenulum,11
 ADCATR_Bembidion_americanum,11
@@ -15,7 +14,7 @@ ADCATR_Bembidion_confusum,11
 ADCATR_Bembidion_coxendix,11
 ADCATR_Bembidion_decorum,11
 ADCATR_Bembidion_honestum,11
-AD+B18CATR_Bembidion_inaequale,10
+ADCATR_Bembidion_inaequale,10
 ADCATR_Bembidion_insulatum,11
 ADCATR_Bembidion_integrum,11
 ADCATR_Bembidion_lampros,11
