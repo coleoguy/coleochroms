@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Pimelia.14.3
-_dataFile simmed.data/Pimelia.14.3.txt
-_treeFile Pimelia/Pimelia14.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

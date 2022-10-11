@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Bembidion.19.1
-_dataFile simmed.data/Bembidion.19.1.txt
-_treeFile Bembidion/Bembidion19.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

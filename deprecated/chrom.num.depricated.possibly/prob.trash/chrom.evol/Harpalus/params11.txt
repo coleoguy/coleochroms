@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir result11
-_dataFile Harpalus.txt
-_treeFile Harpalus11.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

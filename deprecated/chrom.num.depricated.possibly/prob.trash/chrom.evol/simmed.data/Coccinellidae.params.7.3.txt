@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Coccinellidae.7.3
-_dataFile simmed.data/Coccinellidae.7.3.txt
-_treeFile Coccinellidae/Coccinellidae7.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

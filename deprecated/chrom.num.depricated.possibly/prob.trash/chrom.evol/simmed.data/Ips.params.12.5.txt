@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Ips.12.5
-_dataFile simmed.data/Ips.12.5.txt
-_treeFile Ips/Ips12.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

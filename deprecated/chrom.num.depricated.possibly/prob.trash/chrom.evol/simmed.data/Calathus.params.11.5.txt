@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Calathus.11.5
-_dataFile simmed.data/Calathus.11.5.txt
-_treeFile Calathus/Calathus11.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

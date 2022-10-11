@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Pterostichus.8.1
-_dataFile simmed.data/Pterostichus.8.1.txt
-_treeFile Pterostichus/Pterostichus8.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

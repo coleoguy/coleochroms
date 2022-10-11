@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir result8
-_dataFile Calathus.txt
-_treeFile Calathus8.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

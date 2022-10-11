@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Dytiscidae.18.4
-_dataFile simmed.data/Dytiscidae.18.4.txt
-_treeFile Dytiscidae/Dytiscidae18.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

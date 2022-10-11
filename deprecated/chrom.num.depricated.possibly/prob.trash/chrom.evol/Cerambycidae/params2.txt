@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir result2
-_dataFile Cerambycidae.txt
-_treeFile Cerambycidae2.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir result7
-_dataFile Carabus.txt
-_treeFile Carabus7.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1

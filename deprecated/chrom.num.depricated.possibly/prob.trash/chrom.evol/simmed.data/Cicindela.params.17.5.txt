@@ -1,9 +1,0 @@
-_mainType Optimize_Model
-_outDir simmed.data/results/Cicindela.17.5
-_dataFile simmed.data/Cicindela.17.5.txt
-_treeFile Cicindela/Cicindela17.tree
-_maxChrNum -1
-_minChrNum -1
-_simulationsNum 0
-_gainConstR = 1
-_lossConstR = 1
