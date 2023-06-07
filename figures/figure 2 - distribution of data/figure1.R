@@ -20,16 +20,16 @@ library(phytools)
 library(viridis)
 
 #read in coleo chrom number data
-coleo <- read.csv("coleo_chrom.csv", h=T, sep = ",")
+coleo <- read.csv("../data/coleo_chrom.csv", h=T, sep = ",")
 
 #read in tree edited from mesquite
-coleotree <- read.tree(file = "coleo_mesquiteedits.phy")
+coleotree <- read.tree(file = "../data/coleo_mesquiteedits.phy")
 #we are using the first tree in coleotree multiphylo object because it has more
 #Adephaga species
 coleotree <- coleotree[[1]]
 
 #read in name index data
-nameindex <- read.csv("nameindex.csv", h=T, sep = ",")
+nameindex <- read.csv("../data/nameindex.csv", h=T, sep = ",")
 
 #######
 ####Clean Data
