@@ -20,7 +20,7 @@ ggtheme <- theme_bw() + theme(panel.grid.major = element_blank(),
 
 # This reads in the data without polyploidy
 
-dat <- read.csv("../../analyses/results/wingless.wopoly.deltaR.csv")
+dat <- read.csv("../results/wingless.wopoly.deltaR.csv")
 dat <- dat[dat$type %in% c("fission","fusion"),]
 hpd1 <- data.frame(X = c(HPDinterval(as.mcmc(dat$rate[dat$type=="fission"]))[1,],
                          HPDinterval(as.mcmc(dat$rate[dat$type=="fusion"]))[1,]),
@@ -28,7 +28,7 @@ hpd1 <- data.frame(X = c(HPDinterval(as.mcmc(dat$rate[dat$type=="fission"]))[1,]
                    types = rep(c("fission", "fusion"), each = 2))
 
 # This reads in the data with polyploidy
-dat2 <- read.csv("../../analyses/results/wingless.wpoly.deltaR.csv")
+dat2 <- read.csv("../results/wingless.wpoly.deltaR.csv")
 dat2 <- dat2[dat2$type %in% c("fission","fusion", "wgd"),]
 hpd2 <- data.frame(X = c(HPDinterval(as.mcmc(dat2$rate[dat2$type=="fission"]))[1,],
                          HPDinterval(as.mcmc(dat2$rate[dat2$type=="fusion"]))[1,],

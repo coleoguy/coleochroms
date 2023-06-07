@@ -1,7 +1,7 @@
 library(viridis)
 library(coda)
 
-load("../../../data.analysis/results/genera.wopoly.RData")
+load("../results/genera.wopoly.RData")
 
 pruned.results <- results[c(7, 10, 9, 6, 12, 3, 5,
                                    1, 8, 4, 11, 2)]

@@ -1,2 +1,4 @@
-# chrom.num
-This repo contains all info for a project analyzing the rate of chromosome number evolution across coleoptera.
+Each script in this repository correspond to the following described analyses that are included in the manucript.
+
+ 
+
