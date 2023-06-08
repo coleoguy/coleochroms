@@ -58,4 +58,4 @@ for(j in 1:length(taxa)){
 }
 names(results) <- taxa
 
-save(results, file="genera.wopoly.RData")
+save(results, file="../results/genera.wopoly.RData")

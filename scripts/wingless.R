@@ -109,8 +109,8 @@ bar <- data.frame(
     rep("delta.mean.rate", 10000)))
 
 colnames(bar) <- c("rate", "type")
-write.csv(post.sample, file="wingless.wpoly.full.csv")
-write.csv(bar, "wingless.wpoly.chromeplus.csv", row.names = F)
+write.csv(post.sample, file="../results/wingless.wpoly.full.csv")
+write.csv(bar, "../results/wingless.wpoly.chromeplus.csv", row.names = F)
 
 
 
@@ -165,7 +165,7 @@ for (i in 2:length(trees)) {
                        x[[i]][101:200, 2:6] / scaler[i])
 }
 # save our results state 1 wings present
-write.csv(post.sample, file="wingless.wopoly.full.csv")
+write.csv(post.sample, file="../results/wingless.wopoly.full.csv")
 
 bar <- data.frame(
   c(
@@ -182,5 +182,5 @@ bar <- data.frame(
 
 colnames(bar) <- c("rate", "type")
 
-write.csv(bar, "wingless.wopoly.chromeplus.csv", row.names = F)
+write.csv(bar, "../results/wingless.wopoly.chromeplus.csv", row.names = F)
 

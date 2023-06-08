@@ -2,12 +2,12 @@ library(viridis)
 library(coda)
 library(ape)
 
-load("../../../data.analysis/results/genera.wopoly.RData")
+load("../results/genera.wopoly.RData")
 
 results.wopoly <- results[c(7, 10, 9, 6, 12, 3, 5,
                             1, 8, 4, 11, 2)]
 
-load("../../../data.analysis/results/genera.wpoly.RData")
+load("../results/genera.wpoly.RData")
 
 pruned.results <- list()
 for(i in 1:12){
@@ -29,7 +29,7 @@ results.wpoly <- pruned.results[c(7, 10, 9, 3, 6, 12, 5,
 rm(foo,pruned.results,result,results, i, j)
 nes <- c(1,2,2,3,3,3,3,1,1,1,2,3)
 
-trees <- read.nexus("../../../data.analysis/data/coleo.trees.nexus")
+trees <- read.nexus("../data/coleo.trees.nexus")
 tipstokeep <- c("POTEPI_Pimelia_elevata", "POCUSC_Ips_paraconfusus",
                 "POCUSC_Dendroctonus_ponderosae","POCHGA_Diabrotica_balteata",
                 "POCHCH_Timarcha_intricata", "POCHCH_Cyrtonus_contractus",
